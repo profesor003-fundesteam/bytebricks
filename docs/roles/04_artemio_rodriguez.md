@@ -33,13 +33,17 @@ Reglas del proyecto:
 
 ## Tus tareas, en orden
 
-### 1. Elegir la API de IA (jueves 26)
+### 1. Confirmar la API de IA (jueves 26)
 
-Compara dos o tres opciones: costo, capa gratuita o crédito para estudiantes, límites, facilidad con Python y calidad en español. Revisa los precios y límites hoy, porque cambian. Anota la decisión en `docs/decision_api_ia.md` (cuál elegiste, cuánto cuesta, quién lo paga y qué haces si falla). Habla con el grupo antes de gastar dinero.
+El profe sugirió la API de Gemini de Google, pero aclaró que podemos usar cualquier API siempre que sea gratuita. Por ahora Gemini es la principal; lee `docs/decision_api_ia.md`, que ya tiene la comparación con Groq, OpenRouter y Mistral.
+1. Crea una clave gratuita en Google AI Studio y revisa en la consola los límites reales de tu proyecto, porque cambian y las cifras del documento salen de blogs.
+2. Prueba un informe corto con Gemini y revisa si el español sale claro y sencillo.
+3. Prueba el mismo informe con Groq como respaldo.
+4. Anota en `docs/decision_api_ia.md` el modelo elegido, los límites confirmados y qué se hace si falla. Habla con el grupo antes de cambiar de proveedor. Nunca uses un servicio de pago sin avisar.
 
 ### 2. Claves y seguridad (jueves 26)
 
-La clave va en un archivo `.env`, que no se sube nunca (ya está en `.gitignore`). Crea un `.env.example` sin la clave para que los demás sepan qué variable poner. Antes de tu primer commit, revisa con `git status` que `.env` no aparezca. Solo se envían a la API datos agregados, nunca información personal.
+La clave va en un archivo `.env`, que no se sube nunca (ya está en `.gitignore`). Usa tres variables: `IA_PROVEEDOR`, `IA_MODELO` e `IA_API_KEY`. Crea un `.env.example` sin la clave para que los demás sepan qué poner. No escribas el nombre de un modelo fijo en el código: los modelos gratuitos cambian, y se toman de la consola el día que se usen. Antes de tu primer commit, revisa con `git status` que `.env` no aparezca. Solo se envían a la API datos agregados, nunca información personal.
 
 ### 3. Informe por provincia (jueves 26 al sábado 28)
 
@@ -49,7 +53,9 @@ Crea `src/ia.py` con estas funciones:
 - `verificar_cifras`: revisa que cada número que aparece en el texto de la IA esté en el resumen. Si hay uno que no está, rechaza el texto.
 - `informe_plantilla`: arma el mismo informe con una plantilla, sin IA. Se usa si no hay clave, no hay internet o la verificación falla, para que la demostración nunca se caiga.
 
-Terminado cuando: el informe sale para cualquier provincia, un número inventado se rechaza, y sin clave igual se muestra el informe con plantilla.
+Diseña `src/ia.py` para que el proveedor se pueda cambiar (Gemini, Groq u otro) sin tocar el resto del código. Genera y verifica con anticipación el informe de cada provincia y guárdalos en `data/processed/informes_provincia.json`, así la demostración no depende de los límites ni de la conexión.
+
+Terminado cuando: el informe sale para cualquier provincia, un número inventado se rechaza, sin clave igual se muestra el informe con plantilla, y los informes precalculados están guardados.
 
 ### 4. Chat con los datos (domingo 29 al martes 1 de diciembre)
 
@@ -73,7 +79,7 @@ Dirige dos ensayos con cronómetro. Agrega una ronda de preguntas difíciles, de
 
 ## Primer paso hoy
 
-Clonar el repositorio y empezar el punto 1: comparar las APIs y avisar al grupo cuál propones.
+Clonar el repositorio, leer `docs/decision_api_ia.md` y empezar el punto 1: crear la clave gratuita de Google AI Studio y revisar los límites reales.
 
 ## Cómo subir tu trabajo (Git)
 

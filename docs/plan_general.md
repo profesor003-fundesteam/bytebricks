@@ -172,7 +172,7 @@ Por avisar o confirmar con el profe (él no tiene que aprobar el plan, solo sabe
 - Si el dashboard se presenta corriendo en vivo o publicado.
 
 Decisiones del equipo:
-- Qué API de IA usar y cómo cubrir su costo (la API fue pedida por el profe). Lo investiga Artemio.
+- API de IA: por ahora Gemini de Google, que sugirió el profe, aunque podemos usar cualquier API gratuita. Artemio confirma los límites reales y prueba Groq como respaldo. Detalle en `docs/decision_api_ia.md`.
 - Si un dato no está publicado, usar una estimación citando la fuente o aplicar el plan B de la sección 6.
 - Qué serie de población usar (censo o una proyección) y cómo explicar las diferencias entre ellas.
 - Si la tasa por vehículo se muestra con advertencia o se descarta.
@@ -187,7 +187,7 @@ Decisiones del equipo:
 - Los PDF del INEC hay que pasarlos a CSV y puede haber errores de lectura: se verifican contra los totales publicados.
 - La IA puede inventar cifras: regla de oro, pandas calcula y la IA explica.
 - Alguien puede no entregar su parte: revisión del avance a mitad de camino, el 29 de noviembre.
-- La API de IA puede tener costo o límite: se prueba pronto, y si no se puede, la parte de IA se reduce al informe por provincia con plantilla.
+- La API de IA gratuita puede tener límites o fallar: los informes por provincia se generan con anticipación y se guardan, existe un informe con plantilla sin IA, y el proveedor se puede cambiar sin tocar el resto del código.
 
 ## 12. Estructura del repositorio
 
