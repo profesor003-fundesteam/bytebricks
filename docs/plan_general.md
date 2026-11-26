@@ -145,7 +145,7 @@ Al terminar un avance, actualizas tu rama con `main`, pruebas y subes la rama:
     pytest
     git push -u origin feat/tasas
 
-Luego abres el PR (`gh pr create --fill` o el botón de GitHub), esperas el CI en verde y, con la revisión de Marian, lo unes con "Squash and merge". Después borras la rama y vuelves a `main` con `git switch main` y `git pull --rebase origin main`.
+Luego abres el PR (`gh pr create --fill` o el botón de GitHub), esperas el CI en verde y, con la revisión de Marian, lo unes con "Squash and merge". GitHub borra solo la rama remota al unir el PR (`.github/workflows/borrar-rama.yml`). Tú vuelves a `main` con `git switch main` y `git pull --rebase origin main`, y borras la rama local con `git branch -d feat/tasas`.
 
 Prefijos de los mensajes y de las ramas: `feat` (algo nuevo), `fix` (un arreglo), `data` (datos), `docs` (documentación), `test` (pruebas) y `chore` (orden y configuración).
 
@@ -159,7 +159,7 @@ Reglas:
 - No subir datos personales (por ejemplo, cédulas) al repositorio, que es público.
 - Subir tu trabajo seguido: la rúbrica de gestión mira que la carga esté repartida y que se note en el historial de cada quien.
 - Si GitHub rechaza el push por permisos, avisa a Marian para revisarlo con el profe.
-- Pendiente con el profe: que active la protección de la rama `main` (exigir PR y el chequeo `pytest`). Mientras tanto, la regla de no subir directo a `main` es un acuerdo del equipo.
+- Pendiente con el profe: que active la protección de la rama `main` (exigir PR y el chequeo `pytest`) y la opción "Automatically delete head branches". Mientras tanto, la regla de no subir directo a `main` es un acuerdo del equipo y el borrado de ramas lo hace un workflow.
 
 ## 9. Valores UNESCO
 

@@ -102,9 +102,10 @@ Para subir, actualiza tu rama con `main`, prueba en local y sube la rama:
     pytest
     git push -u origin feat/tu-tarea
 
-Abre el PR con `gh pr create --fill` o con el botón "Compare & pull request" de GitHub. Espera el CI en verde. Si falla, mira el error en la pestaña Checks, arréglalo en la misma rama y vuelve a subir: el PR se actualiza solo. Cuando el CI esté en verde y Marian lo haya revisado, se une con "Squash and merge" (queda un solo commit por PR, a nombre de quien lo escribió). Después borra la rama y vuelve a `main`:
+Abre el PR con `gh pr create --fill` o con el botón "Compare & pull request" de GitHub. Espera el CI en verde. Si falla, mira el error en la pestaña Checks, arréglalo en la misma rama y vuelve a subir: el PR se actualiza solo. Cuando el CI esté en verde y Marian lo haya revisado, se une con "Squash and merge" (queda un solo commit por PR, a nombre de quien lo escribió). GitHub borra solo la rama remota al unir el PR (lo hace `.github/workflows/borrar-rama.yml`). Tú vuelve a `main` y borra la rama local:
 
     git switch main
     git pull --rebase origin main
+    git branch -d feat/tu-tarea
 
 Prefijos: `feat`, `fix`, `data`, `docs`, `test` y `chore`. Si aparece un conflicto al hacer `rebase`, no lo resuelvas a ciegas: avisa a Marian. Nunca uses `git push --force` sobre `main`. No subas claves, el entorno virtual, cédulas ni los documentos de Samsung (el CI lo revisa). Sube tu trabajo seguido: la rúbrica mira que la carga esté repartida y que se note en el historial de cada quien.
