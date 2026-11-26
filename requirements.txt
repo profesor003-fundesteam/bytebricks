@@ -1,0 +1,5 @@
+pandas
+matplotlib
+seaborn
+streamlit>=1.50
+pytest
