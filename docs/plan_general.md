@@ -109,13 +109,15 @@ Con el profe nos vemos lunes, miércoles y sábado. El sábado 28 es clase norma
 
 Si algo se atrasa, se recorta alcance antes que fecha. Orden de recorte: primero la lluvia, luego el chat con IA, la estadística avanzada y la tasa por vehículo. Las tasas por habitante, la verificación y el informe por provincia son el mínimo.
 
-## 8. Flujo de trabajo con Git
+## 8. Flujo de trabajo con Git y CI
 
-El repositorio es del profe (`https://github.com/profesor003-fundesteam/bytebricks`) y es el repositorio oficial del Proyecto 1. Cada proyecto tendrá su propio repositorio, así que no hace falta trabajar por ramas ni abrir pull requests: todos trabajamos directo en `main`. Por eso hay tres hábitos que evitan pisarnos.
+El repositorio es del profe (`https://github.com/profesor003-fundesteam/bytebricks`) y es el repositorio oficial del Proyecto 1. Decidimos trabajar con ramas y pull requests (PR), con un CI que corre `pytest` en cada PR, para que nada se una a `main` sin comprobar que todo funciona junto. Hay tres hábitos que evitan pisarnos.
 
-1. Cada quien edita sobre todo sus propios archivos (los de su plan en `docs/roles/`).
-2. Siempre se actualiza antes de subir.
-3. Los commits son pequeños y frecuentes, con un mensaje claro.
+1. Nadie sube directo a `main`: cada tarea va en su propia rama y entra por un PR.
+2. Cada quien edita sobre todo sus propios archivos (los de su plan en `docs/roles/`).
+3. Los commits son pequeños y frecuentes, con un mensaje claro, y el PR se une solo con el CI en verde.
+
+El CI está en `.github/workflows/ci.yml`. En cada PR y en cada cambio de `main` instala `requirements.txt`, corre `python -m pytest` y revisa que no se hayan subido archivos prohibidos (`.env`, `.venv/`, los documentos de Samsung).
 
 Configuración, una sola vez por persona (con tu propio nombre y correo, para que tus commits cuenten como tuyos):
 
@@ -124,9 +126,11 @@ Configuración, una sola vez por persona (con tu propio nombre y correo, para qu
     git clone https://github.com/profesor003-fundesteam/bytebricks.git
     cd bytebricks
 
-Cada vez que empiezas a trabajar:
+Cada vez que empiezas una tarea, parte de `main` actualizado y crea una rama con prefijo y tema:
 
+    git switch main
     git pull --rebase origin main
+    git switch -c feat/tasas
 
 Mientras trabajas, commits pequeños y con un mensaje en primera persona:
 
@@ -134,23 +138,28 @@ Mientras trabajas, commits pequeños y con un mensaje en primera persona:
     git add src/tasas.py tests/test_tasas.py
     git commit -m "feat: agrego la tasa por 100 mil habitantes"
 
-Al terminar un avance, subes:
+Al terminar un avance, actualizas tu rama con `main`, pruebas y subes la rama:
 
-    git pull --rebase origin main
-    git push origin main
+    git fetch origin
+    git rebase origin/main
+    pytest
+    git push -u origin feat/tasas
 
-Prefijos de los mensajes: `feat` (algo nuevo), `fix` (un arreglo), `data` (datos), `docs` (documentación), `test` (pruebas) y `chore` (orden y configuración).
+Luego abres el PR (`gh pr create --fill` o el botón de GitHub), esperas el CI en verde y, con la revisión de Marian, lo unes con "Squash and merge". Después borras la rama y vuelves a `main` con `git switch main` y `git pull --rebase origin main`.
 
-Si al hacer `git pull --rebase` aparece un conflicto, no lo resuelvas a ciegas: corre `git status`, abre el archivo marcado, deja la versión correcta, y luego `git add` de ese archivo y `git rebase --continue`. Si no estás seguro, avisa a Marian antes de seguir.
+Prefijos de los mensajes y de las ramas: `feat` (algo nuevo), `fix` (un arreglo), `data` (datos), `docs` (documentación), `test` (pruebas) y `chore` (orden y configuración).
+
+Si al hacer `git rebase` aparece un conflicto, no lo resuelvas a ciegas: corre `git status`, abre el archivo marcado, deja la versión correcta, y luego `git add` de ese archivo y `git rebase --continue`. Si no estás seguro, avisa a Marian antes de seguir.
 
 Reglas:
-- Nunca usar `git push --force`.
+- Nunca usar `git push --force` sobre `main`.
+- Si el CI falla, se arregla en la misma rama antes de unir; no se une en rojo.
 - No subir claves de la API de IA ni el entorno virtual. Las claves van en un archivo `.env` que no se sube (ya está en `.gitignore`).
 - No subir documentos con derechos de Samsung (la plantilla del formulario y su PDF): se trabajan en local.
 - No subir datos personales (por ejemplo, cédulas) al repositorio, que es público.
 - Subir tu trabajo seguido: la rúbrica de gestión mira que la carga esté repartida y que se note en el historial de cada quien.
-- Si quieres probar algo arriesgado, puedes usar una rama temporal y fusionarla cuando funcione, pero no es obligatorio.
 - Si GitHub rechaza el push por permisos, avisa a Marian para revisarlo con el profe.
+- Pendiente con el profe: que active la protección de la rama `main` (exigir PR y el chequeo `pytest`). Mientras tanto, la regla de no subir directo a `main` es un acuerdo del equipo.
 
 ## 9. Valores UNESCO
 
@@ -164,9 +173,10 @@ El profe pidió relacionar el proyecto con al menos un valor de la UNESCO. Usamo
 
 ## 10. Pendientes
 
-Ya resuelto: el profe aprobó lo que tenemos hecho, pidió Streamlit y la API de IA, y confirmó que cada proyecto tiene su propio repositorio y se trabaja sin ramas.
+Ya resuelto: el profe aprobó lo que tenemos hecho, pidió Streamlit y la API de IA, y confirmó que cada proyecto tiene su propio repositorio. Nosotros decidimos trabajar con ramas, PR y CI.
 
 Por avisar o confirmar con el profe (él no tiene que aprobar el plan, solo saber por dónde vamos):
+- Que active la protección de la rama `main` del repositorio (exigir PR y el chequeo `pytest`), porque Marian no tiene permisos de administración.
 - Que el marco de la UNESCO sea la Recomendación sobre la Ética de la IA.
 - Hora y formato exactos de la presentación del sábado 5 de diciembre.
 - Si el dashboard se presenta corriendo en vivo o publicado.
