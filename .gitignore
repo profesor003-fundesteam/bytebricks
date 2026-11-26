@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 .env
 .pytest_cache/
+
+# Documentos con derechos de Samsung (se trabajan solo en local)
+PlantillaDocumentosSIC.md
+PlantillaDocumentosSIC*.pdf
+Formulario*.pdf
