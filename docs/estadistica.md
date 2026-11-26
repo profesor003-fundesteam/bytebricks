@@ -22,6 +22,53 @@ Para Mauro: estas funciones están en `src/estadistica.py` y devuelven tablas o 
 
 **`correlacion_lluvia_accidentes(mes, lluvia, excluir_anios=(2020,))`** devuelve provincia, correlacion y meses. **`resumen_correlacion_lluvia(tabla)`** devuelve correlacion_media, provincias_positivas, provincias_negativas, provincia_mayor e interpretacion.
 
+## Ejemplo de uso en una pestaña
+
+El patrón es siempre el mismo: cargar con `st.cache_data`, llamar la función, mostrar la tabla o la gráfica y poner debajo la frase de `interpretacion`.
+
+```python
+import streamlit as st
+from src import datos, estadistica
+
+MESES = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
+CON_TILDE = {"Panama": "Panamá", "Panama Oeste": "Panamá Oeste", "Cocle": "Coclé", "Colon": "Colón",
+             "Chiriqui": "Chiriquí", "Darien": "Darién", "Embera": "Emberá", "Ngabe Bugle": "Ngäbe-Buglé"}
+
+
+@st.cache_data
+def cargar():
+    return datos.cargar_accidentes_mes(), datos.cargar_accidentes_clase(), datos.cargar_lluvia()
+
+
+mes, clase, lluvia = cargar()
+
+# Estacionalidad
+idx = estadistica.indice_estacional(mes)
+if idx.empty:
+    st.info("No hay datos mensuales para calcular la estacionalidad.")
+else:
+    idx["mes"] = idx["mes"].map(lambda m: MESES[m - 1])
+    st.bar_chart(idx, x="mes", y="indice")
+
+# Tipo de accidente por provincia
+chi = estadistica.chi_cuadrado_clase_provincia(clase)
+st.write(chi["interpretacion"])
+mayor = chi["mayor_diferencia"]
+st.caption(f"Mayor diferencia: {mayor['clase']} en {CON_TILDE.get(mayor['provincia'], mayor['provincia'])}")
+
+# Lluvia (exploratorio)
+resumen = estadistica.resumen_correlacion_lluvia(estadistica.correlacion_lluvia_accidentes(mes, lluvia))
+st.write(resumen["interpretacion"])
+```
+
+## Detalles que conviene saber
+
+- **Los meses son números del 1 al 12**, no nombres. Para las gráficas hay que convertirlos, como en el ejemplo.
+- **Los nombres de provincia vienen sin tilde** (`Panama`, `Cocle`, `Colon`, `Chiriqui`, `Darien`, `Embera`, `Ngabe Bugle`). El diccionario `CON_TILDE` del ejemplo los arregla para mostrarlos en pantalla.
+- **`mayor_diferencia` y `provincia_mayor` son diccionarios**, no texto. El primero trae `provincia`, `clase` y `residuo`; el segundo, `provincia` y `correlacion`. Hay que armar la frase con esos campos.
+- **Con datos vacíos o una medida que no existe, las funciones devuelven una tabla vacía** en lugar de fallar. Revisa `.empty` y muestra un mensaje claro.
+- **Todos los resultados se pueden guardar con `st.cache_data`.**
+
 ## Qué dicen los datos (2016-2025, sin 2020 donde se indica)
 
 - Los meses con más accidentes son diciembre (índice 1,128) y octubre (1,078); los de menos son febrero (0,883) y enero (0,891).
