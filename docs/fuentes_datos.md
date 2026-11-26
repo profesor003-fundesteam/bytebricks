@@ -1,6 +1,6 @@
 # Registro de fuentes de datos
 
-Una entrada por dataset, con su estado. Verificación hecha el 23 de noviembre de 2026: los archivos del INEC se descargaron y se leyeron. Estados: confirmado, parcial o no confirmado. La fecha de descarga definitiva y la licencia se completan cuando el archivo entre a `data/raw/` o `data/external/`.
+Una entrada por dataset, con su estado. Verificación hecha entre el 23 y el 26 de noviembre de 2026: los archivos del INEC se descargaron y se leyeron. Estados: confirmado, parcial o no confirmado. La fecha de descarga definitiva y la licencia se completan cuando el archivo entre a `data/raw/` o `data/external/`.
 
 ## 1. Accidentes por provincia y año, 2016-2025 (confirmado, ya en el proyecto)
 
@@ -39,24 +39,32 @@ Una entrada por dataset, con su estado. Verificación hecha el 23 de noviembre d
 - Sesgo: en 2024 Panamá Oeste aparece con 43 379 vehículos (64,9 por 1 000 habitantes) contra 712 556 de Panamá (411,5), y Darién con 91. Probablemente muchos vehículos se registran en otra provincia (hipótesis, no comprobada). Por eso la tasa por vehículo sale distorsionada: Darién 2 044 accidentes por 1 000 vehículos, Panamá Oeste 183 y Panamá 39.
 - Decisión: la tasa por habitante es la principal; la tasa por vehículo se muestra solo como comparación con esta advertencia, o se descarta.
 
-## 4. Lluvia (no confirmado)
+## 4. Lluvia (confirmado, con límites)
 
-- INEC publicó la lluvia mensual por estación y provincia, pero lo encontrado llega hasta 2014:
-  https://www.inec.gob.pa/archivos/P7391121-02.pdf (mensual 2014) y https://www.inec.gob.pa/archivos/P7391121-01.pdf (anual 2005-14).
-- La entidad actual es el Instituto de Meteorología e Hidrología de Panamá (IMHPA), no ETESA. Sus boletines climáticos mensuales son públicos pero en PDF y descriptivos, por ejemplo:
-  https://www.imhpa.gob.pa/uploads/documentos/boletn_de_pronstico_climtico_octubre_2025.pdf
-- Los datos crudos de estaciones se piden por solicitud formal al IMHPA (contacto público: info@imhpa.gob.pa) y los datos certificados se venden. Probablemente no llegan a tiempo para el 5 de diciembre.
-- Alternativa por probar: una fuente satelital o de reanálisis de lluvia mensual gratuita. No se ha verificado cuál ni si se puede promediar por provincia.
-- Decisión: la lluvia es opcional y es lo primero que se recorta.
+- Archivo: `data/external/lluvia_mes_provincia.csv` (anio, mes, provincia, lluvia_mm). 10 provincias por 120 meses, 2016 a 2025. No incluye comarcas por su tamaño.
+- Fuente: NASA POWER, API mensual, variable PRECTOTCORR (precipitación corregida, reanálisis MERRA-2). Entrega milímetros por día y aquí se multiplican por los días del mes. https://power.larc.nasa.gov/
+- Método: promedio simple de 2 o 3 puntos por provincia (cabeceras de distrito, coordenadas aproximadas en `src/lluvia.py`). Se reproduce con `python -m src.lluvia`; los datos crudos quedan en `data/raw/lluvia_nasa_power/`.
+- Verificación, hecha el 26 de noviembre de 2026: se comparó con 8 estaciones del INEC de 2014 (Cuadro 121-02, https://www.inec.gob.pa/archivos/P7391121-02.pdf) usando coordenadas aproximadas. La correlación mensual con la estación va de 0,56 a 0,95 (mediana 0,73; Santiago 0,95, David 0,83, Cerro Punta 0,56). Los totales anuales no cuadran: NASA queda por debajo en Bocas del Toro (2 462 mm contra 3 532), Changuinola, David y Santiago, y por encima en Tocumen y Cerro Punta.
+- Conclusión: sirve para la forma de la temporada seca y lluviosa (promedio nacional: enero 49 mm, abril 173, mayo 305, octubre 350, diciembre 132), no para milímetros exactos. Cualquier correlación con accidentes es exploratoria y debe decirlo.
+- Descartado: ERA5 (Open-Meteo) se probó como control y correlacionó peor en 6 de las 8 estaciones (0,43 a 0,82), así que no se usa.
+- Límites: la celda de NASA mide unos 50 km, así que Herrera y Los Santos comparten celdas y los puntos de una provincia pueden caer en la misma celda. No es lluvia de estación. Los puntos son aproximados.
+- Alternativa que no se usó: datos de estaciones del IMHPA (antes ETESA), que se piden por solicitud formal (contacto público: info@imhpa.gob.pa) y no llegan a tiempo para el 5 de diciembre.
 
-## 5. Accidentes por mes, clase y víctimas (parcial, todo en PDF)
+## 5. Accidentes por mes, clase y víctimas (confirmado, 2016-2025)
 
-- Por mes y clase existe para varios años, pero separa los distritos de Panamá, San Miguelito y Arraiján del resto del país, no por provincia. Ejemplos: 2019 (https://www.inec.gob.pa/archivos/P05334242021012713061702.pdf), 2024 (https://www.inec.gob.pa/archivos/P070554752025092313213002.pdf) y 2025 (https://www.inec.gob.pa/archivos/P070554752026081013114102.xlsx.pdf).
-- Víctimas por provincia y mes: 2023 (https://www.inec.gob.pa/archivos/P057951862025010311243813.pdf) y 2025 (https://www.inec.gob.pa/archivos/P057951862026081013463715.xlsx.pdf).
-- Clase de accidente y víctimas por provincia y comarca: 2022, Cuadro 16 (https://www.inec.gob.pa/archivos/P070554752023110110155716.pdf).
-- Compendio 2024 con serie 2015-24 por provincia: https://www.inec.gob.pa/archivos/P0705547520250923131031COMPENDIO%20BOLETIN%20DE%20ACCIDENTES%20DE%20TRANSITO%20A%C3%91O%202024.pdf
+- Archivos: `data/external/accidentes_mes_provincia.csv` (anio, mes, provincia, valor, medida) y `data/external/accidentes_clase_provincia.csv` (anio, provincia, clase, accidentes). Se regeneran con `python -m src.extraccion_inec`, que necesita `pdftotext` (paquete `poppler-utils`).
+- Fuente: INEC, publicación anual "Accidentes de Tránsito", con datos del Departamento de Operaciones del Tránsito de la Policía Nacional. Lista de años: https://www.inec.gob.pa/publicaciones/Default2.aspx?ID_CATEGORIA=5&ID_SUBCATEGORIA=40. Los nombres de los 20 PDF usados están en `src/extraccion_inec.py`.
+- Mes por provincia: Cuadro 13 (2016 a 2023) y Cuadro 15 (2024 y 2025). Existe para los 10 años. `medida` toma tres valores: accidentes, heridos y muertos. El guion del INEC se registró como 0.
+- Clase por provincia: Cuadro 3 (accidentes por clase, provincia, comarca, distrito y vía). Existe para los 10 años. Solo se toman las filas de provincia y comarca.
+- Verificación, hecha el 26 de noviembre de 2026: los accidentes por provincia y año de los dos CSV coinciden con `data/raw/accidentes_provincia_anio.csv` en los 10 años (0 diferencias). En cada fila las provincias suman el total, y los 12 meses suman la fila anual de cada medida. Los heridos y muertos de 2023 (14 246 y 362) y de 2025 (17 405 y 360) coinciden con el INEC. Todo está en `tests/test_extraccion_inec.py`.
+- Clases: para comparar los 10 años se usan cuatro, Colision, Atropello, Vuelco y Otras. Hasta 2018 el INEC no separaba la colisión con objeto fijo; desde 2019 sí, pero aquí va dentro de Colision para que las series sean comparables. Otras reúne caída de persona o cosa del vehículo, colisión y vuelco, colisión y atropello, y atropello con fuga, colisión o vuelco. Desde 2024 el INEC publica diez clases y se agrupan igual.
+- Comarcas: las tablas mensuales solo traen la columna de Guna Yala desde 2019 y la de Emberá solo en 2020. Donde no hay columna no hay filas, y el total anual de la base para esa comarca es 0, así que no falta nada.
+- Vacío de la fuente: el Cuadro 3 de 2020 no trae Los Santos ni en el PDF ni en el Excel. Esa provincia y año no están en `accidentes_clase_provincia.csv`; el total de 528 accidentes sí está en la base y en la tabla mensual. No se derivó restando.
+- Corrección de la fuente: en el Cuadro 3 de 2017 la fila de Veraguas dice 1 593, pero omite a Soná y Mariato (139 accidentes), que quedaron en la página siguiente. Con ellos suma 1 732, igual que los Cuadros 1 y 13, y las cuatro clases cuadran con la fila TOTAL (56 847). Se sumaron esos dos distritos (ver `CORRECCIONES_CONOCIDAS` en el código).
+- Aclaración sobre el Cuadro 16 de 2022 que figuraba aquí: cuenta víctimas (13 917 = heridos más muertos), no accidentes, y no se usa. Los accidentes por clase salen del Cuadro 3.
+- No se extrajo el Cuadro 2 (mes y clase por distrito) porque separa Panamá, San Miguelito y Arraiján del resto del país, no por provincia.
+- Cifra de 2025: se usa la final (53 132). El avance preliminar de febrero de 2026 decía 52 812.
 - Comentarios anuales: 2025 (https://www.inec.gob.pa/archivos/P053342420260810130702COMENTARIO.pdf) y 2022 (https://www.inec.gob.pa/archivos/P053342420231031123622COMENTARIO.pdf).
-- Estado: falta confirmar qué años tiene cada tabla antes de prometer series largas. Para pasar los PDF a CSV funciona `pdftotext -layout`, que ya se probó con los archivos del INEC.
 
 ## 6. Feriados y fechas especiales (no buscado)
 
