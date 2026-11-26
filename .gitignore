@@ -5,6 +5,10 @@ __pycache__/
 .env
 .pytest_cache/
 
+# Descargas que se regeneran con src/extraccion_inec.py y src/lluvia.py
+data/raw/inec_pdf/
+data/raw/lluvia_nasa_power/
+
 # Documentos con derechos de Samsung (se trabajan solo en local)
 PlantillaDocumentosSIC.md
 PlantillaDocumentosSIC*.pdf
