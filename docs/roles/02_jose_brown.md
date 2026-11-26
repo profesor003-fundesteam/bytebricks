@@ -82,7 +82,7 @@ Clonar el repositorio, abrir el INEC y buscar las proyecciones de población de 
 
 ## Cómo subir tu trabajo (Git)
 
-Trabajamos directo en `main`, sin ramas ni pull requests, porque este repositorio es solo del Proyecto 1. Para no pisarnos, edita sobre todo tus propios archivos y actualiza siempre antes de subir.
+Nadie sube directo a `main`. Cada cambio va en una rama propia y entra por un pull request (PR). El PR corre el CI, una revisión automática que ejecuta `pytest` y confirma que todo funciona junto con lo de los demás. Solo se une cuando el CI sale en verde.
 
 Una sola vez:
 
@@ -94,9 +94,11 @@ Una sola vez:
     source .venv/bin/activate
     pip install -r requirements.txt
 
-Cada vez que empiezas:
+Cada vez que empiezas una tarea, parte de un `main` actualizado y crea tu rama (prefijo y tema, por ejemplo `data/poblacion` o `feat/tasas`):
 
+    git switch main
     git pull --rebase origin main
+    git switch -c feat/tu-tarea
 
 Mientras trabajas, commits pequeños con un mensaje en primera persona:
 
@@ -104,9 +106,16 @@ Mientras trabajas, commits pequeños con un mensaje en primera persona:
     git add <tus archivos>
     git commit -m "feat: agrego <lo que hiciste>"
 
-Para subir:
+Para subir, actualiza tu rama con `main`, prueba en local y sube la rama:
 
+    git fetch origin
+    git rebase origin/main
+    pytest
+    git push -u origin feat/tu-tarea
+
+Abre el PR con `gh pr create --fill` o con el botón "Compare & pull request" de GitHub. Espera el CI en verde. Si falla, mira el error en la pestaña Checks, arréglalo en la misma rama y vuelve a subir: el PR se actualiza solo. Cuando el CI esté en verde y Marian lo haya revisado, se une con "Squash and merge" (queda un solo commit por PR, a nombre de quien lo escribió). Después borra la rama y vuelve a `main`:
+
+    git switch main
     git pull --rebase origin main
-    git push origin main
 
-Prefijos: `feat`, `fix`, `data`, `docs`, `test` y `chore`. Si aparece un conflicto, no lo resuelvas a ciegas: avisa a Marian. Nunca uses `git push --force`. No subas claves, el entorno virtual, cédulas ni los documentos de Samsung. Sube tu trabajo seguido: la rúbrica mira que la carga esté repartida y que se note en el historial de cada quien.
+Prefijos: `feat`, `fix`, `data`, `docs`, `test` y `chore`. Si aparece un conflicto al hacer `rebase`, no lo resuelvas a ciegas: avisa a Marian. Nunca uses `git push --force` sobre `main`. No subas claves, el entorno virtual, cédulas ni los documentos de Samsung (el CI lo revisa). Sube tu trabajo seguido: la rúbrica mira que la carga esté repartida y que se note en el historial de cada quien.
