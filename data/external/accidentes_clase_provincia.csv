@@ -1,0 +1,469 @@
+anio,provincia,clase,accidentes
+2016,Bocas del Toro,Colision,358
+2016,Bocas del Toro,Atropello,44
+2016,Bocas del Toro,Vuelco,57
+2016,Bocas del Toro,Otras,17
+2016,Cocle,Colision,1468
+2016,Cocle,Atropello,68
+2016,Cocle,Vuelco,171
+2016,Cocle,Otras,32
+2016,Colon,Colision,3199
+2016,Colon,Atropello,86
+2016,Colon,Vuelco,90
+2016,Colon,Otras,33
+2016,Chiriqui,Colision,3669
+2016,Chiriqui,Atropello,199
+2016,Chiriqui,Vuelco,239
+2016,Chiriqui,Otras,55
+2016,Darien,Colision,134
+2016,Darien,Atropello,11
+2016,Darien,Vuelco,40
+2016,Darien,Otras,9
+2016,Herrera,Colision,979
+2016,Herrera,Atropello,23
+2016,Herrera,Vuelco,37
+2016,Herrera,Otras,39
+2016,Los Santos,Colision,706
+2016,Los Santos,Atropello,20
+2016,Los Santos,Vuelco,33
+2016,Los Santos,Otras,6
+2016,Panama,Colision,33476
+2016,Panama,Atropello,682
+2016,Panama,Vuelco,290
+2016,Panama,Otras,410
+2016,Panama Oeste,Colision,6736
+2016,Panama Oeste,Atropello,168
+2016,Panama Oeste,Vuelco,162
+2016,Panama Oeste,Otras,63
+2016,Veraguas,Colision,1405
+2016,Veraguas,Atropello,83
+2016,Veraguas,Vuelco,96
+2016,Veraguas,Otras,41
+2016,Ngabe Bugle,Colision,27
+2016,Ngabe Bugle,Atropello,1
+2016,Ngabe Bugle,Vuelco,19
+2016,Ngabe Bugle,Otras,5
+2017,Bocas del Toro,Colision,398
+2017,Bocas del Toro,Atropello,41
+2017,Bocas del Toro,Vuelco,47
+2017,Bocas del Toro,Otras,13
+2017,Cocle,Colision,1436
+2017,Cocle,Atropello,82
+2017,Cocle,Vuelco,177
+2017,Cocle,Otras,43
+2017,Colon,Colision,3230
+2017,Colon,Atropello,76
+2017,Colon,Vuelco,86
+2017,Colon,Otras,34
+2017,Chiriqui,Colision,4354
+2017,Chiriqui,Atropello,188
+2017,Chiriqui,Vuelco,272
+2017,Chiriqui,Otras,92
+2017,Darien,Colision,173
+2017,Darien,Atropello,8
+2017,Darien,Vuelco,43
+2017,Darien,Otras,13
+2017,Herrera,Colision,1026
+2017,Herrera,Atropello,28
+2017,Herrera,Vuelco,65
+2017,Herrera,Otras,22
+2017,Los Santos,Colision,778
+2017,Los Santos,Atropello,25
+2017,Los Santos,Vuelco,50
+2017,Los Santos,Otras,8
+2017,Panama,Colision,33477
+2017,Panama,Atropello,649
+2017,Panama,Vuelco,291
+2017,Panama,Otras,251
+2017,Panama Oeste,Colision,7178
+2017,Panama Oeste,Atropello,183
+2017,Panama Oeste,Vuelco,169
+2017,Panama Oeste,Otras,41
+2017,Veraguas,Colision,1523
+2017,Veraguas,Atropello,78
+2017,Veraguas,Vuelco,104
+2017,Veraguas,Otras,27
+2017,Ngabe Bugle,Colision,35
+2017,Ngabe Bugle,Atropello,5
+2017,Ngabe Bugle,Vuelco,26
+2017,Ngabe Bugle,Otras,2
+2018,Bocas del Toro,Colision,398
+2018,Bocas del Toro,Atropello,45
+2018,Bocas del Toro,Vuelco,53
+2018,Bocas del Toro,Otras,11
+2018,Cocle,Colision,1168
+2018,Cocle,Atropello,55
+2018,Cocle,Vuelco,101
+2018,Cocle,Otras,29
+2018,Colon,Colision,3200
+2018,Colon,Atropello,71
+2018,Colon,Vuelco,79
+2018,Colon,Otras,32
+2018,Chiriqui,Colision,4209
+2018,Chiriqui,Atropello,187
+2018,Chiriqui,Vuelco,286
+2018,Chiriqui,Otras,86
+2018,Darien,Colision,175
+2018,Darien,Atropello,9
+2018,Darien,Vuelco,33
+2018,Darien,Otras,9
+2018,Herrera,Colision,897
+2018,Herrera,Atropello,26
+2018,Herrera,Vuelco,56
+2018,Herrera,Otras,22
+2018,Los Santos,Colision,733
+2018,Los Santos,Atropello,14
+2018,Los Santos,Vuelco,54
+2018,Los Santos,Otras,3
+2018,Panama,Colision,32177
+2018,Panama,Atropello,679
+2018,Panama,Vuelco,265
+2018,Panama,Otras,284
+2018,Panama Oeste,Colision,7230
+2018,Panama Oeste,Atropello,192
+2018,Panama Oeste,Vuelco,256
+2018,Panama Oeste,Otras,154
+2018,Veraguas,Colision,1492
+2018,Veraguas,Atropello,81
+2018,Veraguas,Vuelco,88
+2018,Veraguas,Otras,60
+2018,Ngabe Bugle,Colision,29
+2018,Ngabe Bugle,Atropello,2
+2018,Ngabe Bugle,Vuelco,19
+2018,Ngabe Bugle,Otras,4
+2019,Bocas del Toro,Colision,389
+2019,Bocas del Toro,Atropello,28
+2019,Bocas del Toro,Vuelco,87
+2019,Bocas del Toro,Otras,4
+2019,Cocle,Colision,1085
+2019,Cocle,Atropello,56
+2019,Cocle,Vuelco,112
+2019,Cocle,Otras,18
+2019,Colon,Colision,2893
+2019,Colon,Atropello,94
+2019,Colon,Vuelco,98
+2019,Colon,Otras,38
+2019,Chiriqui,Colision,4258
+2019,Chiriqui,Atropello,168
+2019,Chiriqui,Vuelco,215
+2019,Chiriqui,Otras,58
+2019,Darien,Colision,160
+2019,Darien,Atropello,10
+2019,Darien,Vuelco,19
+2019,Darien,Otras,8
+2019,Herrera,Colision,960
+2019,Herrera,Atropello,23
+2019,Herrera,Vuelco,59
+2019,Herrera,Otras,11
+2019,Los Santos,Colision,698
+2019,Los Santos,Atropello,17
+2019,Los Santos,Vuelco,33
+2019,Los Santos,Otras,4
+2019,Panama,Colision,29065
+2019,Panama,Atropello,566
+2019,Panama,Vuelco,246
+2019,Panama,Otras,264
+2019,Panama Oeste,Colision,7441
+2019,Panama Oeste,Atropello,212
+2019,Panama Oeste,Vuelco,280
+2019,Panama Oeste,Otras,95
+2019,Veraguas,Colision,1511
+2019,Veraguas,Atropello,55
+2019,Veraguas,Vuelco,82
+2019,Veraguas,Otras,50
+2019,Guna Yala,Colision,1
+2019,Guna Yala,Atropello,0
+2019,Guna Yala,Vuelco,0
+2019,Guna Yala,Otras,0
+2019,Ngabe Bugle,Colision,31
+2019,Ngabe Bugle,Atropello,4
+2019,Ngabe Bugle,Vuelco,21
+2019,Ngabe Bugle,Otras,1
+2020,Bocas del Toro,Colision,300
+2020,Bocas del Toro,Atropello,12
+2020,Bocas del Toro,Vuelco,46
+2020,Bocas del Toro,Otras,8
+2020,Cocle,Colision,815
+2020,Cocle,Atropello,18
+2020,Cocle,Vuelco,100
+2020,Cocle,Otras,0
+2020,Colon,Colision,1802
+2020,Colon,Atropello,40
+2020,Colon,Vuelco,67
+2020,Colon,Otras,16
+2020,Chiriqui,Colision,2567
+2020,Chiriqui,Atropello,62
+2020,Chiriqui,Vuelco,194
+2020,Chiriqui,Otras,34
+2020,Darien,Colision,94
+2020,Darien,Atropello,5
+2020,Darien,Vuelco,14
+2020,Darien,Otras,9
+2020,Herrera,Colision,683
+2020,Herrera,Atropello,23
+2020,Herrera,Vuelco,46
+2020,Herrera,Otras,11
+2020,Panama,Colision,16347
+2020,Panama,Atropello,272
+2020,Panama,Vuelco,202
+2020,Panama,Otras,242
+2020,Panama Oeste,Colision,4167
+2020,Panama Oeste,Atropello,70
+2020,Panama Oeste,Vuelco,217
+2020,Panama Oeste,Otras,52
+2020,Veraguas,Colision,993
+2020,Veraguas,Atropello,38
+2020,Veraguas,Vuelco,64
+2020,Veraguas,Otras,17
+2020,Guna Yala,Colision,1
+2020,Guna Yala,Atropello,0
+2020,Guna Yala,Vuelco,1
+2020,Guna Yala,Otras,0
+2020,Embera,Colision,1
+2020,Embera,Atropello,0
+2020,Embera,Vuelco,1
+2020,Embera,Otras,0
+2020,Ngabe Bugle,Colision,20
+2020,Ngabe Bugle,Atropello,3
+2020,Ngabe Bugle,Vuelco,19
+2020,Ngabe Bugle,Otras,0
+2021,Bocas del Toro,Colision,419
+2021,Bocas del Toro,Atropello,28
+2021,Bocas del Toro,Vuelco,64
+2021,Bocas del Toro,Otras,11
+2021,Cocle,Colision,1170
+2021,Cocle,Atropello,25
+2021,Cocle,Vuelco,118
+2021,Cocle,Otras,4
+2021,Colon,Colision,2436
+2021,Colon,Atropello,40
+2021,Colon,Vuelco,98
+2021,Colon,Otras,11
+2021,Chiriqui,Colision,3629
+2021,Chiriqui,Atropello,100
+2021,Chiriqui,Vuelco,274
+2021,Chiriqui,Otras,65
+2021,Darien,Colision,125
+2021,Darien,Atropello,10
+2021,Darien,Vuelco,26
+2021,Darien,Otras,8
+2021,Herrera,Colision,877
+2021,Herrera,Atropello,24
+2021,Herrera,Vuelco,54
+2021,Herrera,Otras,13
+2021,Los Santos,Colision,571
+2021,Los Santos,Atropello,9
+2021,Los Santos,Vuelco,30
+2021,Los Santos,Otras,3
+2021,Panama,Colision,20954
+2021,Panama,Atropello,411
+2021,Panama,Vuelco,228
+2021,Panama,Otras,303
+2021,Panama Oeste,Colision,5858
+2021,Panama Oeste,Atropello,112
+2021,Panama Oeste,Vuelco,261
+2021,Panama Oeste,Otras,62
+2021,Veraguas,Colision,1502
+2021,Veraguas,Atropello,38
+2021,Veraguas,Vuelco,100
+2021,Veraguas,Otras,32
+2021,Guna Yala,Colision,0
+2021,Guna Yala,Atropello,0
+2021,Guna Yala,Vuelco,1
+2021,Guna Yala,Otras,0
+2021,Ngabe Bugle,Colision,28
+2021,Ngabe Bugle,Atropello,6
+2021,Ngabe Bugle,Vuelco,25
+2021,Ngabe Bugle,Otras,2
+2022,Bocas del Toro,Colision,359
+2022,Bocas del Toro,Atropello,29
+2022,Bocas del Toro,Vuelco,58
+2022,Bocas del Toro,Otras,7
+2022,Cocle,Colision,1242
+2022,Cocle,Atropello,56
+2022,Cocle,Vuelco,136
+2022,Cocle,Otras,25
+2022,Colon,Colision,2674
+2022,Colon,Atropello,51
+2022,Colon,Vuelco,77
+2022,Colon,Otras,46
+2022,Chiriqui,Colision,3412
+2022,Chiriqui,Atropello,110
+2022,Chiriqui,Vuelco,175
+2022,Chiriqui,Otras,47
+2022,Darien,Colision,123
+2022,Darien,Atropello,12
+2022,Darien,Vuelco,18
+2022,Darien,Otras,12
+2022,Herrera,Colision,932
+2022,Herrera,Atropello,24
+2022,Herrera,Vuelco,41
+2022,Herrera,Otras,14
+2022,Los Santos,Colision,592
+2022,Los Santos,Atropello,26
+2022,Los Santos,Vuelco,28
+2022,Los Santos,Otras,1
+2022,Panama,Colision,23104
+2022,Panama,Atropello,469
+2022,Panama,Vuelco,255
+2022,Panama,Otras,306
+2022,Panama Oeste,Colision,6395
+2022,Panama Oeste,Atropello,177
+2022,Panama Oeste,Vuelco,248
+2022,Panama Oeste,Otras,92
+2022,Veraguas,Colision,1495
+2022,Veraguas,Atropello,72
+2022,Veraguas,Vuelco,103
+2022,Veraguas,Otras,51
+2022,Guna Yala,Colision,4
+2022,Guna Yala,Atropello,0
+2022,Guna Yala,Vuelco,6
+2022,Guna Yala,Otras,0
+2022,Ngabe Bugle,Colision,39
+2022,Ngabe Bugle,Atropello,6
+2022,Ngabe Bugle,Vuelco,27
+2022,Ngabe Bugle,Otras,2
+2023,Bocas del Toro,Colision,347
+2023,Bocas del Toro,Atropello,34
+2023,Bocas del Toro,Vuelco,53
+2023,Bocas del Toro,Otras,6
+2023,Cocle,Colision,1359
+2023,Cocle,Atropello,55
+2023,Cocle,Vuelco,139
+2023,Cocle,Otras,20
+2023,Colon,Colision,2322
+2023,Colon,Atropello,84
+2023,Colon,Vuelco,66
+2023,Colon,Otras,37
+2023,Chiriqui,Colision,3616
+2023,Chiriqui,Atropello,142
+2023,Chiriqui,Vuelco,219
+2023,Chiriqui,Otras,37
+2023,Darien,Colision,142
+2023,Darien,Atropello,4
+2023,Darien,Vuelco,18
+2023,Darien,Otras,11
+2023,Herrera,Colision,929
+2023,Herrera,Atropello,23
+2023,Herrera,Vuelco,43
+2023,Herrera,Otras,12
+2023,Los Santos,Colision,624
+2023,Los Santos,Atropello,15
+2023,Los Santos,Vuelco,46
+2023,Los Santos,Otras,5
+2023,Panama,Colision,24855
+2023,Panama,Atropello,611
+2023,Panama,Vuelco,263
+2023,Panama,Otras,399
+2023,Panama Oeste,Colision,6646
+2023,Panama Oeste,Atropello,166
+2023,Panama Oeste,Vuelco,231
+2023,Panama Oeste,Otras,114
+2023,Veraguas,Colision,1634
+2023,Veraguas,Atropello,71
+2023,Veraguas,Vuelco,111
+2023,Veraguas,Otras,37
+2023,Guna Yala,Colision,7
+2023,Guna Yala,Atropello,0
+2023,Guna Yala,Vuelco,3
+2023,Guna Yala,Otras,0
+2023,Ngabe Bugle,Colision,30
+2023,Ngabe Bugle,Atropello,2
+2023,Ngabe Bugle,Vuelco,19
+2023,Ngabe Bugle,Otras,7
+2024,Bocas del Toro,Colision,431
+2024,Bocas del Toro,Atropello,37
+2024,Bocas del Toro,Vuelco,59
+2024,Bocas del Toro,Otras,9
+2024,Cocle,Colision,1373
+2024,Cocle,Atropello,53
+2024,Cocle,Vuelco,143
+2024,Cocle,Otras,14
+2024,Colon,Colision,2434
+2024,Colon,Atropello,69
+2024,Colon,Vuelco,66
+2024,Colon,Otras,27
+2024,Chiriqui,Colision,4105
+2024,Chiriqui,Atropello,153
+2024,Chiriqui,Vuelco,198
+2024,Chiriqui,Otras,45
+2024,Darien,Colision,148
+2024,Darien,Atropello,9
+2024,Darien,Vuelco,23
+2024,Darien,Otras,6
+2024,Herrera,Colision,1029
+2024,Herrera,Atropello,21
+2024,Herrera,Vuelco,64
+2024,Herrera,Otras,9
+2024,Los Santos,Colision,624
+2024,Los Santos,Atropello,12
+2024,Los Santos,Vuelco,31
+2024,Los Santos,Otras,21
+2024,Panama,Colision,26509
+2024,Panama,Atropello,600
+2024,Panama,Vuelco,253
+2024,Panama,Otras,437
+2024,Panama Oeste,Colision,7325
+2024,Panama Oeste,Atropello,211
+2024,Panama Oeste,Vuelco,253
+2024,Panama Oeste,Otras,148
+2024,Veraguas,Colision,1630
+2024,Veraguas,Atropello,66
+2024,Veraguas,Vuelco,116
+2024,Veraguas,Otras,34
+2024,Guna Yala,Colision,6
+2024,Guna Yala,Atropello,0
+2024,Guna Yala,Vuelco,2
+2024,Guna Yala,Otras,0
+2024,Ngabe Bugle,Colision,44
+2024,Ngabe Bugle,Atropello,5
+2024,Ngabe Bugle,Vuelco,33
+2024,Ngabe Bugle,Otras,2
+2025,Bocas del Toro,Colision,367
+2025,Bocas del Toro,Atropello,40
+2025,Bocas del Toro,Vuelco,62
+2025,Bocas del Toro,Otras,10
+2025,Cocle,Colision,1433
+2025,Cocle,Atropello,55
+2025,Cocle,Vuelco,157
+2025,Cocle,Otras,27
+2025,Colon,Colision,2563
+2025,Colon,Atropello,55
+2025,Colon,Vuelco,87
+2025,Colon,Otras,20
+2025,Chiriqui,Colision,4574
+2025,Chiriqui,Atropello,146
+2025,Chiriqui,Vuelco,164
+2025,Chiriqui,Otras,71
+2025,Darien,Colision,162
+2025,Darien,Atropello,11
+2025,Darien,Vuelco,20
+2025,Darien,Otras,6
+2025,Herrera,Colision,1120
+2025,Herrera,Atropello,24
+2025,Herrera,Vuelco,51
+2025,Herrera,Otras,14
+2025,Los Santos,Colision,695
+2025,Los Santos,Atropello,12
+2025,Los Santos,Vuelco,31
+2025,Los Santos,Otras,15
+2025,Panama,Colision,29660
+2025,Panama,Atropello,575
+2025,Panama,Vuelco,251
+2025,Panama,Otras,473
+2025,Panama Oeste,Colision,7448
+2025,Panama Oeste,Atropello,204
+2025,Panama Oeste,Vuelco,230
+2025,Panama Oeste,Otras,129
+2025,Veraguas,Colision,1830
+2025,Veraguas,Atropello,74
+2025,Veraguas,Vuelco,116
+2025,Veraguas,Otras,51
+2025,Guna Yala,Colision,0
+2025,Guna Yala,Atropello,0
+2025,Guna Yala,Vuelco,2
+2025,Guna Yala,Otras,0
+2025,Ngabe Bugle,Colision,49
+2025,Ngabe Bugle,Atropello,12
+2025,Ngabe Bugle,Vuelco,30
+2025,Ngabe Bugle,Otras,6

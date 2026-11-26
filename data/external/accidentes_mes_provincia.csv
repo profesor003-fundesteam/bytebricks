@@ -1,0 +1,4249 @@
+anio,mes,provincia,valor,medida
+2016,1,Bocas del Toro,30,accidentes
+2016,1,Cocle,153,accidentes
+2016,1,Colon,261,accidentes
+2016,1,Chiriqui,314,accidentes
+2016,1,Darien,7,accidentes
+2016,1,Herrera,96,accidentes
+2016,1,Los Santos,71,accidentes
+2016,1,Panama,2410,accidentes
+2016,1,Panama Oeste,497,accidentes
+2016,1,Veraguas,133,accidentes
+2016,1,Ngabe Bugle,6,accidentes
+2016,2,Bocas del Toro,29,accidentes
+2016,2,Cocle,153,accidentes
+2016,2,Colon,238,accidentes
+2016,2,Chiriqui,325,accidentes
+2016,2,Darien,6,accidentes
+2016,2,Herrera,110,accidentes
+2016,2,Los Santos,66,accidentes
+2016,2,Panama,2327,accidentes
+2016,2,Panama Oeste,510,accidentes
+2016,2,Veraguas,116,accidentes
+2016,2,Ngabe Bugle,2,accidentes
+2016,3,Bocas del Toro,27,accidentes
+2016,3,Cocle,127,accidentes
+2016,3,Colon,294,accidentes
+2016,3,Chiriqui,299,accidentes
+2016,3,Darien,5,accidentes
+2016,3,Herrera,65,accidentes
+2016,3,Los Santos,72,accidentes
+2016,3,Panama,2750,accidentes
+2016,3,Panama Oeste,566,accidentes
+2016,3,Veraguas,94,accidentes
+2016,3,Ngabe Bugle,5,accidentes
+2016,4,Bocas del Toro,36,accidentes
+2016,4,Cocle,158,accidentes
+2016,4,Colon,304,accidentes
+2016,4,Chiriqui,280,accidentes
+2016,4,Darien,17,accidentes
+2016,4,Herrera,86,accidentes
+2016,4,Los Santos,61,accidentes
+2016,4,Panama,2975,accidentes
+2016,4,Panama Oeste,627,accidentes
+2016,4,Veraguas,141,accidentes
+2016,4,Ngabe Bugle,7,accidentes
+2016,5,Bocas del Toro,53,accidentes
+2016,5,Cocle,152,accidentes
+2016,5,Colon,269,accidentes
+2016,5,Chiriqui,375,accidentes
+2016,5,Darien,14,accidentes
+2016,5,Herrera,79,accidentes
+2016,5,Los Santos,53,accidentes
+2016,5,Panama,2891,accidentes
+2016,5,Panama Oeste,618,accidentes
+2016,5,Veraguas,146,accidentes
+2016,5,Ngabe Bugle,5,accidentes
+2016,6,Bocas del Toro,33,accidentes
+2016,6,Cocle,128,accidentes
+2016,6,Colon,295,accidentes
+2016,6,Chiriqui,334,accidentes
+2016,6,Darien,27,accidentes
+2016,6,Herrera,77,accidentes
+2016,6,Los Santos,59,accidentes
+2016,6,Panama,2762,accidentes
+2016,6,Panama Oeste,552,accidentes
+2016,6,Veraguas,120,accidentes
+2016,6,Ngabe Bugle,1,accidentes
+2016,7,Bocas del Toro,31,accidentes
+2016,7,Cocle,129,accidentes
+2016,7,Colon,265,accidentes
+2016,7,Chiriqui,330,accidentes
+2016,7,Darien,18,accidentes
+2016,7,Herrera,98,accidentes
+2016,7,Los Santos,87,accidentes
+2016,7,Panama,2927,accidentes
+2016,7,Panama Oeste,579,accidentes
+2016,7,Veraguas,154,accidentes
+2016,7,Ngabe Bugle,4,accidentes
+2016,8,Bocas del Toro,46,accidentes
+2016,8,Cocle,149,accidentes
+2016,8,Colon,272,accidentes
+2016,8,Chiriqui,405,accidentes
+2016,8,Darien,24,accidentes
+2016,8,Herrera,104,accidentes
+2016,8,Los Santos,63,accidentes
+2016,8,Panama,3221,accidentes
+2016,8,Panama Oeste,615,accidentes
+2016,8,Veraguas,142,accidentes
+2016,8,Ngabe Bugle,8,accidentes
+2016,9,Bocas del Toro,57,accidentes
+2016,9,Cocle,124,accidentes
+2016,9,Colon,303,accidentes
+2016,9,Chiriqui,334,accidentes
+2016,9,Darien,24,accidentes
+2016,9,Herrera,97,accidentes
+2016,9,Los Santos,63,accidentes
+2016,9,Panama,2968,accidentes
+2016,9,Panama Oeste,605,accidentes
+2016,9,Veraguas,137,accidentes
+2016,9,Ngabe Bugle,5,accidentes
+2016,10,Bocas del Toro,40,accidentes
+2016,10,Cocle,161,accidentes
+2016,10,Colon,296,accidentes
+2016,10,Chiriqui,429,accidentes
+2016,10,Darien,23,accidentes
+2016,10,Herrera,106,accidentes
+2016,10,Los Santos,64,accidentes
+2016,10,Panama,3436,accidentes
+2016,10,Panama Oeste,674,accidentes
+2016,10,Veraguas,150,accidentes
+2016,10,Ngabe Bugle,5,accidentes
+2016,11,Bocas del Toro,52,accidentes
+2016,11,Cocle,136,accidentes
+2016,11,Colon,298,accidentes
+2016,11,Chiriqui,395,accidentes
+2016,11,Darien,13,accidentes
+2016,11,Herrera,66,accidentes
+2016,11,Los Santos,53,accidentes
+2016,11,Panama,2954,accidentes
+2016,11,Panama Oeste,622,accidentes
+2016,11,Veraguas,135,accidentes
+2016,11,Ngabe Bugle,0,accidentes
+2016,12,Bocas del Toro,42,accidentes
+2016,12,Cocle,169,accidentes
+2016,12,Colon,313,accidentes
+2016,12,Chiriqui,342,accidentes
+2016,12,Darien,16,accidentes
+2016,12,Herrera,94,accidentes
+2016,12,Los Santos,53,accidentes
+2016,12,Panama,3237,accidentes
+2016,12,Panama Oeste,664,accidentes
+2016,12,Veraguas,157,accidentes
+2016,12,Ngabe Bugle,4,accidentes
+2016,1,Bocas del Toro,16,heridos
+2016,1,Cocle,92,heridos
+2016,1,Colon,94,heridos
+2016,1,Chiriqui,155,heridos
+2016,1,Darien,7,heridos
+2016,1,Herrera,43,heridos
+2016,1,Los Santos,41,heridos
+2016,1,Panama,479,heridos
+2016,1,Panama Oeste,144,heridos
+2016,1,Veraguas,65,heridos
+2016,1,Ngabe Bugle,6,heridos
+2016,2,Bocas del Toro,9,heridos
+2016,2,Cocle,111,heridos
+2016,2,Colon,108,heridos
+2016,2,Chiriqui,120,heridos
+2016,2,Darien,4,heridos
+2016,2,Herrera,46,heridos
+2016,2,Los Santos,31,heridos
+2016,2,Panama,458,heridos
+2016,2,Panama Oeste,228,heridos
+2016,2,Veraguas,72,heridos
+2016,2,Ngabe Bugle,38,heridos
+2016,3,Bocas del Toro,19,heridos
+2016,3,Cocle,80,heridos
+2016,3,Colon,66,heridos
+2016,3,Chiriqui,115,heridos
+2016,3,Darien,23,heridos
+2016,3,Herrera,35,heridos
+2016,3,Los Santos,45,heridos
+2016,3,Panama,490,heridos
+2016,3,Panama Oeste,209,heridos
+2016,3,Veraguas,49,heridos
+2016,3,Ngabe Bugle,0,heridos
+2016,4,Bocas del Toro,17,heridos
+2016,4,Cocle,79,heridos
+2016,4,Colon,77,heridos
+2016,4,Chiriqui,126,heridos
+2016,4,Darien,15,heridos
+2016,4,Herrera,39,heridos
+2016,4,Los Santos,41,heridos
+2016,4,Panama,605,heridos
+2016,4,Panama Oeste,201,heridos
+2016,4,Veraguas,68,heridos
+2016,4,Ngabe Bugle,26,heridos
+2016,5,Bocas del Toro,18,heridos
+2016,5,Cocle,129,heridos
+2016,5,Colon,60,heridos
+2016,5,Chiriqui,187,heridos
+2016,5,Darien,6,heridos
+2016,5,Herrera,29,heridos
+2016,5,Los Santos,23,heridos
+2016,5,Panama,497,heridos
+2016,5,Panama Oeste,226,heridos
+2016,5,Veraguas,47,heridos
+2016,5,Ngabe Bugle,9,heridos
+2016,6,Bocas del Toro,14,heridos
+2016,6,Cocle,42,heridos
+2016,6,Colon,78,heridos
+2016,6,Chiriqui,176,heridos
+2016,6,Darien,10,heridos
+2016,6,Herrera,25,heridos
+2016,6,Los Santos,29,heridos
+2016,6,Panama,502,heridos
+2016,6,Panama Oeste,169,heridos
+2016,6,Veraguas,40,heridos
+2016,6,Ngabe Bugle,0,heridos
+2016,7,Bocas del Toro,20,heridos
+2016,7,Cocle,67,heridos
+2016,7,Colon,76,heridos
+2016,7,Chiriqui,232,heridos
+2016,7,Darien,12,heridos
+2016,7,Herrera,38,heridos
+2016,7,Los Santos,50,heridos
+2016,7,Panama,564,heridos
+2016,7,Panama Oeste,182,heridos
+2016,7,Veraguas,94,heridos
+2016,7,Ngabe Bugle,3,heridos
+2016,8,Bocas del Toro,40,heridos
+2016,8,Cocle,125,heridos
+2016,8,Colon,61,heridos
+2016,8,Chiriqui,240,heridos
+2016,8,Darien,28,heridos
+2016,8,Herrera,43,heridos
+2016,8,Los Santos,41,heridos
+2016,8,Panama,576,heridos
+2016,8,Panama Oeste,218,heridos
+2016,8,Veraguas,76,heridos
+2016,8,Ngabe Bugle,10,heridos
+2016,9,Bocas del Toro,21,heridos
+2016,9,Cocle,70,heridos
+2016,9,Colon,83,heridos
+2016,9,Chiriqui,190,heridos
+2016,9,Darien,17,heridos
+2016,9,Herrera,35,heridos
+2016,9,Los Santos,28,heridos
+2016,9,Panama,479,heridos
+2016,9,Panama Oeste,236,heridos
+2016,9,Veraguas,87,heridos
+2016,9,Ngabe Bugle,8,heridos
+2016,10,Bocas del Toro,19,heridos
+2016,10,Cocle,121,heridos
+2016,10,Colon,54,heridos
+2016,10,Chiriqui,212,heridos
+2016,10,Darien,19,heridos
+2016,10,Herrera,39,heridos
+2016,10,Los Santos,43,heridos
+2016,10,Panama,571,heridos
+2016,10,Panama Oeste,217,heridos
+2016,10,Veraguas,57,heridos
+2016,10,Ngabe Bugle,1,heridos
+2016,11,Bocas del Toro,42,heridos
+2016,11,Cocle,81,heridos
+2016,11,Colon,82,heridos
+2016,11,Chiriqui,238,heridos
+2016,11,Darien,9,heridos
+2016,11,Herrera,21,heridos
+2016,11,Los Santos,29,heridos
+2016,11,Panama,456,heridos
+2016,11,Panama Oeste,184,heridos
+2016,11,Veraguas,69,heridos
+2016,11,Ngabe Bugle,0,heridos
+2016,12,Bocas del Toro,35,heridos
+2016,12,Cocle,86,heridos
+2016,12,Colon,92,heridos
+2016,12,Chiriqui,163,heridos
+2016,12,Darien,17,heridos
+2016,12,Herrera,42,heridos
+2016,12,Los Santos,34,heridos
+2016,12,Panama,510,heridos
+2016,12,Panama Oeste,213,heridos
+2016,12,Veraguas,66,heridos
+2016,12,Ngabe Bugle,5,heridos
+2016,1,Bocas del Toro,0,muertos
+2016,1,Cocle,2,muertos
+2016,1,Colon,5,muertos
+2016,1,Chiriqui,5,muertos
+2016,1,Darien,1,muertos
+2016,1,Herrera,1,muertos
+2016,1,Los Santos,3,muertos
+2016,1,Panama,10,muertos
+2016,1,Panama Oeste,3,muertos
+2016,1,Veraguas,1,muertos
+2016,1,Ngabe Bugle,2,muertos
+2016,2,Bocas del Toro,2,muertos
+2016,2,Cocle,6,muertos
+2016,2,Colon,4,muertos
+2016,2,Chiriqui,7,muertos
+2016,2,Darien,0,muertos
+2016,2,Herrera,1,muertos
+2016,2,Los Santos,2,muertos
+2016,2,Panama,8,muertos
+2016,2,Panama Oeste,12,muertos
+2016,2,Veraguas,4,muertos
+2016,2,Ngabe Bugle,0,muertos
+2016,3,Bocas del Toro,0,muertos
+2016,3,Cocle,2,muertos
+2016,3,Colon,7,muertos
+2016,3,Chiriqui,7,muertos
+2016,3,Darien,0,muertos
+2016,3,Herrera,0,muertos
+2016,3,Los Santos,0,muertos
+2016,3,Panama,20,muertos
+2016,3,Panama Oeste,3,muertos
+2016,3,Veraguas,6,muertos
+2016,3,Ngabe Bugle,0,muertos
+2016,4,Bocas del Toro,2,muertos
+2016,4,Cocle,5,muertos
+2016,4,Colon,3,muertos
+2016,4,Chiriqui,7,muertos
+2016,4,Darien,1,muertos
+2016,4,Herrera,1,muertos
+2016,4,Los Santos,3,muertos
+2016,4,Panama,14,muertos
+2016,4,Panama Oeste,6,muertos
+2016,4,Veraguas,1,muertos
+2016,4,Ngabe Bugle,1,muertos
+2016,5,Bocas del Toro,1,muertos
+2016,5,Cocle,7,muertos
+2016,5,Colon,2,muertos
+2016,5,Chiriqui,4,muertos
+2016,5,Darien,0,muertos
+2016,5,Herrera,2,muertos
+2016,5,Los Santos,0,muertos
+2016,5,Panama,9,muertos
+2016,5,Panama Oeste,7,muertos
+2016,5,Veraguas,6,muertos
+2016,5,Ngabe Bugle,1,muertos
+2016,6,Bocas del Toro,2,muertos
+2016,6,Cocle,2,muertos
+2016,6,Colon,2,muertos
+2016,6,Chiriqui,3,muertos
+2016,6,Darien,0,muertos
+2016,6,Herrera,0,muertos
+2016,6,Los Santos,1,muertos
+2016,6,Panama,9,muertos
+2016,6,Panama Oeste,3,muertos
+2016,6,Veraguas,1,muertos
+2016,6,Ngabe Bugle,1,muertos
+2016,7,Bocas del Toro,1,muertos
+2016,7,Cocle,1,muertos
+2016,7,Colon,8,muertos
+2016,7,Chiriqui,5,muertos
+2016,7,Darien,1,muertos
+2016,7,Herrera,1,muertos
+2016,7,Los Santos,2,muertos
+2016,7,Panama,9,muertos
+2016,7,Panama Oeste,10,muertos
+2016,7,Veraguas,2,muertos
+2016,7,Ngabe Bugle,0,muertos
+2016,8,Bocas del Toro,1,muertos
+2016,8,Cocle,3,muertos
+2016,8,Colon,2,muertos
+2016,8,Chiriqui,8,muertos
+2016,8,Darien,0,muertos
+2016,8,Herrera,2,muertos
+2016,8,Los Santos,2,muertos
+2016,8,Panama,13,muertos
+2016,8,Panama Oeste,7,muertos
+2016,8,Veraguas,1,muertos
+2016,8,Ngabe Bugle,1,muertos
+2016,9,Bocas del Toro,0,muertos
+2016,9,Cocle,4,muertos
+2016,9,Colon,2,muertos
+2016,9,Chiriqui,5,muertos
+2016,9,Darien,0,muertos
+2016,9,Herrera,2,muertos
+2016,9,Los Santos,2,muertos
+2016,9,Panama,5,muertos
+2016,9,Panama Oeste,7,muertos
+2016,9,Veraguas,5,muertos
+2016,9,Ngabe Bugle,0,muertos
+2016,10,Bocas del Toro,0,muertos
+2016,10,Cocle,3,muertos
+2016,10,Colon,4,muertos
+2016,10,Chiriqui,8,muertos
+2016,10,Darien,0,muertos
+2016,10,Herrera,1,muertos
+2016,10,Los Santos,0,muertos
+2016,10,Panama,11,muertos
+2016,10,Panama Oeste,1,muertos
+2016,10,Veraguas,2,muertos
+2016,10,Ngabe Bugle,0,muertos
+2016,11,Bocas del Toro,2,muertos
+2016,11,Cocle,2,muertos
+2016,11,Colon,2,muertos
+2016,11,Chiriqui,9,muertos
+2016,11,Darien,0,muertos
+2016,11,Herrera,0,muertos
+2016,11,Los Santos,2,muertos
+2016,11,Panama,7,muertos
+2016,11,Panama Oeste,4,muertos
+2016,11,Veraguas,2,muertos
+2016,11,Ngabe Bugle,0,muertos
+2016,12,Bocas del Toro,2,muertos
+2016,12,Cocle,7,muertos
+2016,12,Colon,5,muertos
+2016,12,Chiriqui,7,muertos
+2016,12,Darien,0,muertos
+2016,12,Herrera,0,muertos
+2016,12,Los Santos,1,muertos
+2016,12,Panama,6,muertos
+2016,12,Panama Oeste,10,muertos
+2016,12,Veraguas,6,muertos
+2016,12,Ngabe Bugle,0,muertos
+2017,1,Bocas del Toro,30,accidentes
+2017,1,Cocle,155,accidentes
+2017,1,Colon,261,accidentes
+2017,1,Chiriqui,441,accidentes
+2017,1,Darien,26,accidentes
+2017,1,Herrera,104,accidentes
+2017,1,Los Santos,83,accidentes
+2017,1,Panama,2683,accidentes
+2017,1,Panama Oeste,656,accidentes
+2017,1,Veraguas,115,accidentes
+2017,1,Ngabe Bugle,8,accidentes
+2017,2,Bocas del Toro,17,accidentes
+2017,2,Cocle,160,accidentes
+2017,2,Colon,245,accidentes
+2017,2,Chiriqui,374,accidentes
+2017,2,Darien,28,accidentes
+2017,2,Herrera,98,accidentes
+2017,2,Los Santos,94,accidentes
+2017,2,Panama,2606,accidentes
+2017,2,Panama Oeste,683,accidentes
+2017,2,Veraguas,134,accidentes
+2017,2,Ngabe Bugle,3,accidentes
+2017,3,Bocas del Toro,30,accidentes
+2017,3,Cocle,117,accidentes
+2017,3,Colon,274,accidentes
+2017,3,Chiriqui,419,accidentes
+2017,3,Darien,19,accidentes
+2017,3,Herrera,81,accidentes
+2017,3,Los Santos,61,accidentes
+2017,3,Panama,3033,accidentes
+2017,3,Panama Oeste,566,accidentes
+2017,3,Veraguas,156,accidentes
+2017,3,Ngabe Bugle,4,accidentes
+2017,4,Bocas del Toro,40,accidentes
+2017,4,Cocle,166,accidentes
+2017,4,Colon,282,accidentes
+2017,4,Chiriqui,404,accidentes
+2017,4,Darien,19,accidentes
+2017,4,Herrera,90,accidentes
+2017,4,Los Santos,79,accidentes
+2017,4,Panama,2738,accidentes
+2017,4,Panama Oeste,611,accidentes
+2017,4,Veraguas,152,accidentes
+2017,4,Ngabe Bugle,6,accidentes
+2017,5,Bocas del Toro,49,accidentes
+2017,5,Cocle,153,accidentes
+2017,5,Colon,303,accidentes
+2017,5,Chiriqui,439,accidentes
+2017,5,Darien,27,accidentes
+2017,5,Herrera,98,accidentes
+2017,5,Los Santos,76,accidentes
+2017,5,Panama,2972,accidentes
+2017,5,Panama Oeste,567,accidentes
+2017,5,Veraguas,154,accidentes
+2017,5,Ngabe Bugle,5,accidentes
+2017,6,Bocas del Toro,44,accidentes
+2017,6,Cocle,133,accidentes
+2017,6,Colon,287,accidentes
+2017,6,Chiriqui,377,accidentes
+2017,6,Darien,22,accidentes
+2017,6,Herrera,94,accidentes
+2017,6,Los Santos,71,accidentes
+2017,6,Panama,2702,accidentes
+2017,6,Panama Oeste,631,accidentes
+2017,6,Veraguas,138,accidentes
+2017,6,Ngabe Bugle,2,accidentes
+2017,7,Bocas del Toro,52,accidentes
+2017,7,Cocle,148,accidentes
+2017,7,Colon,293,accidentes
+2017,7,Chiriqui,407,accidentes
+2017,7,Darien,20,accidentes
+2017,7,Herrera,108,accidentes
+2017,7,Los Santos,75,accidentes
+2017,7,Panama,2978,accidentes
+2017,7,Panama Oeste,655,accidentes
+2017,7,Veraguas,152,accidentes
+2017,7,Ngabe Bugle,3,accidentes
+2017,8,Bocas del Toro,63,accidentes
+2017,8,Cocle,137,accidentes
+2017,8,Colon,303,accidentes
+2017,8,Chiriqui,417,accidentes
+2017,8,Darien,24,accidentes
+2017,8,Herrera,96,accidentes
+2017,8,Los Santos,51,accidentes
+2017,8,Panama,3099,accidentes
+2017,8,Panama Oeste,622,accidentes
+2017,8,Veraguas,134,accidentes
+2017,8,Ngabe Bugle,11,accidentes
+2017,9,Bocas del Toro,28,accidentes
+2017,9,Cocle,133,accidentes
+2017,9,Colon,270,accidentes
+2017,9,Chiriqui,378,accidentes
+2017,9,Darien,14,accidentes
+2017,9,Herrera,90,accidentes
+2017,9,Los Santos,68,accidentes
+2017,9,Panama,2894,accidentes
+2017,9,Panama Oeste,571,accidentes
+2017,9,Veraguas,147,accidentes
+2017,9,Ngabe Bugle,10,accidentes
+2017,10,Bocas del Toro,58,accidentes
+2017,10,Cocle,146,accidentes
+2017,10,Colon,322,accidentes
+2017,10,Chiriqui,418,accidentes
+2017,10,Darien,13,accidentes
+2017,10,Herrera,103,accidentes
+2017,10,Los Santos,65,accidentes
+2017,10,Panama,2899,accidentes
+2017,10,Panama Oeste,645,accidentes
+2017,10,Veraguas,147,accidentes
+2017,10,Ngabe Bugle,4,accidentes
+2017,11,Bocas del Toro,44,accidentes
+2017,11,Cocle,127,accidentes
+2017,11,Colon,292,accidentes
+2017,11,Chiriqui,388,accidentes
+2017,11,Darien,14,accidentes
+2017,11,Herrera,82,accidentes
+2017,11,Los Santos,74,accidentes
+2017,11,Panama,2833,accidentes
+2017,11,Panama Oeste,622,accidentes
+2017,11,Veraguas,144,accidentes
+2017,11,Ngabe Bugle,8,accidentes
+2017,12,Bocas del Toro,44,accidentes
+2017,12,Cocle,163,accidentes
+2017,12,Colon,294,accidentes
+2017,12,Chiriqui,444,accidentes
+2017,12,Darien,11,accidentes
+2017,12,Herrera,97,accidentes
+2017,12,Los Santos,64,accidentes
+2017,12,Panama,3231,accidentes
+2017,12,Panama Oeste,742,accidentes
+2017,12,Veraguas,159,accidentes
+2017,12,Ngabe Bugle,4,accidentes
+2017,1,Bocas del Toro,13,heridos
+2017,1,Cocle,72,heridos
+2017,1,Colon,83,heridos
+2017,1,Chiriqui,262,heridos
+2017,1,Darien,27,heridos
+2017,1,Herrera,59,heridos
+2017,1,Los Santos,44,heridos
+2017,1,Panama,439,heridos
+2017,1,Panama Oeste,206,heridos
+2017,1,Veraguas,69,heridos
+2017,1,Ngabe Bugle,6,heridos
+2017,2,Bocas del Toro,18,heridos
+2017,2,Cocle,93,heridos
+2017,2,Colon,72,heridos
+2017,2,Chiriqui,224,heridos
+2017,2,Darien,26,heridos
+2017,2,Herrera,56,heridos
+2017,2,Los Santos,72,heridos
+2017,2,Panama,491,heridos
+2017,2,Panama Oeste,202,heridos
+2017,2,Veraguas,73,heridos
+2017,2,Ngabe Bugle,3,heridos
+2017,3,Bocas del Toro,17,heridos
+2017,3,Cocle,95,heridos
+2017,3,Colon,69,heridos
+2017,3,Chiriqui,205,heridos
+2017,3,Darien,10,heridos
+2017,3,Herrera,35,heridos
+2017,3,Los Santos,36,heridos
+2017,3,Panama,502,heridos
+2017,3,Panama Oeste,182,heridos
+2017,3,Veraguas,57,heridos
+2017,3,Ngabe Bugle,19,heridos
+2017,4,Bocas del Toro,22,heridos
+2017,4,Cocle,110,heridos
+2017,4,Colon,84,heridos
+2017,4,Chiriqui,241,heridos
+2017,4,Darien,18,heridos
+2017,4,Herrera,50,heridos
+2017,4,Los Santos,51,heridos
+2017,4,Panama,441,heridos
+2017,4,Panama Oeste,171,heridos
+2017,4,Veraguas,101,heridos
+2017,4,Ngabe Bugle,3,heridos
+2017,5,Bocas del Toro,22,heridos
+2017,5,Cocle,71,heridos
+2017,5,Colon,59,heridos
+2017,5,Chiriqui,261,heridos
+2017,5,Darien,15,heridos
+2017,5,Herrera,40,heridos
+2017,5,Los Santos,40,heridos
+2017,5,Panama,554,heridos
+2017,5,Panama Oeste,179,heridos
+2017,5,Veraguas,80,heridos
+2017,5,Ngabe Bugle,4,heridos
+2017,6,Bocas del Toro,28,heridos
+2017,6,Cocle,81,heridos
+2017,6,Colon,86,heridos
+2017,6,Chiriqui,240,heridos
+2017,6,Darien,21,heridos
+2017,6,Herrera,38,heridos
+2017,6,Los Santos,56,heridos
+2017,6,Panama,462,heridos
+2017,6,Panama Oeste,198,heridos
+2017,6,Veraguas,81,heridos
+2017,6,Ngabe Bugle,0,heridos
+2017,7,Bocas del Toro,44,heridos
+2017,7,Cocle,73,heridos
+2017,7,Colon,64,heridos
+2017,7,Chiriqui,245,heridos
+2017,7,Darien,2,heridos
+2017,7,Herrera,48,heridos
+2017,7,Los Santos,29,heridos
+2017,7,Panama,539,heridos
+2017,7,Panama Oeste,208,heridos
+2017,7,Veraguas,85,heridos
+2017,7,Ngabe Bugle,4,heridos
+2017,8,Bocas del Toro,37,heridos
+2017,8,Cocle,111,heridos
+2017,8,Colon,85,heridos
+2017,8,Chiriqui,287,heridos
+2017,8,Darien,14,heridos
+2017,8,Herrera,56,heridos
+2017,8,Los Santos,27,heridos
+2017,8,Panama,529,heridos
+2017,8,Panama Oeste,212,heridos
+2017,8,Veraguas,68,heridos
+2017,8,Ngabe Bugle,8,heridos
+2017,9,Bocas del Toro,31,heridos
+2017,9,Cocle,88,heridos
+2017,9,Colon,65,heridos
+2017,9,Chiriqui,202,heridos
+2017,9,Darien,4,heridos
+2017,9,Herrera,32,heridos
+2017,9,Los Santos,45,heridos
+2017,9,Panama,490,heridos
+2017,9,Panama Oeste,181,heridos
+2017,9,Veraguas,58,heridos
+2017,9,Ngabe Bugle,11,heridos
+2017,10,Bocas del Toro,47,heridos
+2017,10,Cocle,101,heridos
+2017,10,Colon,72,heridos
+2017,10,Chiriqui,299,heridos
+2017,10,Darien,12,heridos
+2017,10,Herrera,41,heridos
+2017,10,Los Santos,40,heridos
+2017,10,Panama,432,heridos
+2017,10,Panama Oeste,196,heridos
+2017,10,Veraguas,92,heridos
+2017,10,Ngabe Bugle,7,heridos
+2017,11,Bocas del Toro,18,heridos
+2017,11,Cocle,113,heridos
+2017,11,Colon,73,heridos
+2017,11,Chiriqui,186,heridos
+2017,11,Darien,10,heridos
+2017,11,Herrera,43,heridos
+2017,11,Los Santos,48,heridos
+2017,11,Panama,500,heridos
+2017,11,Panama Oeste,203,heridos
+2017,11,Veraguas,85,heridos
+2017,11,Ngabe Bugle,8,heridos
+2017,12,Bocas del Toro,37,heridos
+2017,12,Cocle,104,heridos
+2017,12,Colon,67,heridos
+2017,12,Chiriqui,248,heridos
+2017,12,Darien,17,heridos
+2017,12,Herrera,45,heridos
+2017,12,Los Santos,49,heridos
+2017,12,Panama,640,heridos
+2017,12,Panama Oeste,226,heridos
+2017,12,Veraguas,60,heridos
+2017,12,Ngabe Bugle,5,heridos
+2017,1,Bocas del Toro,0,muertos
+2017,1,Cocle,3,muertos
+2017,1,Colon,1,muertos
+2017,1,Chiriqui,9,muertos
+2017,1,Darien,0,muertos
+2017,1,Herrera,1,muertos
+2017,1,Los Santos,1,muertos
+2017,1,Panama,7,muertos
+2017,1,Panama Oeste,6,muertos
+2017,1,Veraguas,0,muertos
+2017,1,Ngabe Bugle,0,muertos
+2017,2,Bocas del Toro,1,muertos
+2017,2,Cocle,4,muertos
+2017,2,Colon,3,muertos
+2017,2,Chiriqui,10,muertos
+2017,2,Darien,0,muertos
+2017,2,Herrera,3,muertos
+2017,2,Los Santos,1,muertos
+2017,2,Panama,8,muertos
+2017,2,Panama Oeste,8,muertos
+2017,2,Veraguas,3,muertos
+2017,2,Ngabe Bugle,0,muertos
+2017,3,Bocas del Toro,0,muertos
+2017,3,Cocle,21,muertos
+2017,3,Colon,3,muertos
+2017,3,Chiriqui,7,muertos
+2017,3,Darien,1,muertos
+2017,3,Herrera,2,muertos
+2017,3,Los Santos,3,muertos
+2017,3,Panama,14,muertos
+2017,3,Panama Oeste,5,muertos
+2017,3,Veraguas,2,muertos
+2017,3,Ngabe Bugle,0,muertos
+2017,4,Bocas del Toro,0,muertos
+2017,4,Cocle,6,muertos
+2017,4,Colon,4,muertos
+2017,4,Chiriqui,8,muertos
+2017,4,Darien,0,muertos
+2017,4,Herrera,2,muertos
+2017,4,Los Santos,3,muertos
+2017,4,Panama,10,muertos
+2017,4,Panama Oeste,4,muertos
+2017,4,Veraguas,5,muertos
+2017,4,Ngabe Bugle,0,muertos
+2017,5,Bocas del Toro,1,muertos
+2017,5,Cocle,3,muertos
+2017,5,Colon,1,muertos
+2017,5,Chiriqui,8,muertos
+2017,5,Darien,0,muertos
+2017,5,Herrera,0,muertos
+2017,5,Los Santos,0,muertos
+2017,5,Panama,13,muertos
+2017,5,Panama Oeste,6,muertos
+2017,5,Veraguas,2,muertos
+2017,5,Ngabe Bugle,0,muertos
+2017,6,Bocas del Toro,3,muertos
+2017,6,Cocle,3,muertos
+2017,6,Colon,3,muertos
+2017,6,Chiriqui,6,muertos
+2017,6,Darien,0,muertos
+2017,6,Herrera,1,muertos
+2017,6,Los Santos,1,muertos
+2017,6,Panama,11,muertos
+2017,6,Panama Oeste,11,muertos
+2017,6,Veraguas,1,muertos
+2017,6,Ngabe Bugle,0,muertos
+2017,7,Bocas del Toro,0,muertos
+2017,7,Cocle,4,muertos
+2017,7,Colon,2,muertos
+2017,7,Chiriqui,3,muertos
+2017,7,Darien,0,muertos
+2017,7,Herrera,0,muertos
+2017,7,Los Santos,2,muertos
+2017,7,Panama,9,muertos
+2017,7,Panama Oeste,4,muertos
+2017,7,Veraguas,2,muertos
+2017,7,Ngabe Bugle,0,muertos
+2017,8,Bocas del Toro,0,muertos
+2017,8,Cocle,4,muertos
+2017,8,Colon,1,muertos
+2017,8,Chiriqui,4,muertos
+2017,8,Darien,0,muertos
+2017,8,Herrera,0,muertos
+2017,8,Los Santos,1,muertos
+2017,8,Panama,10,muertos
+2017,8,Panama Oeste,3,muertos
+2017,8,Veraguas,3,muertos
+2017,8,Ngabe Bugle,0,muertos
+2017,9,Bocas del Toro,1,muertos
+2017,9,Cocle,3,muertos
+2017,9,Colon,1,muertos
+2017,9,Chiriqui,3,muertos
+2017,9,Darien,0,muertos
+2017,9,Herrera,0,muertos
+2017,9,Los Santos,3,muertos
+2017,9,Panama,8,muertos
+2017,9,Panama Oeste,9,muertos
+2017,9,Veraguas,2,muertos
+2017,9,Ngabe Bugle,1,muertos
+2017,10,Bocas del Toro,1,muertos
+2017,10,Cocle,1,muertos
+2017,10,Colon,1,muertos
+2017,10,Chiriqui,7,muertos
+2017,10,Darien,0,muertos
+2017,10,Herrera,0,muertos
+2017,10,Los Santos,0,muertos
+2017,10,Panama,10,muertos
+2017,10,Panama Oeste,3,muertos
+2017,10,Veraguas,0,muertos
+2017,10,Ngabe Bugle,0,muertos
+2017,11,Bocas del Toro,0,muertos
+2017,11,Cocle,4,muertos
+2017,11,Colon,2,muertos
+2017,11,Chiriqui,6,muertos
+2017,11,Darien,4,muertos
+2017,11,Herrera,3,muertos
+2017,11,Los Santos,0,muertos
+2017,11,Panama,9,muertos
+2017,11,Panama Oeste,5,muertos
+2017,11,Veraguas,2,muertos
+2017,11,Ngabe Bugle,0,muertos
+2017,12,Bocas del Toro,2,muertos
+2017,12,Cocle,2,muertos
+2017,12,Colon,4,muertos
+2017,12,Chiriqui,4,muertos
+2017,12,Darien,0,muertos
+2017,12,Herrera,1,muertos
+2017,12,Los Santos,2,muertos
+2017,12,Panama,13,muertos
+2017,12,Panama Oeste,5,muertos
+2017,12,Veraguas,5,muertos
+2017,12,Ngabe Bugle,0,muertos
+2018,1,Bocas del Toro,40,accidentes
+2018,1,Cocle,118,accidentes
+2018,1,Colon,250,accidentes
+2018,1,Chiriqui,402,accidentes
+2018,1,Darien,15,accidentes
+2018,1,Herrera,78,accidentes
+2018,1,Los Santos,69,accidentes
+2018,1,Panama,2612,accidentes
+2018,1,Panama Oeste,610,accidentes
+2018,1,Veraguas,130,accidentes
+2018,1,Ngabe Bugle,5,accidentes
+2018,2,Bocas del Toro,29,accidentes
+2018,2,Cocle,121,accidentes
+2018,2,Colon,258,accidentes
+2018,2,Chiriqui,342,accidentes
+2018,2,Darien,23,accidentes
+2018,2,Herrera,88,accidentes
+2018,2,Los Santos,82,accidentes
+2018,2,Panama,2435,accidentes
+2018,2,Panama Oeste,576,accidentes
+2018,2,Veraguas,136,accidentes
+2018,2,Ngabe Bugle,2,accidentes
+2018,3,Bocas del Toro,53,accidentes
+2018,3,Cocle,129,accidentes
+2018,3,Colon,251,accidentes
+2018,3,Chiriqui,407,accidentes
+2018,3,Darien,22,accidentes
+2018,3,Herrera,87,accidentes
+2018,3,Los Santos,85,accidentes
+2018,3,Panama,2996,accidentes
+2018,3,Panama Oeste,675,accidentes
+2018,3,Veraguas,144,accidentes
+2018,3,Ngabe Bugle,7,accidentes
+2018,4,Bocas del Toro,43,accidentes
+2018,4,Cocle,121,accidentes
+2018,4,Colon,260,accidentes
+2018,4,Chiriqui,445,accidentes
+2018,4,Darien,19,accidentes
+2018,4,Herrera,116,accidentes
+2018,4,Los Santos,83,accidentes
+2018,4,Panama,2699,accidentes
+2018,4,Panama Oeste,677,accidentes
+2018,4,Veraguas,151,accidentes
+2018,4,Ngabe Bugle,3,accidentes
+2018,5,Bocas del Toro,40,accidentes
+2018,5,Cocle,118,accidentes
+2018,5,Colon,282,accidentes
+2018,5,Chiriqui,403,accidentes
+2018,5,Darien,23,accidentes
+2018,5,Herrera,72,accidentes
+2018,5,Los Santos,71,accidentes
+2018,5,Panama,2804,accidentes
+2018,5,Panama Oeste,603,accidentes
+2018,5,Veraguas,159,accidentes
+2018,5,Ngabe Bugle,7,accidentes
+2018,6,Bocas del Toro,35,accidentes
+2018,6,Cocle,98,accidentes
+2018,6,Colon,302,accidentes
+2018,6,Chiriqui,432,accidentes
+2018,6,Darien,12,accidentes
+2018,6,Herrera,86,accidentes
+2018,6,Los Santos,65,accidentes
+2018,6,Panama,2680,accidentes
+2018,6,Panama Oeste,574,accidentes
+2018,6,Veraguas,153,accidentes
+2018,6,Ngabe Bugle,5,accidentes
+2018,7,Bocas del Toro,40,accidentes
+2018,7,Cocle,92,accidentes
+2018,7,Colon,296,accidentes
+2018,7,Chiriqui,395,accidentes
+2018,7,Darien,20,accidentes
+2018,7,Herrera,85,accidentes
+2018,7,Los Santos,52,accidentes
+2018,7,Panama,2798,accidentes
+2018,7,Panama Oeste,726,accidentes
+2018,7,Veraguas,153,accidentes
+2018,7,Ngabe Bugle,3,accidentes
+2018,8,Bocas del Toro,40,accidentes
+2018,8,Cocle,107,accidentes
+2018,8,Colon,313,accidentes
+2018,8,Chiriqui,370,accidentes
+2018,8,Darien,21,accidentes
+2018,8,Herrera,76,accidentes
+2018,8,Los Santos,48,accidentes
+2018,8,Panama,2817,accidentes
+2018,8,Panama Oeste,701,accidentes
+2018,8,Veraguas,119,accidentes
+2018,8,Ngabe Bugle,7,accidentes
+2018,9,Bocas del Toro,45,accidentes
+2018,9,Cocle,94,accidentes
+2018,9,Colon,256,accidentes
+2018,9,Chiriqui,377,accidentes
+2018,9,Darien,16,accidentes
+2018,9,Herrera,77,accidentes
+2018,9,Los Santos,80,accidentes
+2018,9,Panama,2760,accidentes
+2018,9,Panama Oeste,652,accidentes
+2018,9,Veraguas,148,accidentes
+2018,9,Ngabe Bugle,2,accidentes
+2018,10,Bocas del Toro,51,accidentes
+2018,10,Cocle,110,accidentes
+2018,10,Colon,306,accidentes
+2018,10,Chiriqui,394,accidentes
+2018,10,Darien,19,accidentes
+2018,10,Herrera,73,accidentes
+2018,10,Los Santos,54,accidentes
+2018,10,Panama,2968,accidentes
+2018,10,Panama Oeste,652,accidentes
+2018,10,Veraguas,138,accidentes
+2018,10,Ngabe Bugle,7,accidentes
+2018,11,Bocas del Toro,40,accidentes
+2018,11,Cocle,122,accidentes
+2018,11,Colon,304,accidentes
+2018,11,Chiriqui,388,accidentes
+2018,11,Darien,13,accidentes
+2018,11,Herrera,73,accidentes
+2018,11,Los Santos,45,accidentes
+2018,11,Panama,2792,accidentes
+2018,11,Panama Oeste,669,accidentes
+2018,11,Veraguas,137,accidentes
+2018,11,Ngabe Bugle,0,accidentes
+2018,12,Bocas del Toro,51,accidentes
+2018,12,Cocle,123,accidentes
+2018,12,Colon,304,accidentes
+2018,12,Chiriqui,413,accidentes
+2018,12,Darien,23,accidentes
+2018,12,Herrera,90,accidentes
+2018,12,Los Santos,70,accidentes
+2018,12,Panama,3044,accidentes
+2018,12,Panama Oeste,717,accidentes
+2018,12,Veraguas,153,accidentes
+2018,12,Ngabe Bugle,6,accidentes
+2018,1,Bocas del Toro,22,heridos
+2018,1,Cocle,59,heridos
+2018,1,Colon,112,heridos
+2018,1,Chiriqui,227,heridos
+2018,1,Darien,12,heridos
+2018,1,Herrera,53,heridos
+2018,1,Los Santos,42,heridos
+2018,1,Panama,464,heridos
+2018,1,Panama Oeste,202,heridos
+2018,1,Veraguas,58,heridos
+2018,1,Ngabe Bugle,1,heridos
+2018,2,Bocas del Toro,18,heridos
+2018,2,Cocle,102,heridos
+2018,2,Colon,64,heridos
+2018,2,Chiriqui,169,heridos
+2018,2,Darien,8,heridos
+2018,2,Herrera,56,heridos
+2018,2,Los Santos,49,heridos
+2018,2,Panama,490,heridos
+2018,2,Panama Oeste,277,heridos
+2018,2,Veraguas,82,heridos
+2018,2,Ngabe Bugle,0,heridos
+2018,3,Bocas del Toro,27,heridos
+2018,3,Cocle,66,heridos
+2018,3,Colon,54,heridos
+2018,3,Chiriqui,244,heridos
+2018,3,Darien,9,heridos
+2018,3,Herrera,44,heridos
+2018,3,Los Santos,63,heridos
+2018,3,Panama,574,heridos
+2018,3,Panama Oeste,246,heridos
+2018,3,Veraguas,91,heridos
+2018,3,Ngabe Bugle,3,heridos
+2018,4,Bocas del Toro,24,heridos
+2018,4,Cocle,76,heridos
+2018,4,Colon,63,heridos
+2018,4,Chiriqui,250,heridos
+2018,4,Darien,13,heridos
+2018,4,Herrera,46,heridos
+2018,4,Los Santos,39,heridos
+2018,4,Panama,454,heridos
+2018,4,Panama Oeste,274,heridos
+2018,4,Veraguas,67,heridos
+2018,4,Ngabe Bugle,3,heridos
+2018,5,Bocas del Toro,28,heridos
+2018,5,Cocle,96,heridos
+2018,5,Colon,83,heridos
+2018,5,Chiriqui,176,heridos
+2018,5,Darien,10,heridos
+2018,5,Herrera,35,heridos
+2018,5,Los Santos,44,heridos
+2018,5,Panama,550,heridos
+2018,5,Panama Oeste,217,heridos
+2018,5,Veraguas,56,heridos
+2018,5,Ngabe Bugle,2,heridos
+2018,6,Bocas del Toro,21,heridos
+2018,6,Cocle,51,heridos
+2018,6,Colon,74,heridos
+2018,6,Chiriqui,221,heridos
+2018,6,Darien,5,heridos
+2018,6,Herrera,53,heridos
+2018,6,Los Santos,29,heridos
+2018,6,Panama,510,heridos
+2018,6,Panama Oeste,189,heridos
+2018,6,Veraguas,91,heridos
+2018,6,Ngabe Bugle,13,heridos
+2018,7,Bocas del Toro,25,heridos
+2018,7,Cocle,59,heridos
+2018,7,Colon,47,heridos
+2018,7,Chiriqui,250,heridos
+2018,7,Darien,11,heridos
+2018,7,Herrera,35,heridos
+2018,7,Los Santos,13,heridos
+2018,7,Panama,546,heridos
+2018,7,Panama Oeste,246,heridos
+2018,7,Veraguas,58,heridos
+2018,7,Ngabe Bugle,0,heridos
+2018,8,Bocas del Toro,24,heridos
+2018,8,Cocle,96,heridos
+2018,8,Colon,62,heridos
+2018,8,Chiriqui,243,heridos
+2018,8,Darien,14,heridos
+2018,8,Herrera,36,heridos
+2018,8,Los Santos,29,heridos
+2018,8,Panama,466,heridos
+2018,8,Panama Oeste,213,heridos
+2018,8,Veraguas,45,heridos
+2018,8,Ngabe Bugle,4,heridos
+2018,9,Bocas del Toro,21,heridos
+2018,9,Cocle,51,heridos
+2018,9,Colon,88,heridos
+2018,9,Chiriqui,209,heridos
+2018,9,Darien,16,heridos
+2018,9,Herrera,45,heridos
+2018,9,Los Santos,34,heridos
+2018,9,Panama,517,heridos
+2018,9,Panama Oeste,242,heridos
+2018,9,Veraguas,54,heridos
+2018,9,Ngabe Bugle,1,heridos
+2018,10,Bocas del Toro,25,heridos
+2018,10,Cocle,43,heridos
+2018,10,Colon,69,heridos
+2018,10,Chiriqui,166,heridos
+2018,10,Darien,15,heridos
+2018,10,Herrera,34,heridos
+2018,10,Los Santos,28,heridos
+2018,10,Panama,558,heridos
+2018,10,Panama Oeste,292,heridos
+2018,10,Veraguas,56,heridos
+2018,10,Ngabe Bugle,10,heridos
+2018,11,Bocas del Toro,10,heridos
+2018,11,Cocle,61,heridos
+2018,11,Colon,95,heridos
+2018,11,Chiriqui,212,heridos
+2018,11,Darien,4,heridos
+2018,11,Herrera,47,heridos
+2018,11,Los Santos,15,heridos
+2018,11,Panama,497,heridos
+2018,11,Panama Oeste,242,heridos
+2018,11,Veraguas,58,heridos
+2018,11,Ngabe Bugle,0,heridos
+2018,12,Bocas del Toro,23,heridos
+2018,12,Cocle,71,heridos
+2018,12,Colon,58,heridos
+2018,12,Chiriqui,206,heridos
+2018,12,Darien,21,heridos
+2018,12,Herrera,55,heridos
+2018,12,Los Santos,38,heridos
+2018,12,Panama,506,heridos
+2018,12,Panama Oeste,234,heridos
+2018,12,Veraguas,46,heridos
+2018,12,Ngabe Bugle,3,heridos
+2018,1,Bocas del Toro,0,muertos
+2018,1,Cocle,2,muertos
+2018,1,Colon,2,muertos
+2018,1,Chiriqui,5,muertos
+2018,1,Darien,0,muertos
+2018,1,Herrera,3,muertos
+2018,1,Los Santos,3,muertos
+2018,1,Panama,6,muertos
+2018,1,Panama Oeste,6,muertos
+2018,1,Veraguas,5,muertos
+2018,1,Ngabe Bugle,0,muertos
+2018,2,Bocas del Toro,0,muertos
+2018,2,Cocle,2,muertos
+2018,2,Colon,3,muertos
+2018,2,Chiriqui,4,muertos
+2018,2,Darien,0,muertos
+2018,2,Herrera,1,muertos
+2018,2,Los Santos,1,muertos
+2018,2,Panama,6,muertos
+2018,2,Panama Oeste,4,muertos
+2018,2,Veraguas,2,muertos
+2018,2,Ngabe Bugle,0,muertos
+2018,3,Bocas del Toro,2,muertos
+2018,3,Cocle,2,muertos
+2018,3,Colon,3,muertos
+2018,3,Chiriqui,7,muertos
+2018,3,Darien,1,muertos
+2018,3,Herrera,0,muertos
+2018,3,Los Santos,2,muertos
+2018,3,Panama,9,muertos
+2018,3,Panama Oeste,9,muertos
+2018,3,Veraguas,0,muertos
+2018,3,Ngabe Bugle,0,muertos
+2018,4,Bocas del Toro,0,muertos
+2018,4,Cocle,2,muertos
+2018,4,Colon,5,muertos
+2018,4,Chiriqui,7,muertos
+2018,4,Darien,1,muertos
+2018,4,Herrera,1,muertos
+2018,4,Los Santos,0,muertos
+2018,4,Panama,11,muertos
+2018,4,Panama Oeste,5,muertos
+2018,4,Veraguas,7,muertos
+2018,4,Ngabe Bugle,0,muertos
+2018,5,Bocas del Toro,1,muertos
+2018,5,Cocle,4,muertos
+2018,5,Colon,2,muertos
+2018,5,Chiriqui,5,muertos
+2018,5,Darien,0,muertos
+2018,5,Herrera,0,muertos
+2018,5,Los Santos,1,muertos
+2018,5,Panama,0,muertos
+2018,5,Panama Oeste,3,muertos
+2018,5,Veraguas,2,muertos
+2018,5,Ngabe Bugle,0,muertos
+2018,6,Bocas del Toro,1,muertos
+2018,6,Cocle,6,muertos
+2018,6,Colon,1,muertos
+2018,6,Chiriqui,5,muertos
+2018,6,Darien,0,muertos
+2018,6,Herrera,1,muertos
+2018,6,Los Santos,1,muertos
+2018,6,Panama,10,muertos
+2018,6,Panama Oeste,4,muertos
+2018,6,Veraguas,2,muertos
+2018,6,Ngabe Bugle,0,muertos
+2018,7,Bocas del Toro,2,muertos
+2018,7,Cocle,2,muertos
+2018,7,Colon,1,muertos
+2018,7,Chiriqui,5,muertos
+2018,7,Darien,3,muertos
+2018,7,Herrera,1,muertos
+2018,7,Los Santos,0,muertos
+2018,7,Panama,9,muertos
+2018,7,Panama Oeste,4,muertos
+2018,7,Veraguas,3,muertos
+2018,7,Ngabe Bugle,0,muertos
+2018,8,Bocas del Toro,2,muertos
+2018,8,Cocle,1,muertos
+2018,8,Colon,2,muertos
+2018,8,Chiriqui,11,muertos
+2018,8,Darien,0,muertos
+2018,8,Herrera,0,muertos
+2018,8,Los Santos,0,muertos
+2018,8,Panama,12,muertos
+2018,8,Panama Oeste,6,muertos
+2018,8,Veraguas,2,muertos
+2018,8,Ngabe Bugle,0,muertos
+2018,9,Bocas del Toro,3,muertos
+2018,9,Cocle,4,muertos
+2018,9,Colon,0,muertos
+2018,9,Chiriqui,6,muertos
+2018,9,Darien,0,muertos
+2018,9,Herrera,0,muertos
+2018,9,Los Santos,1,muertos
+2018,9,Panama,7,muertos
+2018,9,Panama Oeste,10,muertos
+2018,9,Veraguas,2,muertos
+2018,9,Ngabe Bugle,1,muertos
+2018,10,Bocas del Toro,0,muertos
+2018,10,Cocle,3,muertos
+2018,10,Colon,2,muertos
+2018,10,Chiriqui,1,muertos
+2018,10,Darien,3,muertos
+2018,10,Herrera,0,muertos
+2018,10,Los Santos,1,muertos
+2018,10,Panama,4,muertos
+2018,10,Panama Oeste,4,muertos
+2018,10,Veraguas,7,muertos
+2018,10,Ngabe Bugle,0,muertos
+2018,11,Bocas del Toro,2,muertos
+2018,11,Cocle,2,muertos
+2018,11,Colon,4,muertos
+2018,11,Chiriqui,5,muertos
+2018,11,Darien,0,muertos
+2018,11,Herrera,1,muertos
+2018,11,Los Santos,1,muertos
+2018,11,Panama,8,muertos
+2018,11,Panama Oeste,3,muertos
+2018,11,Veraguas,1,muertos
+2018,11,Ngabe Bugle,0,muertos
+2018,12,Bocas del Toro,1,muertos
+2018,12,Cocle,0,muertos
+2018,12,Colon,1,muertos
+2018,12,Chiriqui,6,muertos
+2018,12,Darien,1,muertos
+2018,12,Herrera,1,muertos
+2018,12,Los Santos,0,muertos
+2018,12,Panama,13,muertos
+2018,12,Panama Oeste,8,muertos
+2018,12,Veraguas,3,muertos
+2018,12,Ngabe Bugle,0,muertos
+2019,1,Bocas del Toro,32,accidentes
+2019,1,Cocle,88,accidentes
+2019,1,Colon,226,accidentes
+2019,1,Chiriqui,395,accidentes
+2019,1,Darien,7,accidentes
+2019,1,Herrera,96,accidentes
+2019,1,Los Santos,58,accidentes
+2019,1,Panama,2457,accidentes
+2019,1,Panama Oeste,639,accidentes
+2019,1,Veraguas,140,accidentes
+2019,1,Guna Yala,0,accidentes
+2019,1,Ngabe Bugle,9,accidentes
+2019,2,Bocas del Toro,29,accidentes
+2019,2,Cocle,82,accidentes
+2019,2,Colon,216,accidentes
+2019,2,Chiriqui,366,accidentes
+2019,2,Darien,18,accidentes
+2019,2,Herrera,74,accidentes
+2019,2,Los Santos,67,accidentes
+2019,2,Panama,2502,accidentes
+2019,2,Panama Oeste,675,accidentes
+2019,2,Veraguas,124,accidentes
+2019,2,Guna Yala,0,accidentes
+2019,2,Ngabe Bugle,3,accidentes
+2019,3,Bocas del Toro,42,accidentes
+2019,3,Cocle,111,accidentes
+2019,3,Colon,276,accidentes
+2019,3,Chiriqui,400,accidentes
+2019,3,Darien,18,accidentes
+2019,3,Herrera,100,accidentes
+2019,3,Los Santos,85,accidentes
+2019,3,Panama,2599,accidentes
+2019,3,Panama Oeste,710,accidentes
+2019,3,Veraguas,125,accidentes
+2019,3,Guna Yala,0,accidentes
+2019,3,Ngabe Bugle,8,accidentes
+2019,4,Bocas del Toro,50,accidentes
+2019,4,Cocle,95,accidentes
+2019,4,Colon,265,accidentes
+2019,4,Chiriqui,422,accidentes
+2019,4,Darien,19,accidentes
+2019,4,Herrera,80,accidentes
+2019,4,Los Santos,68,accidentes
+2019,4,Panama,2625,accidentes
+2019,4,Panama Oeste,670,accidentes
+2019,4,Veraguas,141,accidentes
+2019,4,Guna Yala,0,accidentes
+2019,4,Ngabe Bugle,7,accidentes
+2019,5,Bocas del Toro,47,accidentes
+2019,5,Cocle,96,accidentes
+2019,5,Colon,288,accidentes
+2019,5,Chiriqui,373,accidentes
+2019,5,Darien,25,accidentes
+2019,5,Herrera,91,accidentes
+2019,5,Los Santos,62,accidentes
+2019,5,Panama,2541,accidentes
+2019,5,Panama Oeste,687,accidentes
+2019,5,Veraguas,149,accidentes
+2019,5,Guna Yala,0,accidentes
+2019,5,Ngabe Bugle,2,accidentes
+2019,6,Bocas del Toro,41,accidentes
+2019,6,Cocle,88,accidentes
+2019,6,Colon,265,accidentes
+2019,6,Chiriqui,381,accidentes
+2019,6,Darien,18,accidentes
+2019,6,Herrera,89,accidentes
+2019,6,Los Santos,61,accidentes
+2019,6,Panama,2246,accidentes
+2019,6,Panama Oeste,608,accidentes
+2019,6,Veraguas,129,accidentes
+2019,6,Guna Yala,0,accidentes
+2019,6,Ngabe Bugle,4,accidentes
+2019,7,Bocas del Toro,45,accidentes
+2019,7,Cocle,89,accidentes
+2019,7,Colon,283,accidentes
+2019,7,Chiriqui,367,accidentes
+2019,7,Darien,20,accidentes
+2019,7,Herrera,67,accidentes
+2019,7,Los Santos,60,accidentes
+2019,7,Panama,2392,accidentes
+2019,7,Panama Oeste,642,accidentes
+2019,7,Veraguas,128,accidentes
+2019,7,Guna Yala,0,accidentes
+2019,7,Ngabe Bugle,6,accidentes
+2019,8,Bocas del Toro,31,accidentes
+2019,8,Cocle,125,accidentes
+2019,8,Colon,276,accidentes
+2019,8,Chiriqui,433,accidentes
+2019,8,Darien,10,accidentes
+2019,8,Herrera,91,accidentes
+2019,8,Los Santos,51,accidentes
+2019,8,Panama,2548,accidentes
+2019,8,Panama Oeste,711,accidentes
+2019,8,Veraguas,169,accidentes
+2019,8,Guna Yala,0,accidentes
+2019,8,Ngabe Bugle,5,accidentes
+2019,9,Bocas del Toro,47,accidentes
+2019,9,Cocle,110,accidentes
+2019,9,Colon,255,accidentes
+2019,9,Chiriqui,389,accidentes
+2019,9,Darien,16,accidentes
+2019,9,Herrera,100,accidentes
+2019,9,Los Santos,67,accidentes
+2019,9,Panama,2546,accidentes
+2019,9,Panama Oeste,704,accidentes
+2019,9,Veraguas,152,accidentes
+2019,9,Guna Yala,0,accidentes
+2019,9,Ngabe Bugle,4,accidentes
+2019,10,Bocas del Toro,50,accidentes
+2019,10,Cocle,114,accidentes
+2019,10,Colon,252,accidentes
+2019,10,Chiriqui,416,accidentes
+2019,10,Darien,18,accidentes
+2019,10,Herrera,85,accidentes
+2019,10,Los Santos,53,accidentes
+2019,10,Panama,2628,accidentes
+2019,10,Panama Oeste,690,accidentes
+2019,10,Veraguas,145,accidentes
+2019,10,Guna Yala,0,accidentes
+2019,10,Ngabe Bugle,3,accidentes
+2019,11,Bocas del Toro,46,accidentes
+2019,11,Cocle,116,accidentes
+2019,11,Colon,266,accidentes
+2019,11,Chiriqui,390,accidentes
+2019,11,Darien,15,accidentes
+2019,11,Herrera,80,accidentes
+2019,11,Los Santos,62,accidentes
+2019,11,Panama,2463,accidentes
+2019,11,Panama Oeste,636,accidentes
+2019,11,Veraguas,132,accidentes
+2019,11,Guna Yala,0,accidentes
+2019,11,Ngabe Bugle,3,accidentes
+2019,12,Bocas del Toro,48,accidentes
+2019,12,Cocle,157,accidentes
+2019,12,Colon,255,accidentes
+2019,12,Chiriqui,367,accidentes
+2019,12,Darien,13,accidentes
+2019,12,Herrera,100,accidentes
+2019,12,Los Santos,58,accidentes
+2019,12,Panama,2594,accidentes
+2019,12,Panama Oeste,656,accidentes
+2019,12,Veraguas,164,accidentes
+2019,12,Guna Yala,1,accidentes
+2019,12,Ngabe Bugle,3,accidentes
+2019,1,Bocas del Toro,12,heridos
+2019,1,Cocle,65,heridos
+2019,1,Colon,61,heridos
+2019,1,Chiriqui,220,heridos
+2019,1,Darien,8,heridos
+2019,1,Herrera,37,heridos
+2019,1,Los Santos,29,heridos
+2019,1,Panama,453,heridos
+2019,1,Panama Oeste,209,heridos
+2019,1,Veraguas,71,heridos
+2019,1,Guna Yala,0,heridos
+2019,1,Ngabe Bugle,1,heridos
+2019,2,Bocas del Toro,14,heridos
+2019,2,Cocle,35,heridos
+2019,2,Colon,58,heridos
+2019,2,Chiriqui,170,heridos
+2019,2,Darien,9,heridos
+2019,2,Herrera,43,heridos
+2019,2,Los Santos,38,heridos
+2019,2,Panama,356,heridos
+2019,2,Panama Oeste,204,heridos
+2019,2,Veraguas,73,heridos
+2019,2,Guna Yala,0,heridos
+2019,2,Ngabe Bugle,1,heridos
+2019,3,Bocas del Toro,20,heridos
+2019,3,Cocle,77,heridos
+2019,3,Colon,108,heridos
+2019,3,Chiriqui,191,heridos
+2019,3,Darien,9,heridos
+2019,3,Herrera,48,heridos
+2019,3,Los Santos,37,heridos
+2019,3,Panama,460,heridos
+2019,3,Panama Oeste,205,heridos
+2019,3,Veraguas,68,heridos
+2019,3,Guna Yala,0,heridos
+2019,3,Ngabe Bugle,7,heridos
+2019,4,Bocas del Toro,27,heridos
+2019,4,Cocle,53,heridos
+2019,4,Colon,64,heridos
+2019,4,Chiriqui,222,heridos
+2019,4,Darien,8,heridos
+2019,4,Herrera,24,heridos
+2019,4,Los Santos,37,heridos
+2019,4,Panama,592,heridos
+2019,4,Panama Oeste,207,heridos
+2019,4,Veraguas,75,heridos
+2019,4,Guna Yala,0,heridos
+2019,4,Ngabe Bugle,13,heridos
+2019,5,Bocas del Toro,21,heridos
+2019,5,Cocle,55,heridos
+2019,5,Colon,69,heridos
+2019,5,Chiriqui,213,heridos
+2019,5,Darien,12,heridos
+2019,5,Herrera,42,heridos
+2019,5,Los Santos,28,heridos
+2019,5,Panama,485,heridos
+2019,5,Panama Oeste,186,heridos
+2019,5,Veraguas,50,heridos
+2019,5,Guna Yala,0,heridos
+2019,5,Ngabe Bugle,0,heridos
+2019,6,Bocas del Toro,15,heridos
+2019,6,Cocle,41,heridos
+2019,6,Colon,54,heridos
+2019,6,Chiriqui,193,heridos
+2019,6,Darien,15,heridos
+2019,6,Herrera,29,heridos
+2019,6,Los Santos,34,heridos
+2019,6,Panama,426,heridos
+2019,6,Panama Oeste,217,heridos
+2019,6,Veraguas,70,heridos
+2019,6,Guna Yala,0,heridos
+2019,6,Ngabe Bugle,10,heridos
+2019,7,Bocas del Toro,27,heridos
+2019,7,Cocle,55,heridos
+2019,7,Colon,79,heridos
+2019,7,Chiriqui,221,heridos
+2019,7,Darien,35,heridos
+2019,7,Herrera,33,heridos
+2019,7,Los Santos,40,heridos
+2019,7,Panama,391,heridos
+2019,7,Panama Oeste,190,heridos
+2019,7,Veraguas,34,heridos
+2019,7,Guna Yala,0,heridos
+2019,7,Ngabe Bugle,1,heridos
+2019,8,Bocas del Toro,18,heridos
+2019,8,Cocle,61,heridos
+2019,8,Colon,69,heridos
+2019,8,Chiriqui,237,heridos
+2019,8,Darien,2,heridos
+2019,8,Herrera,36,heridos
+2019,8,Los Santos,25,heridos
+2019,8,Panama,449,heridos
+2019,8,Panama Oeste,216,heridos
+2019,8,Veraguas,61,heridos
+2019,8,Guna Yala,0,heridos
+2019,8,Ngabe Bugle,1,heridos
+2019,9,Bocas del Toro,18,heridos
+2019,9,Cocle,60,heridos
+2019,9,Colon,73,heridos
+2019,9,Chiriqui,178,heridos
+2019,9,Darien,6,heridos
+2019,9,Herrera,41,heridos
+2019,9,Los Santos,26,heridos
+2019,9,Panama,438,heridos
+2019,9,Panama Oeste,191,heridos
+2019,9,Veraguas,74,heridos
+2019,9,Guna Yala,0,heridos
+2019,9,Ngabe Bugle,4,heridos
+2019,10,Bocas del Toro,23,heridos
+2019,10,Cocle,66,heridos
+2019,10,Colon,76,heridos
+2019,10,Chiriqui,184,heridos
+2019,10,Darien,10,heridos
+2019,10,Herrera,42,heridos
+2019,10,Los Santos,35,heridos
+2019,10,Panama,506,heridos
+2019,10,Panama Oeste,219,heridos
+2019,10,Veraguas,58,heridos
+2019,10,Guna Yala,0,heridos
+2019,10,Ngabe Bugle,5,heridos
+2019,11,Bocas del Toro,14,heridos
+2019,11,Cocle,88,heridos
+2019,11,Colon,50,heridos
+2019,11,Chiriqui,177,heridos
+2019,11,Darien,5,heridos
+2019,11,Herrera,42,heridos
+2019,11,Los Santos,43,heridos
+2019,11,Panama,497,heridos
+2019,11,Panama Oeste,202,heridos
+2019,11,Veraguas,60,heridos
+2019,11,Guna Yala,0,heridos
+2019,11,Ngabe Bugle,1,heridos
+2019,12,Bocas del Toro,27,heridos
+2019,12,Cocle,85,heridos
+2019,12,Colon,79,heridos
+2019,12,Chiriqui,160,heridos
+2019,12,Darien,7,heridos
+2019,12,Herrera,43,heridos
+2019,12,Los Santos,27,heridos
+2019,12,Panama,521,heridos
+2019,12,Panama Oeste,228,heridos
+2019,12,Veraguas,56,heridos
+2019,12,Guna Yala,0,heridos
+2019,12,Ngabe Bugle,2,heridos
+2019,1,Bocas del Toro,2,muertos
+2019,1,Cocle,3,muertos
+2019,1,Colon,0,muertos
+2019,1,Chiriqui,5,muertos
+2019,1,Darien,0,muertos
+2019,1,Herrera,2,muertos
+2019,1,Los Santos,1,muertos
+2019,1,Panama,8,muertos
+2019,1,Panama Oeste,5,muertos
+2019,1,Veraguas,1,muertos
+2019,1,Guna Yala,0,muertos
+2019,1,Ngabe Bugle,0,muertos
+2019,2,Bocas del Toro,0,muertos
+2019,2,Cocle,2,muertos
+2019,2,Colon,2,muertos
+2019,2,Chiriqui,6,muertos
+2019,2,Darien,1,muertos
+2019,2,Herrera,2,muertos
+2019,2,Los Santos,2,muertos
+2019,2,Panama,6,muertos
+2019,2,Panama Oeste,7,muertos
+2019,2,Veraguas,1,muertos
+2019,2,Guna Yala,0,muertos
+2019,2,Ngabe Bugle,0,muertos
+2019,3,Bocas del Toro,0,muertos
+2019,3,Cocle,0,muertos
+2019,3,Colon,2,muertos
+2019,3,Chiriqui,3,muertos
+2019,3,Darien,0,muertos
+2019,3,Herrera,0,muertos
+2019,3,Los Santos,3,muertos
+2019,3,Panama,5,muertos
+2019,3,Panama Oeste,4,muertos
+2019,3,Veraguas,1,muertos
+2019,3,Guna Yala,0,muertos
+2019,3,Ngabe Bugle,1,muertos
+2019,4,Bocas del Toro,0,muertos
+2019,4,Cocle,3,muertos
+2019,4,Colon,1,muertos
+2019,4,Chiriqui,4,muertos
+2019,4,Darien,0,muertos
+2019,4,Herrera,0,muertos
+2019,4,Los Santos,1,muertos
+2019,4,Panama,7,muertos
+2019,4,Panama Oeste,4,muertos
+2019,4,Veraguas,1,muertos
+2019,4,Guna Yala,0,muertos
+2019,4,Ngabe Bugle,0,muertos
+2019,5,Bocas del Toro,1,muertos
+2019,5,Cocle,2,muertos
+2019,5,Colon,2,muertos
+2019,5,Chiriqui,5,muertos
+2019,5,Darien,1,muertos
+2019,5,Herrera,1,muertos
+2019,5,Los Santos,1,muertos
+2019,5,Panama,10,muertos
+2019,5,Panama Oeste,6,muertos
+2019,5,Veraguas,0,muertos
+2019,5,Guna Yala,0,muertos
+2019,5,Ngabe Bugle,0,muertos
+2019,6,Bocas del Toro,0,muertos
+2019,6,Cocle,1,muertos
+2019,6,Colon,4,muertos
+2019,6,Chiriqui,6,muertos
+2019,6,Darien,1,muertos
+2019,6,Herrera,0,muertos
+2019,6,Los Santos,0,muertos
+2019,6,Panama,7,muertos
+2019,6,Panama Oeste,2,muertos
+2019,6,Veraguas,2,muertos
+2019,6,Guna Yala,0,muertos
+2019,6,Ngabe Bugle,0,muertos
+2019,7,Bocas del Toro,0,muertos
+2019,7,Cocle,2,muertos
+2019,7,Colon,0,muertos
+2019,7,Chiriqui,5,muertos
+2019,7,Darien,1,muertos
+2019,7,Herrera,0,muertos
+2019,7,Los Santos,0,muertos
+2019,7,Panama,5,muertos
+2019,7,Panama Oeste,4,muertos
+2019,7,Veraguas,5,muertos
+2019,7,Guna Yala,0,muertos
+2019,7,Ngabe Bugle,0,muertos
+2019,8,Bocas del Toro,0,muertos
+2019,8,Cocle,4,muertos
+2019,8,Colon,1,muertos
+2019,8,Chiriqui,0,muertos
+2019,8,Darien,0,muertos
+2019,8,Herrera,1,muertos
+2019,8,Los Santos,1,muertos
+2019,8,Panama,10,muertos
+2019,8,Panama Oeste,7,muertos
+2019,8,Veraguas,2,muertos
+2019,8,Guna Yala,0,muertos
+2019,8,Ngabe Bugle,3,muertos
+2019,9,Bocas del Toro,0,muertos
+2019,9,Cocle,7,muertos
+2019,9,Colon,4,muertos
+2019,9,Chiriqui,5,muertos
+2019,9,Darien,0,muertos
+2019,9,Herrera,0,muertos
+2019,9,Los Santos,0,muertos
+2019,9,Panama,3,muertos
+2019,9,Panama Oeste,5,muertos
+2019,9,Veraguas,3,muertos
+2019,9,Guna Yala,0,muertos
+2019,9,Ngabe Bugle,0,muertos
+2019,10,Bocas del Toro,0,muertos
+2019,10,Cocle,3,muertos
+2019,10,Colon,0,muertos
+2019,10,Chiriqui,5,muertos
+2019,10,Darien,0,muertos
+2019,10,Herrera,0,muertos
+2019,10,Los Santos,0,muertos
+2019,10,Panama,10,muertos
+2019,10,Panama Oeste,5,muertos
+2019,10,Veraguas,2,muertos
+2019,10,Guna Yala,0,muertos
+2019,10,Ngabe Bugle,0,muertos
+2019,11,Bocas del Toro,1,muertos
+2019,11,Cocle,6,muertos
+2019,11,Colon,5,muertos
+2019,11,Chiriqui,3,muertos
+2019,11,Darien,0,muertos
+2019,11,Herrera,0,muertos
+2019,11,Los Santos,0,muertos
+2019,11,Panama,4,muertos
+2019,11,Panama Oeste,9,muertos
+2019,11,Veraguas,2,muertos
+2019,11,Guna Yala,0,muertos
+2019,11,Ngabe Bugle,0,muertos
+2019,12,Bocas del Toro,1,muertos
+2019,12,Cocle,3,muertos
+2019,12,Colon,4,muertos
+2019,12,Chiriqui,5,muertos
+2019,12,Darien,0,muertos
+2019,12,Herrera,2,muertos
+2019,12,Los Santos,3,muertos
+2019,12,Panama,6,muertos
+2019,12,Panama Oeste,3,muertos
+2019,12,Veraguas,0,muertos
+2019,12,Guna Yala,0,muertos
+2019,12,Ngabe Bugle,0,muertos
+2020,1,Bocas del Toro,30,accidentes
+2020,1,Cocle,133,accidentes
+2020,1,Colon,229,accidentes
+2020,1,Chiriqui,370,accidentes
+2020,1,Darien,10,accidentes
+2020,1,Herrera,77,accidentes
+2020,1,Los Santos,72,accidentes
+2020,1,Panama,2280,accidentes
+2020,1,Panama Oeste,625,accidentes
+2020,1,Veraguas,134,accidentes
+2020,1,Guna Yala,0,accidentes
+2020,1,Embera,0,accidentes
+2020,1,Ngabe Bugle,4,accidentes
+2020,2,Bocas del Toro,29,accidentes
+2020,2,Cocle,163,accidentes
+2020,2,Colon,220,accidentes
+2020,2,Chiriqui,351,accidentes
+2020,2,Darien,8,accidentes
+2020,2,Herrera,91,accidentes
+2020,2,Los Santos,76,accidentes
+2020,2,Panama,2233,accidentes
+2020,2,Panama Oeste,616,accidentes
+2020,2,Veraguas,137,accidentes
+2020,2,Guna Yala,0,accidentes
+2020,2,Embera,0,accidentes
+2020,2,Ngabe Bugle,8,accidentes
+2020,3,Bocas del Toro,32,accidentes
+2020,3,Cocle,73,accidentes
+2020,3,Colon,191,accidentes
+2020,3,Chiriqui,235,accidentes
+2020,3,Darien,9,accidentes
+2020,3,Herrera,80,accidentes
+2020,3,Los Santos,38,accidentes
+2020,3,Panama,1660,accidentes
+2020,3,Panama Oeste,466,accidentes
+2020,3,Veraguas,87,accidentes
+2020,3,Guna Yala,0,accidentes
+2020,3,Embera,1,accidentes
+2020,3,Ngabe Bugle,3,accidentes
+2020,4,Bocas del Toro,10,accidentes
+2020,4,Cocle,23,accidentes
+2020,4,Colon,68,accidentes
+2020,4,Chiriqui,120,accidentes
+2020,4,Darien,7,accidentes
+2020,4,Herrera,26,accidentes
+2020,4,Los Santos,16,accidentes
+2020,4,Panama,585,accidentes
+2020,4,Panama Oeste,178,accidentes
+2020,4,Veraguas,33,accidentes
+2020,4,Guna Yala,0,accidentes
+2020,4,Embera,0,accidentes
+2020,4,Ngabe Bugle,1,accidentes
+2020,5,Bocas del Toro,23,accidentes
+2020,5,Cocle,44,accidentes
+2020,5,Colon,91,accidentes
+2020,5,Chiriqui,159,accidentes
+2020,5,Darien,8,accidentes
+2020,5,Herrera,49,accidentes
+2020,5,Los Santos,22,accidentes
+2020,5,Panama,804,accidentes
+2020,5,Panama Oeste,190,accidentes
+2020,5,Veraguas,38,accidentes
+2020,5,Guna Yala,0,accidentes
+2020,5,Embera,1,accidentes
+2020,5,Ngabe Bugle,5,accidentes
+2020,6,Bocas del Toro,35,accidentes
+2020,6,Cocle,43,accidentes
+2020,6,Colon,124,accidentes
+2020,6,Chiriqui,205,accidentes
+2020,6,Darien,10,accidentes
+2020,6,Herrera,54,accidentes
+2020,6,Los Santos,30,accidentes
+2020,6,Panama,983,accidentes
+2020,6,Panama Oeste,264,accidentes
+2020,6,Veraguas,73,accidentes
+2020,6,Guna Yala,0,accidentes
+2020,6,Embera,0,accidentes
+2020,6,Ngabe Bugle,2,accidentes
+2020,7,Bocas del Toro,24,accidentes
+2020,7,Cocle,54,accidentes
+2020,7,Colon,129,accidentes
+2020,7,Chiriqui,177,accidentes
+2020,7,Darien,7,accidentes
+2020,7,Herrera,53,accidentes
+2020,7,Los Santos,32,accidentes
+2020,7,Panama,988,accidentes
+2020,7,Panama Oeste,249,accidentes
+2020,7,Veraguas,70,accidentes
+2020,7,Guna Yala,0,accidentes
+2020,7,Embera,0,accidentes
+2020,7,Ngabe Bugle,2,accidentes
+2020,8,Bocas del Toro,25,accidentes
+2020,8,Cocle,60,accidentes
+2020,8,Colon,162,accidentes
+2020,8,Chiriqui,220,accidentes
+2020,8,Darien,13,accidentes
+2020,8,Herrera,57,accidentes
+2020,8,Los Santos,44,accidentes
+2020,8,Panama,1082,accidentes
+2020,8,Panama Oeste,253,accidentes
+2020,8,Veraguas,78,accidentes
+2020,8,Guna Yala,1,accidentes
+2020,8,Embera,0,accidentes
+2020,8,Ngabe Bugle,2,accidentes
+2020,9,Bocas del Toro,34,accidentes
+2020,9,Cocle,78,accidentes
+2020,9,Colon,150,accidentes
+2020,9,Chiriqui,229,accidentes
+2020,9,Darien,14,accidentes
+2020,9,Herrera,56,accidentes
+2020,9,Los Santos,49,accidentes
+2020,9,Panama,1402,accidentes
+2020,9,Panama Oeste,349,accidentes
+2020,9,Veraguas,104,accidentes
+2020,9,Guna Yala,1,accidentes
+2020,9,Embera,0,accidentes
+2020,9,Ngabe Bugle,6,accidentes
+2020,10,Bocas del Toro,37,accidentes
+2020,10,Cocle,94,accidentes
+2020,10,Colon,186,accidentes
+2020,10,Chiriqui,248,accidentes
+2020,10,Darien,10,accidentes
+2020,10,Herrera,78,accidentes
+2020,10,Los Santos,54,accidentes
+2020,10,Panama,1663,accidentes
+2020,10,Panama Oeste,467,accidentes
+2020,10,Veraguas,129,accidentes
+2020,10,Guna Yala,0,accidentes
+2020,10,Embera,0,accidentes
+2020,10,Ngabe Bugle,3,accidentes
+2020,11,Bocas del Toro,37,accidentes
+2020,11,Cocle,74,accidentes
+2020,11,Colon,168,accidentes
+2020,11,Chiriqui,246,accidentes
+2020,11,Darien,11,accidentes
+2020,11,Herrera,55,accidentes
+2020,11,Los Santos,43,accidentes
+2020,11,Panama,1515,accidentes
+2020,11,Panama Oeste,383,accidentes
+2020,11,Veraguas,116,accidentes
+2020,11,Guna Yala,0,accidentes
+2020,11,Embera,0,accidentes
+2020,11,Ngabe Bugle,4,accidentes
+2020,12,Bocas del Toro,50,accidentes
+2020,12,Cocle,94,accidentes
+2020,12,Colon,207,accidentes
+2020,12,Chiriqui,297,accidentes
+2020,12,Darien,15,accidentes
+2020,12,Herrera,87,accidentes
+2020,12,Los Santos,52,accidentes
+2020,12,Panama,1868,accidentes
+2020,12,Panama Oeste,466,accidentes
+2020,12,Veraguas,113,accidentes
+2020,12,Guna Yala,0,accidentes
+2020,12,Embera,0,accidentes
+2020,12,Ngabe Bugle,2,accidentes
+2020,1,Bocas del Toro,7,heridos
+2020,1,Cocle,82,heridos
+2020,1,Colon,59,heridos
+2020,1,Chiriqui,134,heridos
+2020,1,Darien,2,heridos
+2020,1,Herrera,30,heridos
+2020,1,Los Santos,41,heridos
+2020,1,Panama,501,heridos
+2020,1,Panama Oeste,250,heridos
+2020,1,Veraguas,50,heridos
+2020,1,Guna Yala,0,heridos
+2020,1,Embera,0,heridos
+2020,1,Ngabe Bugle,0,heridos
+2020,2,Bocas del Toro,15,heridos
+2020,2,Cocle,71,heridos
+2020,2,Colon,70,heridos
+2020,2,Chiriqui,136,heridos
+2020,2,Darien,1,heridos
+2020,2,Herrera,46,heridos
+2020,2,Los Santos,48,heridos
+2020,2,Panama,505,heridos
+2020,2,Panama Oeste,213,heridos
+2020,2,Veraguas,73,heridos
+2020,2,Guna Yala,0,heridos
+2020,2,Embera,0,heridos
+2020,2,Ngabe Bugle,4,heridos
+2020,3,Bocas del Toro,16,heridos
+2020,3,Cocle,26,heridos
+2020,3,Colon,46,heridos
+2020,3,Chiriqui,79,heridos
+2020,3,Darien,5,heridos
+2020,3,Herrera,34,heridos
+2020,3,Los Santos,21,heridos
+2020,3,Panama,318,heridos
+2020,3,Panama Oeste,161,heridos
+2020,3,Veraguas,19,heridos
+2020,3,Guna Yala,0,heridos
+2020,3,Embera,0,heridos
+2020,3,Ngabe Bugle,2,heridos
+2020,4,Bocas del Toro,4,heridos
+2020,4,Cocle,11,heridos
+2020,4,Colon,18,heridos
+2020,4,Chiriqui,39,heridos
+2020,4,Darien,3,heridos
+2020,4,Herrera,12,heridos
+2020,4,Los Santos,3,heridos
+2020,4,Panama,152,heridos
+2020,4,Panama Oeste,42,heridos
+2020,4,Veraguas,11,heridos
+2020,4,Guna Yala,0,heridos
+2020,4,Embera,0,heridos
+2020,4,Ngabe Bugle,0,heridos
+2020,5,Bocas del Toro,5,heridos
+2020,5,Cocle,21,heridos
+2020,5,Colon,20,heridos
+2020,5,Chiriqui,62,heridos
+2020,5,Darien,0,heridos
+2020,5,Herrera,11,heridos
+2020,5,Los Santos,13,heridos
+2020,5,Panama,210,heridos
+2020,5,Panama Oeste,46,heridos
+2020,5,Veraguas,13,heridos
+2020,5,Guna Yala,0,heridos
+2020,5,Embera,0,heridos
+2020,5,Ngabe Bugle,1,heridos
+2020,6,Bocas del Toro,10,heridos
+2020,6,Cocle,9,heridos
+2020,6,Colon,23,heridos
+2020,6,Chiriqui,76,heridos
+2020,6,Darien,0,heridos
+2020,6,Herrera,10,heridos
+2020,6,Los Santos,6,heridos
+2020,6,Panama,239,heridos
+2020,6,Panama Oeste,72,heridos
+2020,6,Veraguas,26,heridos
+2020,6,Guna Yala,0,heridos
+2020,6,Embera,0,heridos
+2020,6,Ngabe Bugle,0,heridos
+2020,7,Bocas del Toro,7,heridos
+2020,7,Cocle,20,heridos
+2020,7,Colon,27,heridos
+2020,7,Chiriqui,79,heridos
+2020,7,Darien,2,heridos
+2020,7,Herrera,24,heridos
+2020,7,Los Santos,13,heridos
+2020,7,Panama,186,heridos
+2020,7,Panama Oeste,77,heridos
+2020,7,Veraguas,29,heridos
+2020,7,Guna Yala,0,heridos
+2020,7,Embera,0,heridos
+2020,7,Ngabe Bugle,1,heridos
+2020,8,Bocas del Toro,5,heridos
+2020,8,Cocle,28,heridos
+2020,8,Colon,20,heridos
+2020,8,Chiriqui,86,heridos
+2020,8,Darien,4,heridos
+2020,8,Herrera,27,heridos
+2020,8,Los Santos,24,heridos
+2020,8,Panama,236,heridos
+2020,8,Panama Oeste,74,heridos
+2020,8,Veraguas,21,heridos
+2020,8,Guna Yala,0,heridos
+2020,8,Embera,0,heridos
+2020,8,Ngabe Bugle,1,heridos
+2020,9,Bocas del Toro,12,heridos
+2020,9,Cocle,50,heridos
+2020,9,Colon,24,heridos
+2020,9,Chiriqui,93,heridos
+2020,9,Darien,3,heridos
+2020,9,Herrera,15,heridos
+2020,9,Los Santos,17,heridos
+2020,9,Panama,320,heridos
+2020,9,Panama Oeste,124,heridos
+2020,9,Veraguas,46,heridos
+2020,9,Guna Yala,0,heridos
+2020,9,Embera,0,heridos
+2020,9,Ngabe Bugle,2,heridos
+2020,10,Bocas del Toro,14,heridos
+2020,10,Cocle,27,heridos
+2020,10,Colon,46,heridos
+2020,10,Chiriqui,110,heridos
+2020,10,Darien,5,heridos
+2020,10,Herrera,26,heridos
+2020,10,Los Santos,27,heridos
+2020,10,Panama,448,heridos
+2020,10,Panama Oeste,140,heridos
+2020,10,Veraguas,66,heridos
+2020,10,Guna Yala,0,heridos
+2020,10,Embera,0,heridos
+2020,10,Ngabe Bugle,0,heridos
+2020,11,Bocas del Toro,18,heridos
+2020,11,Cocle,31,heridos
+2020,11,Colon,38,heridos
+2020,11,Chiriqui,104,heridos
+2020,11,Darien,1,heridos
+2020,11,Herrera,19,heridos
+2020,11,Los Santos,15,heridos
+2020,11,Panama,327,heridos
+2020,11,Panama Oeste,122,heridos
+2020,11,Veraguas,45,heridos
+2020,11,Guna Yala,0,heridos
+2020,11,Embera,0,heridos
+2020,11,Ngabe Bugle,0,heridos
+2020,12,Bocas del Toro,20,heridos
+2020,12,Cocle,54,heridos
+2020,12,Colon,34,heridos
+2020,12,Chiriqui,103,heridos
+2020,12,Darien,2,heridos
+2020,12,Herrera,29,heridos
+2020,12,Los Santos,18,heridos
+2020,12,Panama,407,heridos
+2020,12,Panama Oeste,133,heridos
+2020,12,Veraguas,50,heridos
+2020,12,Guna Yala,0,heridos
+2020,12,Embera,0,heridos
+2020,12,Ngabe Bugle,3,heridos
+2020,1,Bocas del Toro,1,muertos
+2020,1,Cocle,1,muertos
+2020,1,Colon,3,muertos
+2020,1,Chiriqui,6,muertos
+2020,1,Darien,0,muertos
+2020,1,Herrera,0,muertos
+2020,1,Los Santos,1,muertos
+2020,1,Panama,6,muertos
+2020,1,Panama Oeste,8,muertos
+2020,1,Veraguas,5,muertos
+2020,1,Guna Yala,0,muertos
+2020,1,Embera,0,muertos
+2020,1,Ngabe Bugle,0,muertos
+2020,2,Bocas del Toro,0,muertos
+2020,2,Cocle,2,muertos
+2020,2,Colon,1,muertos
+2020,2,Chiriqui,3,muertos
+2020,2,Darien,0,muertos
+2020,2,Herrera,2,muertos
+2020,2,Los Santos,0,muertos
+2020,2,Panama,10,muertos
+2020,2,Panama Oeste,3,muertos
+2020,2,Veraguas,0,muertos
+2020,2,Guna Yala,0,muertos
+2020,2,Embera,0,muertos
+2020,2,Ngabe Bugle,2,muertos
+2020,3,Bocas del Toro,0,muertos
+2020,3,Cocle,0,muertos
+2020,3,Colon,3,muertos
+2020,3,Chiriqui,3,muertos
+2020,3,Darien,0,muertos
+2020,3,Herrera,2,muertos
+2020,3,Los Santos,0,muertos
+2020,3,Panama,3,muertos
+2020,3,Panama Oeste,1,muertos
+2020,3,Veraguas,4,muertos
+2020,3,Guna Yala,0,muertos
+2020,3,Embera,0,muertos
+2020,3,Ngabe Bugle,0,muertos
+2020,4,Bocas del Toro,0,muertos
+2020,4,Cocle,0,muertos
+2020,4,Colon,1,muertos
+2020,4,Chiriqui,2,muertos
+2020,4,Darien,1,muertos
+2020,4,Herrera,0,muertos
+2020,4,Los Santos,0,muertos
+2020,4,Panama,1,muertos
+2020,4,Panama Oeste,1,muertos
+2020,4,Veraguas,0,muertos
+2020,4,Guna Yala,0,muertos
+2020,4,Embera,0,muertos
+2020,4,Ngabe Bugle,0,muertos
+2020,5,Bocas del Toro,0,muertos
+2020,5,Cocle,2,muertos
+2020,5,Colon,0,muertos
+2020,5,Chiriqui,2,muertos
+2020,5,Darien,1,muertos
+2020,5,Herrera,0,muertos
+2020,5,Los Santos,0,muertos
+2020,5,Panama,2,muertos
+2020,5,Panama Oeste,1,muertos
+2020,5,Veraguas,1,muertos
+2020,5,Guna Yala,0,muertos
+2020,5,Embera,0,muertos
+2020,5,Ngabe Bugle,0,muertos
+2020,6,Bocas del Toro,0,muertos
+2020,6,Cocle,0,muertos
+2020,6,Colon,2,muertos
+2020,6,Chiriqui,2,muertos
+2020,6,Darien,0,muertos
+2020,6,Herrera,0,muertos
+2020,6,Los Santos,0,muertos
+2020,6,Panama,5,muertos
+2020,6,Panama Oeste,3,muertos
+2020,6,Veraguas,1,muertos
+2020,6,Guna Yala,0,muertos
+2020,6,Embera,0,muertos
+2020,6,Ngabe Bugle,0,muertos
+2020,7,Bocas del Toro,0,muertos
+2020,7,Cocle,1,muertos
+2020,7,Colon,2,muertos
+2020,7,Chiriqui,2,muertos
+2020,7,Darien,0,muertos
+2020,7,Herrera,0,muertos
+2020,7,Los Santos,0,muertos
+2020,7,Panama,4,muertos
+2020,7,Panama Oeste,0,muertos
+2020,7,Veraguas,1,muertos
+2020,7,Guna Yala,0,muertos
+2020,7,Embera,0,muertos
+2020,7,Ngabe Bugle,0,muertos
+2020,8,Bocas del Toro,1,muertos
+2020,8,Cocle,0,muertos
+2020,8,Colon,0,muertos
+2020,8,Chiriqui,4,muertos
+2020,8,Darien,0,muertos
+2020,8,Herrera,0,muertos
+2020,8,Los Santos,0,muertos
+2020,8,Panama,1,muertos
+2020,8,Panama Oeste,0,muertos
+2020,8,Veraguas,1,muertos
+2020,8,Guna Yala,0,muertos
+2020,8,Embera,0,muertos
+2020,8,Ngabe Bugle,0,muertos
+2020,9,Bocas del Toro,0,muertos
+2020,9,Cocle,1,muertos
+2020,9,Colon,0,muertos
+2020,9,Chiriqui,1,muertos
+2020,9,Darien,0,muertos
+2020,9,Herrera,0,muertos
+2020,9,Los Santos,2,muertos
+2020,9,Panama,4,muertos
+2020,9,Panama Oeste,4,muertos
+2020,9,Veraguas,2,muertos
+2020,9,Guna Yala,0,muertos
+2020,9,Embera,0,muertos
+2020,9,Ngabe Bugle,1,muertos
+2020,10,Bocas del Toro,0,muertos
+2020,10,Cocle,2,muertos
+2020,10,Colon,1,muertos
+2020,10,Chiriqui,5,muertos
+2020,10,Darien,0,muertos
+2020,10,Herrera,1,muertos
+2020,10,Los Santos,1,muertos
+2020,10,Panama,2,muertos
+2020,10,Panama Oeste,2,muertos
+2020,10,Veraguas,0,muertos
+2020,10,Guna Yala,0,muertos
+2020,10,Embera,0,muertos
+2020,10,Ngabe Bugle,0,muertos
+2020,11,Bocas del Toro,1,muertos
+2020,11,Cocle,1,muertos
+2020,11,Colon,2,muertos
+2020,11,Chiriqui,4,muertos
+2020,11,Darien,1,muertos
+2020,11,Herrera,0,muertos
+2020,11,Los Santos,0,muertos
+2020,11,Panama,5,muertos
+2020,11,Panama Oeste,2,muertos
+2020,11,Veraguas,2,muertos
+2020,11,Guna Yala,0,muertos
+2020,11,Embera,0,muertos
+2020,11,Ngabe Bugle,0,muertos
+2020,12,Bocas del Toro,3,muertos
+2020,12,Cocle,0,muertos
+2020,12,Colon,1,muertos
+2020,12,Chiriqui,7,muertos
+2020,12,Darien,0,muertos
+2020,12,Herrera,1,muertos
+2020,12,Los Santos,1,muertos
+2020,12,Panama,6,muertos
+2020,12,Panama Oeste,0,muertos
+2020,12,Veraguas,0,muertos
+2020,12,Guna Yala,0,muertos
+2020,12,Embera,0,muertos
+2020,12,Ngabe Bugle,0,muertos
+2021,1,Bocas del Toro,43,accidentes
+2021,1,Cocle,53,accidentes
+2021,1,Colon,154,accidentes
+2021,1,Chiriqui,275,accidentes
+2021,1,Darien,13,accidentes
+2021,1,Herrera,44,accidentes
+2021,1,Los Santos,23,accidentes
+2021,1,Panama,1192,accidentes
+2021,1,Panama Oeste,304,accidentes
+2021,1,Veraguas,83,accidentes
+2021,1,Guna Yala,1,accidentes
+2021,1,Ngabe Bugle,2,accidentes
+2021,2,Bocas del Toro,33,accidentes
+2021,2,Cocle,92,accidentes
+2021,2,Colon,160,accidentes
+2021,2,Chiriqui,288,accidentes
+2021,2,Darien,18,accidentes
+2021,2,Herrera,61,accidentes
+2021,2,Los Santos,48,accidentes
+2021,2,Panama,1492,accidentes
+2021,2,Panama Oeste,392,accidentes
+2021,2,Veraguas,125,accidentes
+2021,2,Guna Yala,0,accidentes
+2021,2,Ngabe Bugle,3,accidentes
+2021,3,Bocas del Toro,48,accidentes
+2021,3,Cocle,135,accidentes
+2021,3,Colon,210,accidentes
+2021,3,Chiriqui,339,accidentes
+2021,3,Darien,11,accidentes
+2021,3,Herrera,72,accidentes
+2021,3,Los Santos,64,accidentes
+2021,3,Panama,1927,accidentes
+2021,3,Panama Oeste,568,accidentes
+2021,3,Veraguas,128,accidentes
+2021,3,Guna Yala,0,accidentes
+2021,3,Ngabe Bugle,6,accidentes
+2021,4,Bocas del Toro,32,accidentes
+2021,4,Cocle,103,accidentes
+2021,4,Colon,213,accidentes
+2021,4,Chiriqui,317,accidentes
+2021,4,Darien,15,accidentes
+2021,4,Herrera,78,accidentes
+2021,4,Los Santos,49,accidentes
+2021,4,Panama,1706,accidentes
+2021,4,Panama Oeste,529,accidentes
+2021,4,Veraguas,151,accidentes
+2021,4,Guna Yala,0,accidentes
+2021,4,Ngabe Bugle,3,accidentes
+2021,5,Bocas del Toro,46,accidentes
+2021,5,Cocle,118,accidentes
+2021,5,Colon,190,accidentes
+2021,5,Chiriqui,320,accidentes
+2021,5,Darien,11,accidentes
+2021,5,Herrera,94,accidentes
+2021,5,Los Santos,52,accidentes
+2021,5,Panama,1802,accidentes
+2021,5,Panama Oeste,521,accidentes
+2021,5,Veraguas,133,accidentes
+2021,5,Guna Yala,0,accidentes
+2021,5,Ngabe Bugle,8,accidentes
+2021,6,Bocas del Toro,44,accidentes
+2021,6,Cocle,116,accidentes
+2021,6,Colon,181,accidentes
+2021,6,Chiriqui,332,accidentes
+2021,6,Darien,10,accidentes
+2021,6,Herrera,74,accidentes
+2021,6,Los Santos,52,accidentes
+2021,6,Panama,1842,accidentes
+2021,6,Panama Oeste,541,accidentes
+2021,6,Veraguas,131,accidentes
+2021,6,Guna Yala,0,accidentes
+2021,6,Ngabe Bugle,8,accidentes
+2021,7,Bocas del Toro,59,accidentes
+2021,7,Cocle,115,accidentes
+2021,7,Colon,212,accidentes
+2021,7,Chiriqui,348,accidentes
+2021,7,Darien,10,accidentes
+2021,7,Herrera,63,accidentes
+2021,7,Los Santos,47,accidentes
+2021,7,Panama,1923,accidentes
+2021,7,Panama Oeste,489,accidentes
+2021,7,Veraguas,143,accidentes
+2021,7,Guna Yala,0,accidentes
+2021,7,Ngabe Bugle,10,accidentes
+2021,8,Bocas del Toro,43,accidentes
+2021,8,Cocle,94,accidentes
+2021,8,Colon,239,accidentes
+2021,8,Chiriqui,353,accidentes
+2021,8,Darien,15,accidentes
+2021,8,Herrera,81,accidentes
+2021,8,Los Santos,51,accidentes
+2021,8,Panama,1869,accidentes
+2021,8,Panama Oeste,586,accidentes
+2021,8,Veraguas,150,accidentes
+2021,8,Guna Yala,0,accidentes
+2021,8,Ngabe Bugle,5,accidentes
+2021,9,Bocas del Toro,36,accidentes
+2021,9,Cocle,121,accidentes
+2021,9,Colon,223,accidentes
+2021,9,Chiriqui,379,accidentes
+2021,9,Darien,18,accidentes
+2021,9,Herrera,98,accidentes
+2021,9,Los Santos,57,accidentes
+2021,9,Panama,1967,accidentes
+2021,9,Panama Oeste,551,accidentes
+2021,9,Veraguas,149,accidentes
+2021,9,Guna Yala,0,accidentes
+2021,9,Ngabe Bugle,6,accidentes
+2021,10,Bocas del Toro,36,accidentes
+2021,10,Cocle,130,accidentes
+2021,10,Colon,264,accidentes
+2021,10,Chiriqui,359,accidentes
+2021,10,Darien,24,accidentes
+2021,10,Herrera,86,accidentes
+2021,10,Los Santos,57,accidentes
+2021,10,Panama,2089,accidentes
+2021,10,Panama Oeste,629,accidentes
+2021,10,Veraguas,166,accidentes
+2021,10,Guna Yala,0,accidentes
+2021,10,Ngabe Bugle,3,accidentes
+2021,11,Bocas del Toro,45,accidentes
+2021,11,Cocle,128,accidentes
+2021,11,Colon,278,accidentes
+2021,11,Chiriqui,332,accidentes
+2021,11,Darien,12,accidentes
+2021,11,Herrera,111,accidentes
+2021,11,Los Santos,47,accidentes
+2021,11,Panama,1813,accidentes
+2021,11,Panama Oeste,522,accidentes
+2021,11,Veraguas,129,accidentes
+2021,11,Guna Yala,0,accidentes
+2021,11,Ngabe Bugle,2,accidentes
+2021,12,Bocas del Toro,57,accidentes
+2021,12,Cocle,112,accidentes
+2021,12,Colon,261,accidentes
+2021,12,Chiriqui,426,accidentes
+2021,12,Darien,12,accidentes
+2021,12,Herrera,106,accidentes
+2021,12,Los Santos,66,accidentes
+2021,12,Panama,2274,accidentes
+2021,12,Panama Oeste,661,accidentes
+2021,12,Veraguas,184,accidentes
+2021,12,Guna Yala,0,accidentes
+2021,12,Ngabe Bugle,5,accidentes
+2021,1,Bocas del Toro,12,heridos
+2021,1,Cocle,17,heridos
+2021,1,Colon,36,heridos
+2021,1,Chiriqui,119,heridos
+2021,1,Darien,3,heridos
+2021,1,Herrera,17,heridos
+2021,1,Los Santos,7,heridos
+2021,1,Panama,294,heridos
+2021,1,Panama Oeste,126,heridos
+2021,1,Veraguas,19,heridos
+2021,1,Guna Yala,1,heridos
+2021,1,Ngabe Bugle,5,heridos
+2021,2,Bocas del Toro,15,heridos
+2021,2,Cocle,35,heridos
+2021,2,Colon,40,heridos
+2021,2,Chiriqui,121,heridos
+2021,2,Darien,7,heridos
+2021,2,Herrera,23,heridos
+2021,2,Los Santos,14,heridos
+2021,2,Panama,354,heridos
+2021,2,Panama Oeste,138,heridos
+2021,2,Veraguas,44,heridos
+2021,2,Guna Yala,0,heridos
+2021,2,Ngabe Bugle,1,heridos
+2021,3,Bocas del Toro,23,heridos
+2021,3,Cocle,80,heridos
+2021,3,Colon,56,heridos
+2021,3,Chiriqui,124,heridos
+2021,3,Darien,17,heridos
+2021,3,Herrera,20,heridos
+2021,3,Los Santos,24,heridos
+2021,3,Panama,428,heridos
+2021,3,Panama Oeste,172,heridos
+2021,3,Veraguas,52,heridos
+2021,3,Guna Yala,0,heridos
+2021,3,Ngabe Bugle,4,heridos
+2021,4,Bocas del Toro,13,heridos
+2021,4,Cocle,32,heridos
+2021,4,Colon,63,heridos
+2021,4,Chiriqui,146,heridos
+2021,4,Darien,4,heridos
+2021,4,Herrera,28,heridos
+2021,4,Los Santos,24,heridos
+2021,4,Panama,418,heridos
+2021,4,Panama Oeste,200,heridos
+2021,4,Veraguas,72,heridos
+2021,4,Guna Yala,0,heridos
+2021,4,Ngabe Bugle,6,heridos
+2021,5,Bocas del Toro,32,heridos
+2021,5,Cocle,59,heridos
+2021,5,Colon,73,heridos
+2021,5,Chiriqui,146,heridos
+2021,5,Darien,9,heridos
+2021,5,Herrera,33,heridos
+2021,5,Los Santos,22,heridos
+2021,5,Panama,474,heridos
+2021,5,Panama Oeste,222,heridos
+2021,5,Veraguas,48,heridos
+2021,5,Guna Yala,0,heridos
+2021,5,Ngabe Bugle,10,heridos
+2021,6,Bocas del Toro,25,heridos
+2021,6,Cocle,36,heridos
+2021,6,Colon,48,heridos
+2021,6,Chiriqui,170,heridos
+2021,6,Darien,5,heridos
+2021,6,Herrera,15,heridos
+2021,6,Los Santos,28,heridos
+2021,6,Panama,444,heridos
+2021,6,Panama Oeste,201,heridos
+2021,6,Veraguas,58,heridos
+2021,6,Guna Yala,0,heridos
+2021,6,Ngabe Bugle,4,heridos
+2021,7,Bocas del Toro,26,heridos
+2021,7,Cocle,45,heridos
+2021,7,Colon,63,heridos
+2021,7,Chiriqui,133,heridos
+2021,7,Darien,1,heridos
+2021,7,Herrera,27,heridos
+2021,7,Los Santos,10,heridos
+2021,7,Panama,467,heridos
+2021,7,Panama Oeste,168,heridos
+2021,7,Veraguas,49,heridos
+2021,7,Guna Yala,0,heridos
+2021,7,Ngabe Bugle,4,heridos
+2021,8,Bocas del Toro,17,heridos
+2021,8,Cocle,49,heridos
+2021,8,Colon,59,heridos
+2021,8,Chiriqui,158,heridos
+2021,8,Darien,3,heridos
+2021,8,Herrera,23,heridos
+2021,8,Los Santos,21,heridos
+2021,8,Panama,423,heridos
+2021,8,Panama Oeste,213,heridos
+2021,8,Veraguas,77,heridos
+2021,8,Guna Yala,0,heridos
+2021,8,Ngabe Bugle,14,heridos
+2021,9,Bocas del Toro,24,heridos
+2021,9,Cocle,83,heridos
+2021,9,Colon,64,heridos
+2021,9,Chiriqui,154,heridos
+2021,9,Darien,2,heridos
+2021,9,Herrera,39,heridos
+2021,9,Los Santos,20,heridos
+2021,9,Panama,477,heridos
+2021,9,Panama Oeste,193,heridos
+2021,9,Veraguas,63,heridos
+2021,9,Guna Yala,0,heridos
+2021,9,Ngabe Bugle,3,heridos
+2021,10,Bocas del Toro,24,heridos
+2021,10,Cocle,59,heridos
+2021,10,Colon,72,heridos
+2021,10,Chiriqui,129,heridos
+2021,10,Darien,9,heridos
+2021,10,Herrera,30,heridos
+2021,10,Los Santos,32,heridos
+2021,10,Panama,490,heridos
+2021,10,Panama Oeste,199,heridos
+2021,10,Veraguas,68,heridos
+2021,10,Guna Yala,0,heridos
+2021,10,Ngabe Bugle,0,heridos
+2021,11,Bocas del Toro,20,heridos
+2021,11,Cocle,61,heridos
+2021,11,Colon,61,heridos
+2021,11,Chiriqui,147,heridos
+2021,11,Darien,4,heridos
+2021,11,Herrera,30,heridos
+2021,11,Los Santos,19,heridos
+2021,11,Panama,440,heridos
+2021,11,Panama Oeste,200,heridos
+2021,11,Veraguas,53,heridos
+2021,11,Guna Yala,0,heridos
+2021,11,Ngabe Bugle,0,heridos
+2021,12,Bocas del Toro,43,heridos
+2021,12,Cocle,65,heridos
+2021,12,Colon,42,heridos
+2021,12,Chiriqui,194,heridos
+2021,12,Darien,5,heridos
+2021,12,Herrera,47,heridos
+2021,12,Los Santos,28,heridos
+2021,12,Panama,565,heridos
+2021,12,Panama Oeste,228,heridos
+2021,12,Veraguas,76,heridos
+2021,12,Guna Yala,0,heridos
+2021,12,Ngabe Bugle,2,heridos
+2021,1,Bocas del Toro,0,muertos
+2021,1,Cocle,0,muertos
+2021,1,Colon,0,muertos
+2021,1,Chiriqui,2,muertos
+2021,1,Darien,0,muertos
+2021,1,Herrera,0,muertos
+2021,1,Los Santos,1,muertos
+2021,1,Panama,8,muertos
+2021,1,Panama Oeste,4,muertos
+2021,1,Veraguas,0,muertos
+2021,1,Guna Yala,0,muertos
+2021,1,Ngabe Bugle,0,muertos
+2021,2,Bocas del Toro,0,muertos
+2021,2,Cocle,0,muertos
+2021,2,Colon,1,muertos
+2021,2,Chiriqui,2,muertos
+2021,2,Darien,2,muertos
+2021,2,Herrera,2,muertos
+2021,2,Los Santos,1,muertos
+2021,2,Panama,4,muertos
+2021,2,Panama Oeste,5,muertos
+2021,2,Veraguas,2,muertos
+2021,2,Guna Yala,0,muertos
+2021,2,Ngabe Bugle,1,muertos
+2021,3,Bocas del Toro,1,muertos
+2021,3,Cocle,2,muertos
+2021,3,Colon,2,muertos
+2021,3,Chiriqui,4,muertos
+2021,3,Darien,1,muertos
+2021,3,Herrera,0,muertos
+2021,3,Los Santos,1,muertos
+2021,3,Panama,4,muertos
+2021,3,Panama Oeste,4,muertos
+2021,3,Veraguas,3,muertos
+2021,3,Guna Yala,0,muertos
+2021,3,Ngabe Bugle,0,muertos
+2021,4,Bocas del Toro,0,muertos
+2021,4,Cocle,3,muertos
+2021,4,Colon,1,muertos
+2021,4,Chiriqui,3,muertos
+2021,4,Darien,0,muertos
+2021,4,Herrera,1,muertos
+2021,4,Los Santos,0,muertos
+2021,4,Panama,6,muertos
+2021,4,Panama Oeste,7,muertos
+2021,4,Veraguas,1,muertos
+2021,4,Guna Yala,0,muertos
+2021,4,Ngabe Bugle,1,muertos
+2021,5,Bocas del Toro,1,muertos
+2021,5,Cocle,0,muertos
+2021,5,Colon,0,muertos
+2021,5,Chiriqui,4,muertos
+2021,5,Darien,0,muertos
+2021,5,Herrera,2,muertos
+2021,5,Los Santos,1,muertos
+2021,5,Panama,6,muertos
+2021,5,Panama Oeste,4,muertos
+2021,5,Veraguas,1,muertos
+2021,5,Guna Yala,0,muertos
+2021,5,Ngabe Bugle,0,muertos
+2021,6,Bocas del Toro,1,muertos
+2021,6,Cocle,3,muertos
+2021,6,Colon,1,muertos
+2021,6,Chiriqui,7,muertos
+2021,6,Darien,0,muertos
+2021,6,Herrera,1,muertos
+2021,6,Los Santos,1,muertos
+2021,6,Panama,10,muertos
+2021,6,Panama Oeste,2,muertos
+2021,6,Veraguas,1,muertos
+2021,6,Guna Yala,0,muertos
+2021,6,Ngabe Bugle,0,muertos
+2021,7,Bocas del Toro,0,muertos
+2021,7,Cocle,1,muertos
+2021,7,Colon,1,muertos
+2021,7,Chiriqui,5,muertos
+2021,7,Darien,0,muertos
+2021,7,Herrera,1,muertos
+2021,7,Los Santos,0,muertos
+2021,7,Panama,5,muertos
+2021,7,Panama Oeste,0,muertos
+2021,7,Veraguas,2,muertos
+2021,7,Guna Yala,0,muertos
+2021,7,Ngabe Bugle,0,muertos
+2021,8,Bocas del Toro,0,muertos
+2021,8,Cocle,2,muertos
+2021,8,Colon,3,muertos
+2021,8,Chiriqui,3,muertos
+2021,8,Darien,0,muertos
+2021,8,Herrera,0,muertos
+2021,8,Los Santos,1,muertos
+2021,8,Panama,2,muertos
+2021,8,Panama Oeste,2,muertos
+2021,8,Veraguas,2,muertos
+2021,8,Guna Yala,0,muertos
+2021,8,Ngabe Bugle,1,muertos
+2021,9,Bocas del Toro,1,muertos
+2021,9,Cocle,1,muertos
+2021,9,Colon,3,muertos
+2021,9,Chiriqui,5,muertos
+2021,9,Darien,0,muertos
+2021,9,Herrera,1,muertos
+2021,9,Los Santos,0,muertos
+2021,9,Panama,4,muertos
+2021,9,Panama Oeste,7,muertos
+2021,9,Veraguas,0,muertos
+2021,9,Guna Yala,0,muertos
+2021,9,Ngabe Bugle,0,muertos
+2021,10,Bocas del Toro,3,muertos
+2021,10,Cocle,4,muertos
+2021,10,Colon,1,muertos
+2021,10,Chiriqui,5,muertos
+2021,10,Darien,0,muertos
+2021,10,Herrera,0,muertos
+2021,10,Los Santos,3,muertos
+2021,10,Panama,10,muertos
+2021,10,Panama Oeste,1,muertos
+2021,10,Veraguas,4,muertos
+2021,10,Guna Yala,0,muertos
+2021,10,Ngabe Bugle,0,muertos
+2021,11,Bocas del Toro,2,muertos
+2021,11,Cocle,8,muertos
+2021,11,Colon,1,muertos
+2021,11,Chiriqui,0,muertos
+2021,11,Darien,0,muertos
+2021,11,Herrera,1,muertos
+2021,11,Los Santos,0,muertos
+2021,11,Panama,6,muertos
+2021,11,Panama Oeste,6,muertos
+2021,11,Veraguas,2,muertos
+2021,11,Guna Yala,0,muertos
+2021,11,Ngabe Bugle,0,muertos
+2021,12,Bocas del Toro,0,muertos
+2021,12,Cocle,1,muertos
+2021,12,Colon,0,muertos
+2021,12,Chiriqui,4,muertos
+2021,12,Darien,2,muertos
+2021,12,Herrera,1,muertos
+2021,12,Los Santos,3,muertos
+2021,12,Panama,7,muertos
+2021,12,Panama Oeste,4,muertos
+2021,12,Veraguas,2,muertos
+2021,12,Guna Yala,0,muertos
+2021,12,Ngabe Bugle,0,muertos
+2022,1,Bocas del Toro,31,accidentes
+2022,1,Cocle,126,accidentes
+2022,1,Colon,230,accidentes
+2022,1,Chiriqui,310,accidentes
+2022,1,Darien,13,accidentes
+2022,1,Herrera,79,accidentes
+2022,1,Los Santos,64,accidentes
+2022,1,Panama,1663,accidentes
+2022,1,Panama Oeste,529,accidentes
+2022,1,Veraguas,127,accidentes
+2022,1,Guna Yala,2,accidentes
+2022,1,Ngabe Bugle,6,accidentes
+2022,2,Bocas del Toro,37,accidentes
+2022,2,Cocle,109,accidentes
+2022,2,Colon,211,accidentes
+2022,2,Chiriqui,332,accidentes
+2022,2,Darien,15,accidentes
+2022,2,Herrera,83,accidentes
+2022,2,Los Santos,53,accidentes
+2022,2,Panama,1746,accidentes
+2022,2,Panama Oeste,563,accidentes
+2022,2,Veraguas,131,accidentes
+2022,2,Guna Yala,2,accidentes
+2022,2,Ngabe Bugle,5,accidentes
+2022,3,Bocas del Toro,39,accidentes
+2022,3,Cocle,122,accidentes
+2022,3,Colon,237,accidentes
+2022,3,Chiriqui,369,accidentes
+2022,3,Darien,14,accidentes
+2022,3,Herrera,92,accidentes
+2022,3,Los Santos,64,accidentes
+2022,3,Panama,2064,accidentes
+2022,3,Panama Oeste,582,accidentes
+2022,3,Veraguas,125,accidentes
+2022,3,Guna Yala,0,accidentes
+2022,3,Ngabe Bugle,6,accidentes
+2022,4,Bocas del Toro,47,accidentes
+2022,4,Cocle,107,accidentes
+2022,4,Colon,250,accidentes
+2022,4,Chiriqui,312,accidentes
+2022,4,Darien,21,accidentes
+2022,4,Herrera,87,accidentes
+2022,4,Los Santos,64,accidentes
+2022,4,Panama,1983,accidentes
+2022,4,Panama Oeste,659,accidentes
+2022,4,Veraguas,146,accidentes
+2022,4,Guna Yala,0,accidentes
+2022,4,Ngabe Bugle,7,accidentes
+2022,5,Bocas del Toro,46,accidentes
+2022,5,Cocle,136,accidentes
+2022,5,Colon,220,accidentes
+2022,5,Chiriqui,303,accidentes
+2022,5,Darien,16,accidentes
+2022,5,Herrera,83,accidentes
+2022,5,Los Santos,58,accidentes
+2022,5,Panama,1967,accidentes
+2022,5,Panama Oeste,561,accidentes
+2022,5,Veraguas,169,accidentes
+2022,5,Guna Yala,1,accidentes
+2022,5,Ngabe Bugle,3,accidentes
+2022,6,Bocas del Toro,33,accidentes
+2022,6,Cocle,117,accidentes
+2022,6,Colon,236,accidentes
+2022,6,Chiriqui,298,accidentes
+2022,6,Darien,15,accidentes
+2022,6,Herrera,78,accidentes
+2022,6,Los Santos,59,accidentes
+2022,6,Panama,1870,accidentes
+2022,6,Panama Oeste,581,accidentes
+2022,6,Veraguas,150,accidentes
+2022,6,Guna Yala,1,accidentes
+2022,6,Ngabe Bugle,6,accidentes
+2022,7,Bocas del Toro,19,accidentes
+2022,7,Cocle,101,accidentes
+2022,7,Colon,224,accidentes
+2022,7,Chiriqui,266,accidentes
+2022,7,Darien,13,accidentes
+2022,7,Herrera,70,accidentes
+2022,7,Los Santos,50,accidentes
+2022,7,Panama,1764,accidentes
+2022,7,Panama Oeste,462,accidentes
+2022,7,Veraguas,130,accidentes
+2022,7,Guna Yala,1,accidentes
+2022,7,Ngabe Bugle,1,accidentes
+2022,8,Bocas del Toro,46,accidentes
+2022,8,Cocle,118,accidentes
+2022,8,Colon,293,accidentes
+2022,8,Chiriqui,309,accidentes
+2022,8,Darien,10,accidentes
+2022,8,Herrera,81,accidentes
+2022,8,Los Santos,52,accidentes
+2022,8,Panama,2158,accidentes
+2022,8,Panama Oeste,565,accidentes
+2022,8,Veraguas,142,accidentes
+2022,8,Guna Yala,1,accidentes
+2022,8,Ngabe Bugle,12,accidentes
+2022,9,Bocas del Toro,43,accidentes
+2022,9,Cocle,125,accidentes
+2022,9,Colon,220,accidentes
+2022,9,Chiriqui,315,accidentes
+2022,9,Darien,10,accidentes
+2022,9,Herrera,86,accidentes
+2022,9,Los Santos,53,accidentes
+2022,9,Panama,2230,accidentes
+2022,9,Panama Oeste,570,accidentes
+2022,9,Veraguas,149,accidentes
+2022,9,Guna Yala,0,accidentes
+2022,9,Ngabe Bugle,5,accidentes
+2022,10,Bocas del Toro,40,accidentes
+2022,10,Cocle,118,accidentes
+2022,10,Colon,237,accidentes
+2022,10,Chiriqui,358,accidentes
+2022,10,Darien,17,accidentes
+2022,10,Herrera,83,accidentes
+2022,10,Los Santos,40,accidentes
+2022,10,Panama,2395,accidentes
+2022,10,Panama Oeste,591,accidentes
+2022,10,Veraguas,163,accidentes
+2022,10,Guna Yala,0,accidentes
+2022,10,Ngabe Bugle,6,accidentes
+2022,11,Bocas del Toro,37,accidentes
+2022,11,Cocle,141,accidentes
+2022,11,Colon,232,accidentes
+2022,11,Chiriqui,224,accidentes
+2022,11,Darien,10,accidentes
+2022,11,Herrera,76,accidentes
+2022,11,Los Santos,43,accidentes
+2022,11,Panama,1943,accidentes
+2022,11,Panama Oeste,592,accidentes
+2022,11,Veraguas,143,accidentes
+2022,11,Guna Yala,2,accidentes
+2022,11,Ngabe Bugle,12,accidentes
+2022,12,Bocas del Toro,35,accidentes
+2022,12,Cocle,139,accidentes
+2022,12,Colon,258,accidentes
+2022,12,Chiriqui,348,accidentes
+2022,12,Darien,11,accidentes
+2022,12,Herrera,113,accidentes
+2022,12,Los Santos,47,accidentes
+2022,12,Panama,2351,accidentes
+2022,12,Panama Oeste,657,accidentes
+2022,12,Veraguas,146,accidentes
+2022,12,Guna Yala,0,accidentes
+2022,12,Ngabe Bugle,5,accidentes
+2022,1,Bocas del Toro,48,heridos
+2022,1,Cocle,80,heridos
+2022,1,Colon,49,heridos
+2022,1,Chiriqui,138,heridos
+2022,1,Darien,14,heridos
+2022,1,Herrera,36,heridos
+2022,1,Los Santos,38,heridos
+2022,1,Panama,398,heridos
+2022,1,Panama Oeste,187,heridos
+2022,1,Veraguas,83,heridos
+2022,1,Guna Yala,0,heridos
+2022,1,Ngabe Bugle,2,heridos
+2022,2,Bocas del Toro,34,heridos
+2022,2,Cocle,51,heridos
+2022,2,Colon,70,heridos
+2022,2,Chiriqui,133,heridos
+2022,2,Darien,12,heridos
+2022,2,Herrera,30,heridos
+2022,2,Los Santos,32,heridos
+2022,2,Panama,359,heridos
+2022,2,Panama Oeste,209,heridos
+2022,2,Veraguas,87,heridos
+2022,2,Guna Yala,0,heridos
+2022,2,Ngabe Bugle,1,heridos
+2022,3,Bocas del Toro,19,heridos
+2022,3,Cocle,78,heridos
+2022,3,Colon,50,heridos
+2022,3,Chiriqui,189,heridos
+2022,3,Darien,2,heridos
+2022,3,Herrera,36,heridos
+2022,3,Los Santos,34,heridos
+2022,3,Panama,436,heridos
+2022,3,Panama Oeste,197,heridos
+2022,3,Veraguas,75,heridos
+2022,3,Guna Yala,0,heridos
+2022,3,Ngabe Bugle,4,heridos
+2022,4,Bocas del Toro,33,heridos
+2022,4,Cocle,67,heridos
+2022,4,Colon,53,heridos
+2022,4,Chiriqui,158,heridos
+2022,4,Darien,9,heridos
+2022,4,Herrera,35,heridos
+2022,4,Los Santos,25,heridos
+2022,4,Panama,482,heridos
+2022,4,Panama Oeste,257,heridos
+2022,4,Veraguas,78,heridos
+2022,4,Guna Yala,0,heridos
+2022,4,Ngabe Bugle,2,heridos
+2022,5,Bocas del Toro,19,heridos
+2022,5,Cocle,74,heridos
+2022,5,Colon,58,heridos
+2022,5,Chiriqui,164,heridos
+2022,5,Darien,13,heridos
+2022,5,Herrera,35,heridos
+2022,5,Los Santos,26,heridos
+2022,5,Panama,458,heridos
+2022,5,Panama Oeste,175,heridos
+2022,5,Veraguas,81,heridos
+2022,5,Guna Yala,4,heridos
+2022,5,Ngabe Bugle,1,heridos
+2022,6,Bocas del Toro,20,heridos
+2022,6,Cocle,88,heridos
+2022,6,Colon,62,heridos
+2022,6,Chiriqui,155,heridos
+2022,6,Darien,10,heridos
+2022,6,Herrera,32,heridos
+2022,6,Los Santos,21,heridos
+2022,6,Panama,452,heridos
+2022,6,Panama Oeste,212,heridos
+2022,6,Veraguas,64,heridos
+2022,6,Guna Yala,0,heridos
+2022,6,Ngabe Bugle,1,heridos
+2022,7,Bocas del Toro,11,heridos
+2022,7,Cocle,49,heridos
+2022,7,Colon,47,heridos
+2022,7,Chiriqui,126,heridos
+2022,7,Darien,5,heridos
+2022,7,Herrera,25,heridos
+2022,7,Los Santos,25,heridos
+2022,7,Panama,440,heridos
+2022,7,Panama Oeste,165,heridos
+2022,7,Veraguas,75,heridos
+2022,7,Guna Yala,0,heridos
+2022,7,Ngabe Bugle,0,heridos
+2022,8,Bocas del Toro,31,heridos
+2022,8,Cocle,66,heridos
+2022,8,Colon,61,heridos
+2022,8,Chiriqui,138,heridos
+2022,8,Darien,2,heridos
+2022,8,Herrera,34,heridos
+2022,8,Los Santos,29,heridos
+2022,8,Panama,535,heridos
+2022,8,Panama Oeste,203,heridos
+2022,8,Veraguas,82,heridos
+2022,8,Guna Yala,0,heridos
+2022,8,Ngabe Bugle,8,heridos
+2022,9,Bocas del Toro,41,heridos
+2022,9,Cocle,64,heridos
+2022,9,Colon,41,heridos
+2022,9,Chiriqui,142,heridos
+2022,9,Darien,7,heridos
+2022,9,Herrera,23,heridos
+2022,9,Los Santos,27,heridos
+2022,9,Panama,527,heridos
+2022,9,Panama Oeste,228,heridos
+2022,9,Veraguas,67,heridos
+2022,9,Guna Yala,0,heridos
+2022,9,Ngabe Bugle,2,heridos
+2022,10,Bocas del Toro,16,heridos
+2022,10,Cocle,58,heridos
+2022,10,Colon,53,heridos
+2022,10,Chiriqui,140,heridos
+2022,10,Darien,18,heridos
+2022,10,Herrera,28,heridos
+2022,10,Los Santos,26,heridos
+2022,10,Panama,538,heridos
+2022,10,Panama Oeste,186,heridos
+2022,10,Veraguas,91,heridos
+2022,10,Guna Yala,0,heridos
+2022,10,Ngabe Bugle,5,heridos
+2022,11,Bocas del Toro,22,heridos
+2022,11,Cocle,54,heridos
+2022,11,Colon,52,heridos
+2022,11,Chiriqui,94,heridos
+2022,11,Darien,17,heridos
+2022,11,Herrera,24,heridos
+2022,11,Los Santos,26,heridos
+2022,11,Panama,440,heridos
+2022,11,Panama Oeste,233,heridos
+2022,11,Veraguas,115,heridos
+2022,11,Guna Yala,1,heridos
+2022,11,Ngabe Bugle,26,heridos
+2022,12,Bocas del Toro,43,heridos
+2022,12,Cocle,98,heridos
+2022,12,Colon,78,heridos
+2022,12,Chiriqui,149,heridos
+2022,12,Darien,7,heridos
+2022,12,Herrera,29,heridos
+2022,12,Los Santos,14,heridos
+2022,12,Panama,582,heridos
+2022,12,Panama Oeste,292,heridos
+2022,12,Veraguas,79,heridos
+2022,12,Guna Yala,0,heridos
+2022,12,Ngabe Bugle,13,heridos
+2022,1,Bocas del Toro,0,muertos
+2022,1,Cocle,4,muertos
+2022,1,Colon,1,muertos
+2022,1,Chiriqui,6,muertos
+2022,1,Darien,1,muertos
+2022,1,Herrera,0,muertos
+2022,1,Los Santos,2,muertos
+2022,1,Panama,6,muertos
+2022,1,Panama Oeste,4,muertos
+2022,1,Veraguas,1,muertos
+2022,1,Guna Yala,0,muertos
+2022,1,Ngabe Bugle,1,muertos
+2022,2,Bocas del Toro,0,muertos
+2022,2,Cocle,2,muertos
+2022,2,Colon,1,muertos
+2022,2,Chiriqui,2,muertos
+2022,2,Darien,0,muertos
+2022,2,Herrera,0,muertos
+2022,2,Los Santos,1,muertos
+2022,2,Panama,3,muertos
+2022,2,Panama Oeste,4,muertos
+2022,2,Veraguas,4,muertos
+2022,2,Guna Yala,0,muertos
+2022,2,Ngabe Bugle,1,muertos
+2022,3,Bocas del Toro,4,muertos
+2022,3,Cocle,1,muertos
+2022,3,Colon,0,muertos
+2022,3,Chiriqui,4,muertos
+2022,3,Darien,1,muertos
+2022,3,Herrera,0,muertos
+2022,3,Los Santos,1,muertos
+2022,3,Panama,8,muertos
+2022,3,Panama Oeste,3,muertos
+2022,3,Veraguas,3,muertos
+2022,3,Guna Yala,0,muertos
+2022,3,Ngabe Bugle,0,muertos
+2022,4,Bocas del Toro,0,muertos
+2022,4,Cocle,2,muertos
+2022,4,Colon,0,muertos
+2022,4,Chiriqui,4,muertos
+2022,4,Darien,1,muertos
+2022,4,Herrera,1,muertos
+2022,4,Los Santos,2,muertos
+2022,4,Panama,6,muertos
+2022,4,Panama Oeste,6,muertos
+2022,4,Veraguas,1,muertos
+2022,4,Guna Yala,0,muertos
+2022,4,Ngabe Bugle,0,muertos
+2022,5,Bocas del Toro,0,muertos
+2022,5,Cocle,3,muertos
+2022,5,Colon,0,muertos
+2022,5,Chiriqui,2,muertos
+2022,5,Darien,0,muertos
+2022,5,Herrera,0,muertos
+2022,5,Los Santos,1,muertos
+2022,5,Panama,9,muertos
+2022,5,Panama Oeste,2,muertos
+2022,5,Veraguas,0,muertos
+2022,5,Guna Yala,0,muertos
+2022,5,Ngabe Bugle,0,muertos
+2022,6,Bocas del Toro,0,muertos
+2022,6,Cocle,2,muertos
+2022,6,Colon,2,muertos
+2022,6,Chiriqui,6,muertos
+2022,6,Darien,0,muertos
+2022,6,Herrera,0,muertos
+2022,6,Los Santos,1,muertos
+2022,6,Panama,3,muertos
+2022,6,Panama Oeste,2,muertos
+2022,6,Veraguas,4,muertos
+2022,6,Guna Yala,0,muertos
+2022,6,Ngabe Bugle,0,muertos
+2022,7,Bocas del Toro,0,muertos
+2022,7,Cocle,1,muertos
+2022,7,Colon,0,muertos
+2022,7,Chiriqui,3,muertos
+2022,7,Darien,2,muertos
+2022,7,Herrera,1,muertos
+2022,7,Los Santos,2,muertos
+2022,7,Panama,4,muertos
+2022,7,Panama Oeste,14,muertos
+2022,7,Veraguas,6,muertos
+2022,7,Guna Yala,0,muertos
+2022,7,Ngabe Bugle,0,muertos
+2022,8,Bocas del Toro,2,muertos
+2022,8,Cocle,9,muertos
+2022,8,Colon,3,muertos
+2022,8,Chiriqui,5,muertos
+2022,8,Darien,0,muertos
+2022,8,Herrera,1,muertos
+2022,8,Los Santos,2,muertos
+2022,8,Panama,6,muertos
+2022,8,Panama Oeste,5,muertos
+2022,8,Veraguas,0,muertos
+2022,8,Guna Yala,0,muertos
+2022,8,Ngabe Bugle,0,muertos
+2022,9,Bocas del Toro,1,muertos
+2022,9,Cocle,2,muertos
+2022,9,Colon,4,muertos
+2022,9,Chiriqui,7,muertos
+2022,9,Darien,0,muertos
+2022,9,Herrera,0,muertos
+2022,9,Los Santos,2,muertos
+2022,9,Panama,13,muertos
+2022,9,Panama Oeste,5,muertos
+2022,9,Veraguas,4,muertos
+2022,9,Guna Yala,0,muertos
+2022,9,Ngabe Bugle,0,muertos
+2022,10,Bocas del Toro,1,muertos
+2022,10,Cocle,3,muertos
+2022,10,Colon,1,muertos
+2022,10,Chiriqui,4,muertos
+2022,10,Darien,2,muertos
+2022,10,Herrera,0,muertos
+2022,10,Los Santos,2,muertos
+2022,10,Panama,11,muertos
+2022,10,Panama Oeste,4,muertos
+2022,10,Veraguas,2,muertos
+2022,10,Guna Yala,0,muertos
+2022,10,Ngabe Bugle,1,muertos
+2022,11,Bocas del Toro,0,muertos
+2022,11,Cocle,2,muertos
+2022,11,Colon,2,muertos
+2022,11,Chiriqui,5,muertos
+2022,11,Darien,0,muertos
+2022,11,Herrera,2,muertos
+2022,11,Los Santos,0,muertos
+2022,11,Panama,8,muertos
+2022,11,Panama Oeste,5,muertos
+2022,11,Veraguas,2,muertos
+2022,11,Guna Yala,0,muertos
+2022,11,Ngabe Bugle,0,muertos
+2022,12,Bocas del Toro,0,muertos
+2022,12,Cocle,3,muertos
+2022,12,Colon,3,muertos
+2022,12,Chiriqui,3,muertos
+2022,12,Darien,0,muertos
+2022,12,Herrera,0,muertos
+2022,12,Los Santos,1,muertos
+2022,12,Panama,6,muertos
+2022,12,Panama Oeste,2,muertos
+2022,12,Veraguas,1,muertos
+2022,12,Guna Yala,0,muertos
+2022,12,Ngabe Bugle,0,muertos
+2023,1,Bocas del Toro,41,accidentes
+2023,1,Cocle,132,accidentes
+2023,1,Colon,207,accidentes
+2023,1,Chiriqui,335,accidentes
+2023,1,Darien,19,accidentes
+2023,1,Herrera,82,accidentes
+2023,1,Los Santos,60,accidentes
+2023,1,Panama,1954,accidentes
+2023,1,Panama Oeste,586,accidentes
+2023,1,Veraguas,164,accidentes
+2023,1,Guna Yala,0,accidentes
+2023,1,Ngabe Bugle,8,accidentes
+2023,2,Bocas del Toro,35,accidentes
+2023,2,Cocle,145,accidentes
+2023,2,Colon,165,accidentes
+2023,2,Chiriqui,280,accidentes
+2023,2,Darien,16,accidentes
+2023,2,Herrera,67,accidentes
+2023,2,Los Santos,60,accidentes
+2023,2,Panama,1841,accidentes
+2023,2,Panama Oeste,534,accidentes
+2023,2,Veraguas,156,accidentes
+2023,2,Guna Yala,1,accidentes
+2023,2,Ngabe Bugle,2,accidentes
+2023,3,Bocas del Toro,33,accidentes
+2023,3,Cocle,126,accidentes
+2023,3,Colon,237,accidentes
+2023,3,Chiriqui,379,accidentes
+2023,3,Darien,17,accidentes
+2023,3,Herrera,79,accidentes
+2023,3,Los Santos,71,accidentes
+2023,3,Panama,2428,accidentes
+2023,3,Panama Oeste,627,accidentes
+2023,3,Veraguas,166,accidentes
+2023,3,Guna Yala,3,accidentes
+2023,3,Ngabe Bugle,5,accidentes
+2023,4,Bocas del Toro,50,accidentes
+2023,4,Cocle,145,accidentes
+2023,4,Colon,194,accidentes
+2023,4,Chiriqui,338,accidentes
+2023,4,Darien,16,accidentes
+2023,4,Herrera,79,accidentes
+2023,4,Los Santos,46,accidentes
+2023,4,Panama,2157,accidentes
+2023,4,Panama Oeste,641,accidentes
+2023,4,Veraguas,165,accidentes
+2023,4,Guna Yala,1,accidentes
+2023,4,Ngabe Bugle,8,accidentes
+2023,5,Bocas del Toro,43,accidentes
+2023,5,Cocle,136,accidentes
+2023,5,Colon,233,accidentes
+2023,5,Chiriqui,343,accidentes
+2023,5,Darien,10,accidentes
+2023,5,Herrera,103,accidentes
+2023,5,Los Santos,49,accidentes
+2023,5,Panama,2284,accidentes
+2023,5,Panama Oeste,667,accidentes
+2023,5,Veraguas,165,accidentes
+2023,5,Guna Yala,0,accidentes
+2023,5,Ngabe Bugle,3,accidentes
+2023,6,Bocas del Toro,31,accidentes
+2023,6,Cocle,135,accidentes
+2023,6,Colon,198,accidentes
+2023,6,Chiriqui,324,accidentes
+2023,6,Darien,11,accidentes
+2023,6,Herrera,89,accidentes
+2023,6,Los Santos,58,accidentes
+2023,6,Panama,2228,accidentes
+2023,6,Panama Oeste,576,accidentes
+2023,6,Veraguas,140,accidentes
+2023,6,Guna Yala,2,accidentes
+2023,6,Ngabe Bugle,8,accidentes
+2023,7,Bocas del Toro,34,accidentes
+2023,7,Cocle,136,accidentes
+2023,7,Colon,226,accidentes
+2023,7,Chiriqui,357,accidentes
+2023,7,Darien,15,accidentes
+2023,7,Herrera,107,accidentes
+2023,7,Los Santos,65,accidentes
+2023,7,Panama,2265,accidentes
+2023,7,Panama Oeste,651,accidentes
+2023,7,Veraguas,152,accidentes
+2023,7,Guna Yala,1,accidentes
+2023,7,Ngabe Bugle,7,accidentes
+2023,8,Bocas del Toro,48,accidentes
+2023,8,Cocle,130,accidentes
+2023,8,Colon,235,accidentes
+2023,8,Chiriqui,361,accidentes
+2023,8,Darien,20,accidentes
+2023,8,Herrera,95,accidentes
+2023,8,Los Santos,69,accidentes
+2023,8,Panama,2432,accidentes
+2023,8,Panama Oeste,607,accidentes
+2023,8,Veraguas,143,accidentes
+2023,8,Guna Yala,1,accidentes
+2023,8,Ngabe Bugle,2,accidentes
+2023,9,Bocas del Toro,40,accidentes
+2023,9,Cocle,119,accidentes
+2023,9,Colon,241,accidentes
+2023,9,Chiriqui,393,accidentes
+2023,9,Darien,12,accidentes
+2023,9,Herrera,67,accidentes
+2023,9,Los Santos,46,accidentes
+2023,9,Panama,2223,accidentes
+2023,9,Panama Oeste,640,accidentes
+2023,9,Veraguas,164,accidentes
+2023,9,Guna Yala,0,accidentes
+2023,9,Ngabe Bugle,6,accidentes
+2023,10,Bocas del Toro,30,accidentes
+2023,10,Cocle,116,accidentes
+2023,10,Colon,170,accidentes
+2023,10,Chiriqui,322,accidentes
+2023,10,Darien,13,accidentes
+2023,10,Herrera,87,accidentes
+2023,10,Los Santos,55,accidentes
+2023,10,Panama,2137,accidentes
+2023,10,Panama Oeste,557,accidentes
+2023,10,Veraguas,135,accidentes
+2023,10,Guna Yala,0,accidentes
+2023,10,Ngabe Bugle,1,accidentes
+2023,11,Bocas del Toro,15,accidentes
+2023,11,Cocle,84,accidentes
+2023,11,Colon,157,accidentes
+2023,11,Chiriqui,181,accidentes
+2023,11,Darien,12,accidentes
+2023,11,Herrera,70,accidentes
+2023,11,Los Santos,43,accidentes
+2023,11,Panama,1692,accidentes
+2023,11,Panama Oeste,423,accidentes
+2023,11,Veraguas,118,accidentes
+2023,11,Guna Yala,0,accidentes
+2023,11,Ngabe Bugle,1,accidentes
+2023,12,Bocas del Toro,40,accidentes
+2023,12,Cocle,169,accidentes
+2023,12,Colon,246,accidentes
+2023,12,Chiriqui,401,accidentes
+2023,12,Darien,14,accidentes
+2023,12,Herrera,82,accidentes
+2023,12,Los Santos,68,accidentes
+2023,12,Panama,2487,accidentes
+2023,12,Panama Oeste,648,accidentes
+2023,12,Veraguas,185,accidentes
+2023,12,Guna Yala,1,accidentes
+2023,12,Ngabe Bugle,7,accidentes
+2023,1,Bocas del Toro,20,heridos
+2023,1,Cocle,54,heridos
+2023,1,Colon,38,heridos
+2023,1,Chiriqui,159,heridos
+2023,1,Darien,12,heridos
+2023,1,Herrera,22,heridos
+2023,1,Los Santos,31,heridos
+2023,1,Panama,507,heridos
+2023,1,Panama Oeste,272,heridos
+2023,1,Veraguas,65,heridos
+2023,1,Guna Yala,0,heridos
+2023,1,Ngabe Bugle,3,heridos
+2023,2,Bocas del Toro,7,heridos
+2023,2,Cocle,69,heridos
+2023,2,Colon,35,heridos
+2023,2,Chiriqui,156,heridos
+2023,2,Darien,19,heridos
+2023,2,Herrera,25,heridos
+2023,2,Los Santos,21,heridos
+2023,2,Panama,455,heridos
+2023,2,Panama Oeste,197,heridos
+2023,2,Veraguas,82,heridos
+2023,2,Guna Yala,3,heridos
+2023,2,Ngabe Bugle,0,heridos
+2023,3,Bocas del Toro,14,heridos
+2023,3,Cocle,78,heridos
+2023,3,Colon,29,heridos
+2023,3,Chiriqui,181,heridos
+2023,3,Darien,8,heridos
+2023,3,Herrera,29,heridos
+2023,3,Los Santos,33,heridos
+2023,3,Panama,598,heridos
+2023,3,Panama Oeste,228,heridos
+2023,3,Veraguas,78,heridos
+2023,3,Guna Yala,4,heridos
+2023,3,Ngabe Bugle,5,heridos
+2023,4,Bocas del Toro,28,heridos
+2023,4,Cocle,87,heridos
+2023,4,Colon,90,heridos
+2023,4,Chiriqui,191,heridos
+2023,4,Darien,3,heridos
+2023,4,Herrera,49,heridos
+2023,4,Los Santos,18,heridos
+2023,4,Panama,468,heridos
+2023,4,Panama Oeste,254,heridos
+2023,4,Veraguas,95,heridos
+2023,4,Guna Yala,0,heridos
+2023,4,Ngabe Bugle,4,heridos
+2023,5,Bocas del Toro,16,heridos
+2023,5,Cocle,56,heridos
+2023,5,Colon,49,heridos
+2023,5,Chiriqui,170,heridos
+2023,5,Darien,3,heridos
+2023,5,Herrera,24,heridos
+2023,5,Los Santos,19,heridos
+2023,5,Panama,547,heridos
+2023,5,Panama Oeste,213,heridos
+2023,5,Veraguas,76,heridos
+2023,5,Guna Yala,0,heridos
+2023,5,Ngabe Bugle,5,heridos
+2023,6,Bocas del Toro,23,heridos
+2023,6,Cocle,68,heridos
+2023,6,Colon,79,heridos
+2023,6,Chiriqui,157,heridos
+2023,6,Darien,0,heridos
+2023,6,Herrera,32,heridos
+2023,6,Los Santos,24,heridos
+2023,6,Panama,455,heridos
+2023,6,Panama Oeste,219,heridos
+2023,6,Veraguas,76,heridos
+2023,6,Guna Yala,5,heridos
+2023,6,Ngabe Bugle,15,heridos
+2023,7,Bocas del Toro,14,heridos
+2023,7,Cocle,61,heridos
+2023,7,Colon,88,heridos
+2023,7,Chiriqui,178,heridos
+2023,7,Darien,3,heridos
+2023,7,Herrera,34,heridos
+2023,7,Los Santos,33,heridos
+2023,7,Panama,554,heridos
+2023,7,Panama Oeste,230,heridos
+2023,7,Veraguas,75,heridos
+2023,7,Guna Yala,0,heridos
+2023,7,Ngabe Bugle,4,heridos
+2023,8,Bocas del Toro,27,heridos
+2023,8,Cocle,70,heridos
+2023,8,Colon,78,heridos
+2023,8,Chiriqui,143,heridos
+2023,8,Darien,15,heridos
+2023,8,Herrera,36,heridos
+2023,8,Los Santos,27,heridos
+2023,8,Panama,525,heridos
+2023,8,Panama Oeste,211,heridos
+2023,8,Veraguas,73,heridos
+2023,8,Guna Yala,0,heridos
+2023,8,Ngabe Bugle,1,heridos
+2023,9,Bocas del Toro,24,heridos
+2023,9,Cocle,55,heridos
+2023,9,Colon,80,heridos
+2023,9,Chiriqui,175,heridos
+2023,9,Darien,3,heridos
+2023,9,Herrera,17,heridos
+2023,9,Los Santos,18,heridos
+2023,9,Panama,531,heridos
+2023,9,Panama Oeste,232,heridos
+2023,9,Veraguas,66,heridos
+2023,9,Guna Yala,0,heridos
+2023,9,Ngabe Bugle,1,heridos
+2023,10,Bocas del Toro,37,heridos
+2023,10,Cocle,81,heridos
+2023,10,Colon,57,heridos
+2023,10,Chiriqui,150,heridos
+2023,10,Darien,4,heridos
+2023,10,Herrera,39,heridos
+2023,10,Los Santos,16,heridos
+2023,10,Panama,511,heridos
+2023,10,Panama Oeste,216,heridos
+2023,10,Veraguas,80,heridos
+2023,10,Guna Yala,0,heridos
+2023,10,Ngabe Bugle,4,heridos
+2023,11,Bocas del Toro,12,heridos
+2023,11,Cocle,41,heridos
+2023,11,Colon,47,heridos
+2023,11,Chiriqui,85,heridos
+2023,11,Darien,10,heridos
+2023,11,Herrera,36,heridos
+2023,11,Los Santos,24,heridos
+2023,11,Panama,400,heridos
+2023,11,Panama Oeste,194,heridos
+2023,11,Veraguas,59,heridos
+2023,11,Guna Yala,0,heridos
+2023,11,Ngabe Bugle,3,heridos
+2023,12,Bocas del Toro,9,heridos
+2023,12,Cocle,72,heridos
+2023,12,Colon,64,heridos
+2023,12,Chiriqui,147,heridos
+2023,12,Darien,8,heridos
+2023,12,Herrera,32,heridos
+2023,12,Los Santos,28,heridos
+2023,12,Panama,626,heridos
+2023,12,Panama Oeste,219,heridos
+2023,12,Veraguas,87,heridos
+2023,12,Guna Yala,0,heridos
+2023,12,Ngabe Bugle,11,heridos
+2023,1,Bocas del Toro,0,muertos
+2023,1,Cocle,3,muertos
+2023,1,Colon,6,muertos
+2023,1,Chiriqui,0,muertos
+2023,1,Darien,1,muertos
+2023,1,Herrera,0,muertos
+2023,1,Los Santos,1,muertos
+2023,1,Panama,5,muertos
+2023,1,Panama Oeste,5,muertos
+2023,1,Veraguas,5,muertos
+2023,1,Guna Yala,0,muertos
+2023,1,Ngabe Bugle,0,muertos
+2023,2,Bocas del Toro,1,muertos
+2023,2,Cocle,2,muertos
+2023,2,Colon,2,muertos
+2023,2,Chiriqui,43,muertos
+2023,2,Darien,2,muertos
+2023,2,Herrera,0,muertos
+2023,2,Los Santos,2,muertos
+2023,2,Panama,1,muertos
+2023,2,Panama Oeste,2,muertos
+2023,2,Veraguas,1,muertos
+2023,2,Guna Yala,0,muertos
+2023,2,Ngabe Bugle,0,muertos
+2023,3,Bocas del Toro,1,muertos
+2023,3,Cocle,4,muertos
+2023,3,Colon,3,muertos
+2023,3,Chiriqui,4,muertos
+2023,3,Darien,2,muertos
+2023,3,Herrera,1,muertos
+2023,3,Los Santos,0,muertos
+2023,3,Panama,6,muertos
+2023,3,Panama Oeste,8,muertos
+2023,3,Veraguas,3,muertos
+2023,3,Guna Yala,1,muertos
+2023,3,Ngabe Bugle,0,muertos
+2023,4,Bocas del Toro,2,muertos
+2023,4,Cocle,2,muertos
+2023,4,Colon,0,muertos
+2023,4,Chiriqui,3,muertos
+2023,4,Darien,0,muertos
+2023,4,Herrera,1,muertos
+2023,4,Los Santos,0,muertos
+2023,4,Panama,8,muertos
+2023,4,Panama Oeste,12,muertos
+2023,4,Veraguas,2,muertos
+2023,4,Guna Yala,0,muertos
+2023,4,Ngabe Bugle,0,muertos
+2023,5,Bocas del Toro,2,muertos
+2023,5,Cocle,2,muertos
+2023,5,Colon,1,muertos
+2023,5,Chiriqui,5,muertos
+2023,5,Darien,0,muertos
+2023,5,Herrera,0,muertos
+2023,5,Los Santos,2,muertos
+2023,5,Panama,6,muertos
+2023,5,Panama Oeste,2,muertos
+2023,5,Veraguas,2,muertos
+2023,5,Guna Yala,0,muertos
+2023,5,Ngabe Bugle,1,muertos
+2023,6,Bocas del Toro,1,muertos
+2023,6,Cocle,2,muertos
+2023,6,Colon,3,muertos
+2023,6,Chiriqui,6,muertos
+2023,6,Darien,0,muertos
+2023,6,Herrera,1,muertos
+2023,6,Los Santos,1,muertos
+2023,6,Panama,11,muertos
+2023,6,Panama Oeste,2,muertos
+2023,6,Veraguas,1,muertos
+2023,6,Guna Yala,0,muertos
+2023,6,Ngabe Bugle,1,muertos
+2023,7,Bocas del Toro,1,muertos
+2023,7,Cocle,5,muertos
+2023,7,Colon,4,muertos
+2023,7,Chiriqui,4,muertos
+2023,7,Darien,2,muertos
+2023,7,Herrera,0,muertos
+2023,7,Los Santos,2,muertos
+2023,7,Panama,2,muertos
+2023,7,Panama Oeste,4,muertos
+2023,7,Veraguas,3,muertos
+2023,7,Guna Yala,0,muertos
+2023,7,Ngabe Bugle,0,muertos
+2023,8,Bocas del Toro,1,muertos
+2023,8,Cocle,7,muertos
+2023,8,Colon,1,muertos
+2023,8,Chiriqui,4,muertos
+2023,8,Darien,0,muertos
+2023,8,Herrera,1,muertos
+2023,8,Los Santos,2,muertos
+2023,8,Panama,6,muertos
+2023,8,Panama Oeste,6,muertos
+2023,8,Veraguas,1,muertos
+2023,8,Guna Yala,0,muertos
+2023,8,Ngabe Bugle,0,muertos
+2023,9,Bocas del Toro,0,muertos
+2023,9,Cocle,4,muertos
+2023,9,Colon,1,muertos
+2023,9,Chiriqui,3,muertos
+2023,9,Darien,0,muertos
+2023,9,Herrera,0,muertos
+2023,9,Los Santos,1,muertos
+2023,9,Panama,7,muertos
+2023,9,Panama Oeste,9,muertos
+2023,9,Veraguas,5,muertos
+2023,9,Guna Yala,0,muertos
+2023,9,Ngabe Bugle,0,muertos
+2023,10,Bocas del Toro,3,muertos
+2023,10,Cocle,3,muertos
+2023,10,Colon,1,muertos
+2023,10,Chiriqui,3,muertos
+2023,10,Darien,0,muertos
+2023,10,Herrera,2,muertos
+2023,10,Los Santos,2,muertos
+2023,10,Panama,6,muertos
+2023,10,Panama Oeste,4,muertos
+2023,10,Veraguas,0,muertos
+2023,10,Guna Yala,0,muertos
+2023,10,Ngabe Bugle,0,muertos
+2023,11,Bocas del Toro,0,muertos
+2023,11,Cocle,0,muertos
+2023,11,Colon,3,muertos
+2023,11,Chiriqui,2,muertos
+2023,11,Darien,0,muertos
+2023,11,Herrera,0,muertos
+2023,11,Los Santos,0,muertos
+2023,11,Panama,7,muertos
+2023,11,Panama Oeste,2,muertos
+2023,11,Veraguas,3,muertos
+2023,11,Guna Yala,0,muertos
+2023,11,Ngabe Bugle,0,muertos
+2023,12,Bocas del Toro,1,muertos
+2023,12,Cocle,1,muertos
+2023,12,Colon,4,muertos
+2023,12,Chiriqui,5,muertos
+2023,12,Darien,0,muertos
+2023,12,Herrera,4,muertos
+2023,12,Los Santos,1,muertos
+2023,12,Panama,13,muertos
+2023,12,Panama Oeste,4,muertos
+2023,12,Veraguas,5,muertos
+2023,12,Guna Yala,0,muertos
+2023,12,Ngabe Bugle,0,muertos
+2024,1,Bocas del Toro,37,accidentes
+2024,1,Cocle,137,accidentes
+2024,1,Colon,197,accidentes
+2024,1,Chiriqui,378,accidentes
+2024,1,Darien,14,accidentes
+2024,1,Herrera,87,accidentes
+2024,1,Los Santos,55,accidentes
+2024,1,Panama,2065,accidentes
+2024,1,Panama Oeste,698,accidentes
+2024,1,Veraguas,141,accidentes
+2024,1,Guna Yala,1,accidentes
+2024,1,Ngabe Bugle,6,accidentes
+2024,2,Bocas del Toro,31,accidentes
+2024,2,Cocle,151,accidentes
+2024,2,Colon,190,accidentes
+2024,2,Chiriqui,313,accidentes
+2024,2,Darien,7,accidentes
+2024,2,Herrera,94,accidentes
+2024,2,Los Santos,77,accidentes
+2024,2,Panama,1935,accidentes
+2024,2,Panama Oeste,621,accidentes
+2024,2,Veraguas,154,accidentes
+2024,2,Guna Yala,0,accidentes
+2024,2,Ngabe Bugle,8,accidentes
+2024,3,Bocas del Toro,50,accidentes
+2024,3,Cocle,142,accidentes
+2024,3,Colon,243,accidentes
+2024,3,Chiriqui,379,accidentes
+2024,3,Darien,24,accidentes
+2024,3,Herrera,106,accidentes
+2024,3,Los Santos,50,accidentes
+2024,3,Panama,2262,accidentes
+2024,3,Panama Oeste,702,accidentes
+2024,3,Veraguas,172,accidentes
+2024,3,Guna Yala,0,accidentes
+2024,3,Ngabe Bugle,6,accidentes
+2024,4,Bocas del Toro,47,accidentes
+2024,4,Cocle,144,accidentes
+2024,4,Colon,221,accidentes
+2024,4,Chiriqui,369,accidentes
+2024,4,Darien,22,accidentes
+2024,4,Herrera,114,accidentes
+2024,4,Los Santos,70,accidentes
+2024,4,Panama,2499,accidentes
+2024,4,Panama Oeste,697,accidentes
+2024,4,Veraguas,160,accidentes
+2024,4,Guna Yala,2,accidentes
+2024,4,Ngabe Bugle,10,accidentes
+2024,5,Bocas del Toro,60,accidentes
+2024,5,Cocle,153,accidentes
+2024,5,Colon,231,accidentes
+2024,5,Chiriqui,378,accidentes
+2024,5,Darien,14,accidentes
+2024,5,Herrera,89,accidentes
+2024,5,Los Santos,58,accidentes
+2024,5,Panama,2338,accidentes
+2024,5,Panama Oeste,647,accidentes
+2024,5,Veraguas,139,accidentes
+2024,5,Guna Yala,0,accidentes
+2024,5,Ngabe Bugle,7,accidentes
+2024,6,Bocas del Toro,34,accidentes
+2024,6,Cocle,109,accidentes
+2024,6,Colon,206,accidentes
+2024,6,Chiriqui,393,accidentes
+2024,6,Darien,15,accidentes
+2024,6,Herrera,87,accidentes
+2024,6,Los Santos,53,accidentes
+2024,6,Panama,2215,accidentes
+2024,6,Panama Oeste,605,accidentes
+2024,6,Veraguas,151,accidentes
+2024,6,Guna Yala,0,accidentes
+2024,6,Ngabe Bugle,7,accidentes
+2024,7,Bocas del Toro,40,accidentes
+2024,7,Cocle,93,accidentes
+2024,7,Colon,224,accidentes
+2024,7,Chiriqui,368,accidentes
+2024,7,Darien,14,accidentes
+2024,7,Herrera,72,accidentes
+2024,7,Los Santos,66,accidentes
+2024,7,Panama,2421,accidentes
+2024,7,Panama Oeste,661,accidentes
+2024,7,Veraguas,147,accidentes
+2024,7,Guna Yala,1,accidentes
+2024,7,Ngabe Bugle,5,accidentes
+2024,8,Bocas del Toro,58,accidentes
+2024,8,Cocle,146,accidentes
+2024,8,Colon,229,accidentes
+2024,8,Chiriqui,348,accidentes
+2024,8,Darien,19,accidentes
+2024,8,Herrera,104,accidentes
+2024,8,Los Santos,49,accidentes
+2024,8,Panama,2119,accidentes
+2024,8,Panama Oeste,638,accidentes
+2024,8,Veraguas,162,accidentes
+2024,8,Guna Yala,0,accidentes
+2024,8,Ngabe Bugle,6,accidentes
+2024,9,Bocas del Toro,48,accidentes
+2024,9,Cocle,114,accidentes
+2024,9,Colon,211,accidentes
+2024,9,Chiriqui,406,accidentes
+2024,9,Darien,18,accidentes
+2024,9,Herrera,95,accidentes
+2024,9,Los Santos,66,accidentes
+2024,9,Panama,2367,accidentes
+2024,9,Panama Oeste,597,accidentes
+2024,9,Veraguas,165,accidentes
+2024,9,Guna Yala,1,accidentes
+2024,9,Ngabe Bugle,6,accidentes
+2024,10,Bocas del Toro,35,accidentes
+2024,10,Cocle,137,accidentes
+2024,10,Colon,225,accidentes
+2024,10,Chiriqui,396,accidentes
+2024,10,Darien,11,accidentes
+2024,10,Herrera,88,accidentes
+2024,10,Los Santos,52,accidentes
+2024,10,Panama,2563,accidentes
+2024,10,Panama Oeste,695,accidentes
+2024,10,Veraguas,156,accidentes
+2024,10,Guna Yala,0,accidentes
+2024,10,Ngabe Bugle,9,accidentes
+2024,11,Bocas del Toro,51,accidentes
+2024,11,Cocle,131,accidentes
+2024,11,Colon,218,accidentes
+2024,11,Chiriqui,377,accidentes
+2024,11,Darien,20,accidentes
+2024,11,Herrera,91,accidentes
+2024,11,Los Santos,50,accidentes
+2024,11,Panama,2325,accidentes
+2024,11,Panama Oeste,674,accidentes
+2024,11,Veraguas,136,accidentes
+2024,11,Guna Yala,2,accidentes
+2024,11,Ngabe Bugle,6,accidentes
+2024,12,Bocas del Toro,45,accidentes
+2024,12,Cocle,126,accidentes
+2024,12,Colon,201,accidentes
+2024,12,Chiriqui,396,accidentes
+2024,12,Darien,8,accidentes
+2024,12,Herrera,96,accidentes
+2024,12,Los Santos,42,accidentes
+2024,12,Panama,2690,accidentes
+2024,12,Panama Oeste,702,accidentes
+2024,12,Veraguas,163,accidentes
+2024,12,Guna Yala,1,accidentes
+2024,12,Ngabe Bugle,8,accidentes
+2024,1,Bocas del Toro,14,heridos
+2024,1,Cocle,86,heridos
+2024,1,Colon,49,heridos
+2024,1,Chiriqui,193,heridos
+2024,1,Darien,6,heridos
+2024,1,Herrera,38,heridos
+2024,1,Los Santos,15,heridos
+2024,1,Panama,528,heridos
+2024,1,Panama Oeste,268,heridos
+2024,1,Veraguas,70,heridos
+2024,1,Guna Yala,1,heridos
+2024,1,Ngabe Bugle,9,heridos
+2024,2,Bocas del Toro,14,heridos
+2024,2,Cocle,67,heridos
+2024,2,Colon,55,heridos
+2024,2,Chiriqui,126,heridos
+2024,2,Darien,1,heridos
+2024,2,Herrera,24,heridos
+2024,2,Los Santos,48,heridos
+2024,2,Panama,519,heridos
+2024,2,Panama Oeste,293,heridos
+2024,2,Veraguas,70,heridos
+2024,2,Guna Yala,0,heridos
+2024,2,Ngabe Bugle,11,heridos
+2024,3,Bocas del Toro,24,heridos
+2024,3,Cocle,88,heridos
+2024,3,Colon,97,heridos
+2024,3,Chiriqui,189,heridos
+2024,3,Darien,6,heridos
+2024,3,Herrera,28,heridos
+2024,3,Los Santos,24,heridos
+2024,3,Panama,554,heridos
+2024,3,Panama Oeste,284,heridos
+2024,3,Veraguas,110,heridos
+2024,3,Guna Yala,0,heridos
+2024,3,Ngabe Bugle,8,heridos
+2024,4,Bocas del Toro,26,heridos
+2024,4,Cocle,77,heridos
+2024,4,Colon,68,heridos
+2024,4,Chiriqui,134,heridos
+2024,4,Darien,9,heridos
+2024,4,Herrera,50,heridos
+2024,4,Los Santos,23,heridos
+2024,4,Panama,564,heridos
+2024,4,Panama Oeste,254,heridos
+2024,4,Veraguas,87,heridos
+2024,4,Guna Yala,5,heridos
+2024,4,Ngabe Bugle,5,heridos
+2024,5,Bocas del Toro,42,heridos
+2024,5,Cocle,92,heridos
+2024,5,Colon,58,heridos
+2024,5,Chiriqui,169,heridos
+2024,5,Darien,6,heridos
+2024,5,Herrera,34,heridos
+2024,5,Los Santos,34,heridos
+2024,5,Panama,534,heridos
+2024,5,Panama Oeste,264,heridos
+2024,5,Veraguas,72,heridos
+2024,5,Guna Yala,0,heridos
+2024,5,Ngabe Bugle,9,heridos
+2024,6,Bocas del Toro,28,heridos
+2024,6,Cocle,54,heridos
+2024,6,Colon,59,heridos
+2024,6,Chiriqui,179,heridos
+2024,6,Darien,1,heridos
+2024,6,Herrera,29,heridos
+2024,6,Los Santos,16,heridos
+2024,6,Panama,437,heridos
+2024,6,Panama Oeste,282,heridos
+2024,6,Veraguas,97,heridos
+2024,6,Guna Yala,0,heridos
+2024,6,Ngabe Bugle,8,heridos
+2024,7,Bocas del Toro,13,heridos
+2024,7,Cocle,35,heridos
+2024,7,Colon,56,heridos
+2024,7,Chiriqui,163,heridos
+2024,7,Darien,8,heridos
+2024,7,Herrera,30,heridos
+2024,7,Los Santos,27,heridos
+2024,7,Panama,628,heridos
+2024,7,Panama Oeste,228,heridos
+2024,7,Veraguas,66,heridos
+2024,7,Guna Yala,0,heridos
+2024,7,Ngabe Bugle,7,heridos
+2024,8,Bocas del Toro,39,heridos
+2024,8,Cocle,55,heridos
+2024,8,Colon,70,heridos
+2024,8,Chiriqui,167,heridos
+2024,8,Darien,13,heridos
+2024,8,Herrera,34,heridos
+2024,8,Los Santos,22,heridos
+2024,8,Panama,588,heridos
+2024,8,Panama Oeste,233,heridos
+2024,8,Veraguas,73,heridos
+2024,8,Guna Yala,0,heridos
+2024,8,Ngabe Bugle,0,heridos
+2024,9,Bocas del Toro,41,heridos
+2024,9,Cocle,64,heridos
+2024,9,Colon,62,heridos
+2024,9,Chiriqui,169,heridos
+2024,9,Darien,11,heridos
+2024,9,Herrera,47,heridos
+2024,9,Los Santos,31,heridos
+2024,9,Panama,595,heridos
+2024,9,Panama Oeste,217,heridos
+2024,9,Veraguas,82,heridos
+2024,9,Guna Yala,1,heridos
+2024,9,Ngabe Bugle,5,heridos
+2024,10,Bocas del Toro,9,heridos
+2024,10,Cocle,82,heridos
+2024,10,Colon,63,heridos
+2024,10,Chiriqui,173,heridos
+2024,10,Darien,4,heridos
+2024,10,Herrera,49,heridos
+2024,10,Los Santos,36,heridos
+2024,10,Panama,644,heridos
+2024,10,Panama Oeste,235,heridos
+2024,10,Veraguas,92,heridos
+2024,10,Guna Yala,0,heridos
+2024,10,Ngabe Bugle,4,heridos
+2024,11,Bocas del Toro,25,heridos
+2024,11,Cocle,41,heridos
+2024,11,Colon,68,heridos
+2024,11,Chiriqui,155,heridos
+2024,11,Darien,10,heridos
+2024,11,Herrera,28,heridos
+2024,11,Los Santos,16,heridos
+2024,11,Panama,611,heridos
+2024,11,Panama Oeste,231,heridos
+2024,11,Veraguas,75,heridos
+2024,11,Guna Yala,0,heridos
+2024,11,Ngabe Bugle,7,heridos
+2024,12,Bocas del Toro,31,heridos
+2024,12,Cocle,78,heridos
+2024,12,Colon,73,heridos
+2024,12,Chiriqui,163,heridos
+2024,12,Darien,5,heridos
+2024,12,Herrera,58,heridos
+2024,12,Los Santos,24,heridos
+2024,12,Panama,756,heridos
+2024,12,Panama Oeste,283,heridos
+2024,12,Veraguas,92,heridos
+2024,12,Guna Yala,0,heridos
+2024,12,Ngabe Bugle,1,heridos
+2024,1,Bocas del Toro,0,muertos
+2024,1,Cocle,4,muertos
+2024,1,Colon,2,muertos
+2024,1,Chiriqui,11,muertos
+2024,1,Darien,1,muertos
+2024,1,Herrera,0,muertos
+2024,1,Los Santos,2,muertos
+2024,1,Panama,6,muertos
+2024,1,Panama Oeste,8,muertos
+2024,1,Veraguas,4,muertos
+2024,1,Guna Yala,0,muertos
+2024,1,Ngabe Bugle,1,muertos
+2024,2,Bocas del Toro,0,muertos
+2024,2,Cocle,4,muertos
+2024,2,Colon,0,muertos
+2024,2,Chiriqui,2,muertos
+2024,2,Darien,0,muertos
+2024,2,Herrera,1,muertos
+2024,2,Los Santos,1,muertos
+2024,2,Panama,6,muertos
+2024,2,Panama Oeste,4,muertos
+2024,2,Veraguas,4,muertos
+2024,2,Guna Yala,0,muertos
+2024,2,Ngabe Bugle,0,muertos
+2024,3,Bocas del Toro,1,muertos
+2024,3,Cocle,4,muertos
+2024,3,Colon,2,muertos
+2024,3,Chiriqui,3,muertos
+2024,3,Darien,0,muertos
+2024,3,Herrera,0,muertos
+2024,3,Los Santos,3,muertos
+2024,3,Panama,11,muertos
+2024,3,Panama Oeste,3,muertos
+2024,3,Veraguas,1,muertos
+2024,3,Guna Yala,0,muertos
+2024,3,Ngabe Bugle,1,muertos
+2024,4,Bocas del Toro,1,muertos
+2024,4,Cocle,5,muertos
+2024,4,Colon,1,muertos
+2024,4,Chiriqui,5,muertos
+2024,4,Darien,1,muertos
+2024,4,Herrera,0,muertos
+2024,4,Los Santos,3,muertos
+2024,4,Panama,7,muertos
+2024,4,Panama Oeste,2,muertos
+2024,4,Veraguas,4,muertos
+2024,4,Guna Yala,0,muertos
+2024,4,Ngabe Bugle,1,muertos
+2024,5,Bocas del Toro,1,muertos
+2024,5,Cocle,2,muertos
+2024,5,Colon,2,muertos
+2024,5,Chiriqui,3,muertos
+2024,5,Darien,0,muertos
+2024,5,Herrera,1,muertos
+2024,5,Los Santos,0,muertos
+2024,5,Panama,11,muertos
+2024,5,Panama Oeste,3,muertos
+2024,5,Veraguas,2,muertos
+2024,5,Guna Yala,0,muertos
+2024,5,Ngabe Bugle,0,muertos
+2024,6,Bocas del Toro,2,muertos
+2024,6,Cocle,5,muertos
+2024,6,Colon,4,muertos
+2024,6,Chiriqui,2,muertos
+2024,6,Darien,0,muertos
+2024,6,Herrera,1,muertos
+2024,6,Los Santos,2,muertos
+2024,6,Panama,11,muertos
+2024,6,Panama Oeste,6,muertos
+2024,6,Veraguas,0,muertos
+2024,6,Guna Yala,0,muertos
+2024,6,Ngabe Bugle,0,muertos
+2024,7,Bocas del Toro,0,muertos
+2024,7,Cocle,3,muertos
+2024,7,Colon,3,muertos
+2024,7,Chiriqui,4,muertos
+2024,7,Darien,1,muertos
+2024,7,Herrera,1,muertos
+2024,7,Los Santos,1,muertos
+2024,7,Panama,4,muertos
+2024,7,Panama Oeste,6,muertos
+2024,7,Veraguas,2,muertos
+2024,7,Guna Yala,0,muertos
+2024,7,Ngabe Bugle,1,muertos
+2024,8,Bocas del Toro,0,muertos
+2024,8,Cocle,5,muertos
+2024,8,Colon,5,muertos
+2024,8,Chiriqui,1,muertos
+2024,8,Darien,1,muertos
+2024,8,Herrera,0,muertos
+2024,8,Los Santos,0,muertos
+2024,8,Panama,7,muertos
+2024,8,Panama Oeste,4,muertos
+2024,8,Veraguas,3,muertos
+2024,8,Guna Yala,0,muertos
+2024,8,Ngabe Bugle,0,muertos
+2024,9,Bocas del Toro,4,muertos
+2024,9,Cocle,3,muertos
+2024,9,Colon,2,muertos
+2024,9,Chiriqui,2,muertos
+2024,9,Darien,0,muertos
+2024,9,Herrera,2,muertos
+2024,9,Los Santos,2,muertos
+2024,9,Panama,9,muertos
+2024,9,Panama Oeste,3,muertos
+2024,9,Veraguas,2,muertos
+2024,9,Guna Yala,1,muertos
+2024,9,Ngabe Bugle,0,muertos
+2024,10,Bocas del Toro,0,muertos
+2024,10,Cocle,2,muertos
+2024,10,Colon,1,muertos
+2024,10,Chiriqui,5,muertos
+2024,10,Darien,0,muertos
+2024,10,Herrera,0,muertos
+2024,10,Los Santos,0,muertos
+2024,10,Panama,8,muertos
+2024,10,Panama Oeste,7,muertos
+2024,10,Veraguas,3,muertos
+2024,10,Guna Yala,0,muertos
+2024,10,Ngabe Bugle,0,muertos
+2024,11,Bocas del Toro,1,muertos
+2024,11,Cocle,6,muertos
+2024,11,Colon,1,muertos
+2024,11,Chiriqui,9,muertos
+2024,11,Darien,0,muertos
+2024,11,Herrera,0,muertos
+2024,11,Los Santos,0,muertos
+2024,11,Panama,7,muertos
+2024,11,Panama Oeste,5,muertos
+2024,11,Veraguas,2,muertos
+2024,11,Guna Yala,0,muertos
+2024,11,Ngabe Bugle,1,muertos
+2024,12,Bocas del Toro,0,muertos
+2024,12,Cocle,3,muertos
+2024,12,Colon,3,muertos
+2024,12,Chiriqui,4,muertos
+2024,12,Darien,0,muertos
+2024,12,Herrera,1,muertos
+2024,12,Los Santos,2,muertos
+2024,12,Panama,13,muertos
+2024,12,Panama Oeste,10,muertos
+2024,12,Veraguas,2,muertos
+2024,12,Guna Yala,0,muertos
+2024,12,Ngabe Bugle,0,muertos
+2025,1,Bocas del Toro,54,accidentes
+2025,1,Cocle,139,accidentes
+2025,1,Colon,175,accidentes
+2025,1,Chiriqui,388,accidentes
+2025,1,Darien,23,accidentes
+2025,1,Herrera,89,accidentes
+2025,1,Los Santos,76,accidentes
+2025,1,Panama,2164,accidentes
+2025,1,Panama Oeste,567,accidentes
+2025,1,Veraguas,144,accidentes
+2025,1,Guna Yala,0,accidentes
+2025,1,Ngabe Bugle,9,accidentes
+2025,2,Bocas del Toro,23,accidentes
+2025,2,Cocle,116,accidentes
+2025,2,Colon,163,accidentes
+2025,2,Chiriqui,347,accidentes
+2025,2,Darien,14,accidentes
+2025,2,Herrera,68,accidentes
+2025,2,Los Santos,60,accidentes
+2025,2,Panama,2155,accidentes
+2025,2,Panama Oeste,592,accidentes
+2025,2,Veraguas,169,accidentes
+2025,2,Guna Yala,1,accidentes
+2025,2,Ngabe Bugle,5,accidentes
+2025,3,Bocas del Toro,31,accidentes
+2025,3,Cocle,167,accidentes
+2025,3,Colon,188,accidentes
+2025,3,Chiriqui,380,accidentes
+2025,3,Darien,18,accidentes
+2025,3,Herrera,91,accidentes
+2025,3,Los Santos,58,accidentes
+2025,3,Panama,2311,accidentes
+2025,3,Panama Oeste,635,accidentes
+2025,3,Veraguas,158,accidentes
+2025,3,Guna Yala,1,accidentes
+2025,3,Ngabe Bugle,12,accidentes
+2025,4,Bocas del Toro,44,accidentes
+2025,4,Cocle,126,accidentes
+2025,4,Colon,195,accidentes
+2025,4,Chiriqui,376,accidentes
+2025,4,Darien,17,accidentes
+2025,4,Herrera,88,accidentes
+2025,4,Los Santos,73,accidentes
+2025,4,Panama,2414,accidentes
+2025,4,Panama Oeste,646,accidentes
+2025,4,Veraguas,157,accidentes
+2025,4,Guna Yala,0,accidentes
+2025,4,Ngabe Bugle,11,accidentes
+2025,5,Bocas del Toro,23,accidentes
+2025,5,Cocle,121,accidentes
+2025,5,Colon,207,accidentes
+2025,5,Chiriqui,396,accidentes
+2025,5,Darien,17,accidentes
+2025,5,Herrera,97,accidentes
+2025,5,Los Santos,50,accidentes
+2025,5,Panama,2498,accidentes
+2025,5,Panama Oeste,708,accidentes
+2025,5,Veraguas,167,accidentes
+2025,5,Guna Yala,0,accidentes
+2025,5,Ngabe Bugle,4,accidentes
+2025,6,Bocas del Toro,16,accidentes
+2025,6,Cocle,132,accidentes
+2025,6,Colon,214,accidentes
+2025,6,Chiriqui,368,accidentes
+2025,6,Darien,13,accidentes
+2025,6,Herrera,124,accidentes
+2025,6,Los Santos,51,accidentes
+2025,6,Panama,2478,accidentes
+2025,6,Panama Oeste,705,accidentes
+2025,6,Veraguas,175,accidentes
+2025,6,Guna Yala,0,accidentes
+2025,6,Ngabe Bugle,7,accidentes
+2025,7,Bocas del Toro,43,accidentes
+2025,7,Cocle,134,accidentes
+2025,7,Colon,276,accidentes
+2025,7,Chiriqui,405,accidentes
+2025,7,Darien,17,accidentes
+2025,7,Herrera,87,accidentes
+2025,7,Los Santos,69,accidentes
+2025,7,Panama,2652,accidentes
+2025,7,Panama Oeste,654,accidentes
+2025,7,Veraguas,174,accidentes
+2025,7,Guna Yala,0,accidentes
+2025,7,Ngabe Bugle,9,accidentes
+2025,8,Bocas del Toro,51,accidentes
+2025,8,Cocle,139,accidentes
+2025,8,Colon,276,accidentes
+2025,8,Chiriqui,481,accidentes
+2025,8,Darien,22,accidentes
+2025,8,Herrera,135,accidentes
+2025,8,Los Santos,56,accidentes
+2025,8,Panama,2783,accidentes
+2025,8,Panama Oeste,686,accidentes
+2025,8,Veraguas,173,accidentes
+2025,8,Guna Yala,0,accidentes
+2025,8,Ngabe Bugle,9,accidentes
+2025,9,Bocas del Toro,47,accidentes
+2025,9,Cocle,146,accidentes
+2025,9,Colon,226,accidentes
+2025,9,Chiriqui,425,accidentes
+2025,9,Darien,19,accidentes
+2025,9,Herrera,97,accidentes
+2025,9,Los Santos,69,accidentes
+2025,9,Panama,2783,accidentes
+2025,9,Panama Oeste,676,accidentes
+2025,9,Veraguas,192,accidentes
+2025,9,Guna Yala,0,accidentes
+2025,9,Ngabe Bugle,8,accidentes
+2025,10,Bocas del Toro,47,accidentes
+2025,10,Cocle,130,accidentes
+2025,10,Colon,253,accidentes
+2025,10,Chiriqui,472,accidentes
+2025,10,Darien,16,accidentes
+2025,10,Herrera,107,accidentes
+2025,10,Los Santos,69,accidentes
+2025,10,Panama,3040,accidentes
+2025,10,Panama Oeste,714,accidentes
+2025,10,Veraguas,192,accidentes
+2025,10,Guna Yala,0,accidentes
+2025,10,Ngabe Bugle,11,accidentes
+2025,11,Bocas del Toro,46,accidentes
+2025,11,Cocle,149,accidentes
+2025,11,Colon,253,accidentes
+2025,11,Chiriqui,423,accidentes
+2025,11,Darien,12,accidentes
+2025,11,Herrera,94,accidentes
+2025,11,Los Santos,61,accidentes
+2025,11,Panama,2591,accidentes
+2025,11,Panama Oeste,650,accidentes
+2025,11,Veraguas,170,accidentes
+2025,11,Guna Yala,0,accidentes
+2025,11,Ngabe Bugle,4,accidentes
+2025,12,Bocas del Toro,54,accidentes
+2025,12,Cocle,173,accidentes
+2025,12,Colon,299,accidentes
+2025,12,Chiriqui,494,accidentes
+2025,12,Darien,11,accidentes
+2025,12,Herrera,132,accidentes
+2025,12,Los Santos,61,accidentes
+2025,12,Panama,3090,accidentes
+2025,12,Panama Oeste,778,accidentes
+2025,12,Veraguas,200,accidentes
+2025,12,Guna Yala,0,accidentes
+2025,12,Ngabe Bugle,8,accidentes
+2025,1,Bocas del Toro,24,heridos
+2025,1,Cocle,86,heridos
+2025,1,Colon,72,heridos
+2025,1,Chiriqui,176,heridos
+2025,1,Darien,10,heridos
+2025,1,Herrera,56,heridos
+2025,1,Los Santos,28,heridos
+2025,1,Panama,596,heridos
+2025,1,Panama Oeste,223,heridos
+2025,1,Veraguas,70,heridos
+2025,1,Guna Yala,0,heridos
+2025,1,Ngabe Bugle,4,heridos
+2025,2,Bocas del Toro,12,heridos
+2025,2,Cocle,49,heridos
+2025,2,Colon,37,heridos
+2025,2,Chiriqui,122,heridos
+2025,2,Darien,9,heridos
+2025,2,Herrera,36,heridos
+2025,2,Los Santos,24,heridos
+2025,2,Panama,539,heridos
+2025,2,Panama Oeste,235,heridos
+2025,2,Veraguas,91,heridos
+2025,2,Guna Yala,8,heridos
+2025,2,Ngabe Bugle,4,heridos
+2025,3,Bocas del Toro,29,heridos
+2025,3,Cocle,96,heridos
+2025,3,Colon,76,heridos
+2025,3,Chiriqui,149,heridos
+2025,3,Darien,4,heridos
+2025,3,Herrera,50,heridos
+2025,3,Los Santos,23,heridos
+2025,3,Panama,691,heridos
+2025,3,Panama Oeste,250,heridos
+2025,3,Veraguas,95,heridos
+2025,3,Guna Yala,2,heridos
+2025,3,Ngabe Bugle,39,heridos
+2025,4,Bocas del Toro,17,heridos
+2025,4,Cocle,56,heridos
+2025,4,Colon,63,heridos
+2025,4,Chiriqui,182,heridos
+2025,4,Darien,4,heridos
+2025,4,Herrera,54,heridos
+2025,4,Los Santos,33,heridos
+2025,4,Panama,660,heridos
+2025,4,Panama Oeste,228,heridos
+2025,4,Veraguas,85,heridos
+2025,4,Guna Yala,0,heridos
+2025,4,Ngabe Bugle,6,heridos
+2025,5,Bocas del Toro,13,heridos
+2025,5,Cocle,53,heridos
+2025,5,Colon,62,heridos
+2025,5,Chiriqui,181,heridos
+2025,5,Darien,3,heridos
+2025,5,Herrera,27,heridos
+2025,5,Los Santos,15,heridos
+2025,5,Panama,612,heridos
+2025,5,Panama Oeste,262,heridos
+2025,5,Veraguas,88,heridos
+2025,5,Guna Yala,0,heridos
+2025,5,Ngabe Bugle,2,heridos
+2025,6,Bocas del Toro,7,heridos
+2025,6,Cocle,76,heridos
+2025,6,Colon,55,heridos
+2025,6,Chiriqui,188,heridos
+2025,6,Darien,12,heridos
+2025,6,Herrera,38,heridos
+2025,6,Los Santos,38,heridos
+2025,6,Panama,676,heridos
+2025,6,Panama Oeste,243,heridos
+2025,6,Veraguas,83,heridos
+2025,6,Guna Yala,0,heridos
+2025,6,Ngabe Bugle,10,heridos
+2025,7,Bocas del Toro,24,heridos
+2025,7,Cocle,102,heridos
+2025,7,Colon,60,heridos
+2025,7,Chiriqui,189,heridos
+2025,7,Darien,14,heridos
+2025,7,Herrera,36,heridos
+2025,7,Los Santos,45,heridos
+2025,7,Panama,632,heridos
+2025,7,Panama Oeste,250,heridos
+2025,7,Veraguas,91,heridos
+2025,7,Guna Yala,0,heridos
+2025,7,Ngabe Bugle,14,heridos
+2025,8,Bocas del Toro,27,heridos
+2025,8,Cocle,85,heridos
+2025,8,Colon,72,heridos
+2025,8,Chiriqui,240,heridos
+2025,8,Darien,11,heridos
+2025,8,Herrera,50,heridos
+2025,8,Los Santos,24,heridos
+2025,8,Panama,717,heridos
+2025,8,Panama Oeste,280,heridos
+2025,8,Veraguas,76,heridos
+2025,8,Guna Yala,0,heridos
+2025,8,Ngabe Bugle,7,heridos
+2025,9,Bocas del Toro,30,heridos
+2025,9,Cocle,85,heridos
+2025,9,Colon,47,heridos
+2025,9,Chiriqui,235,heridos
+2025,9,Darien,9,heridos
+2025,9,Herrera,44,heridos
+2025,9,Los Santos,37,heridos
+2025,9,Panama,655,heridos
+2025,9,Panama Oeste,268,heridos
+2025,9,Veraguas,87,heridos
+2025,9,Guna Yala,0,heridos
+2025,9,Ngabe Bugle,10,heridos
+2025,10,Bocas del Toro,25,heridos
+2025,10,Cocle,49,heridos
+2025,10,Colon,47,heridos
+2025,10,Chiriqui,209,heridos
+2025,10,Darien,13,heridos
+2025,10,Herrera,52,heridos
+2025,10,Los Santos,40,heridos
+2025,10,Panama,795,heridos
+2025,10,Panama Oeste,294,heridos
+2025,10,Veraguas,98,heridos
+2025,10,Guna Yala,0,heridos
+2025,10,Ngabe Bugle,16,heridos
+2025,11,Bocas del Toro,34,heridos
+2025,11,Cocle,94,heridos
+2025,11,Colon,69,heridos
+2025,11,Chiriqui,185,heridos
+2025,11,Darien,2,heridos
+2025,11,Herrera,49,heridos
+2025,11,Los Santos,23,heridos
+2025,11,Panama,547,heridos
+2025,11,Panama Oeste,306,heridos
+2025,11,Veraguas,90,heridos
+2025,11,Guna Yala,0,heridos
+2025,11,Ngabe Bugle,2,heridos
+2025,12,Bocas del Toro,31,heridos
+2025,12,Cocle,103,heridos
+2025,12,Colon,55,heridos
+2025,12,Chiriqui,204,heridos
+2025,12,Darien,5,heridos
+2025,12,Herrera,56,heridos
+2025,12,Los Santos,37,heridos
+2025,12,Panama,787,heridos
+2025,12,Panama Oeste,299,heridos
+2025,12,Veraguas,86,heridos
+2025,12,Guna Yala,0,heridos
+2025,12,Ngabe Bugle,3,heridos
+2025,1,Bocas del Toro,2,muertos
+2025,1,Cocle,3,muertos
+2025,1,Colon,3,muertos
+2025,1,Chiriqui,8,muertos
+2025,1,Darien,1,muertos
+2025,1,Herrera,1,muertos
+2025,1,Los Santos,0,muertos
+2025,1,Panama,5,muertos
+2025,1,Panama Oeste,7,muertos
+2025,1,Veraguas,1,muertos
+2025,1,Guna Yala,0,muertos
+2025,1,Ngabe Bugle,1,muertos
+2025,2,Bocas del Toro,2,muertos
+2025,2,Cocle,7,muertos
+2025,2,Colon,3,muertos
+2025,2,Chiriqui,4,muertos
+2025,2,Darien,1,muertos
+2025,2,Herrera,0,muertos
+2025,2,Los Santos,0,muertos
+2025,2,Panama,6,muertos
+2025,2,Panama Oeste,3,muertos
+2025,2,Veraguas,3,muertos
+2025,2,Guna Yala,0,muertos
+2025,2,Ngabe Bugle,1,muertos
+2025,3,Bocas del Toro,1,muertos
+2025,3,Cocle,1,muertos
+2025,3,Colon,10,muertos
+2025,3,Chiriqui,6,muertos
+2025,3,Darien,2,muertos
+2025,3,Herrera,0,muertos
+2025,3,Los Santos,1,muertos
+2025,3,Panama,5,muertos
+2025,3,Panama Oeste,6,muertos
+2025,3,Veraguas,2,muertos
+2025,3,Guna Yala,0,muertos
+2025,3,Ngabe Bugle,1,muertos
+2025,4,Bocas del Toro,0,muertos
+2025,4,Cocle,1,muertos
+2025,4,Colon,0,muertos
+2025,4,Chiriqui,1,muertos
+2025,4,Darien,1,muertos
+2025,4,Herrera,1,muertos
+2025,4,Los Santos,1,muertos
+2025,4,Panama,7,muertos
+2025,4,Panama Oeste,4,muertos
+2025,4,Veraguas,5,muertos
+2025,4,Guna Yala,0,muertos
+2025,4,Ngabe Bugle,1,muertos
+2025,5,Bocas del Toro,1,muertos
+2025,5,Cocle,3,muertos
+2025,5,Colon,1,muertos
+2025,5,Chiriqui,2,muertos
+2025,5,Darien,1,muertos
+2025,5,Herrera,0,muertos
+2025,5,Los Santos,0,muertos
+2025,5,Panama,9,muertos
+2025,5,Panama Oeste,6,muertos
+2025,5,Veraguas,3,muertos
+2025,5,Guna Yala,0,muertos
+2025,5,Ngabe Bugle,1,muertos
+2025,6,Bocas del Toro,1,muertos
+2025,6,Cocle,1,muertos
+2025,6,Colon,3,muertos
+2025,6,Chiriqui,2,muertos
+2025,6,Darien,0,muertos
+2025,6,Herrera,1,muertos
+2025,6,Los Santos,0,muertos
+2025,6,Panama,10,muertos
+2025,6,Panama Oeste,4,muertos
+2025,6,Veraguas,5,muertos
+2025,6,Guna Yala,0,muertos
+2025,6,Ngabe Bugle,1,muertos
+2025,7,Bocas del Toro,1,muertos
+2025,7,Cocle,2,muertos
+2025,7,Colon,3,muertos
+2025,7,Chiriqui,4,muertos
+2025,7,Darien,1,muertos
+2025,7,Herrera,0,muertos
+2025,7,Los Santos,0,muertos
+2025,7,Panama,7,muertos
+2025,7,Panama Oeste,1,muertos
+2025,7,Veraguas,3,muertos
+2025,7,Guna Yala,0,muertos
+2025,7,Ngabe Bugle,0,muertos
+2025,8,Bocas del Toro,0,muertos
+2025,8,Cocle,1,muertos
+2025,8,Colon,3,muertos
+2025,8,Chiriqui,13,muertos
+2025,8,Darien,1,muertos
+2025,8,Herrera,3,muertos
+2025,8,Los Santos,3,muertos
+2025,8,Panama,7,muertos
+2025,8,Panama Oeste,8,muertos
+2025,8,Veraguas,0,muertos
+2025,8,Guna Yala,0,muertos
+2025,8,Ngabe Bugle,1,muertos
+2025,9,Bocas del Toro,2,muertos
+2025,9,Cocle,2,muertos
+2025,9,Colon,1,muertos
+2025,9,Chiriqui,5,muertos
+2025,9,Darien,1,muertos
+2025,9,Herrera,0,muertos
+2025,9,Los Santos,0,muertos
+2025,9,Panama,5,muertos
+2025,9,Panama Oeste,5,muertos
+2025,9,Veraguas,4,muertos
+2025,9,Guna Yala,0,muertos
+2025,9,Ngabe Bugle,0,muertos
+2025,10,Bocas del Toro,0,muertos
+2025,10,Cocle,3,muertos
+2025,10,Colon,1,muertos
+2025,10,Chiriqui,4,muertos
+2025,10,Darien,0,muertos
+2025,10,Herrera,1,muertos
+2025,10,Los Santos,0,muertos
+2025,10,Panama,14,muertos
+2025,10,Panama Oeste,8,muertos
+2025,10,Veraguas,0,muertos
+2025,10,Guna Yala,0,muertos
+2025,10,Ngabe Bugle,0,muertos
+2025,11,Bocas del Toro,1,muertos
+2025,11,Cocle,3,muertos
+2025,11,Colon,2,muertos
+2025,11,Chiriqui,6,muertos
+2025,11,Darien,0,muertos
+2025,11,Herrera,0,muertos
+2025,11,Los Santos,0,muertos
+2025,11,Panama,7,muertos
+2025,11,Panama Oeste,6,muertos
+2025,11,Veraguas,6,muertos
+2025,11,Guna Yala,0,muertos
+2025,11,Ngabe Bugle,1,muertos
+2025,12,Bocas del Toro,1,muertos
+2025,12,Cocle,2,muertos
+2025,12,Colon,3,muertos
+2025,12,Chiriqui,10,muertos
+2025,12,Darien,0,muertos
+2025,12,Herrera,1,muertos
+2025,12,Los Santos,2,muertos
+2025,12,Panama,11,muertos
+2025,12,Panama Oeste,5,muertos
+2025,12,Veraguas,0,muertos
+2025,12,Guna Yala,0,muertos
+2025,12,Ngabe Bugle,1,muertos

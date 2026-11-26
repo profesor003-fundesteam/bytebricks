@@ -1,0 +1,1201 @@
+anio,mes,provincia,lluvia_mm
+2016,1,Bocas del Toro,57.1
+2016,2,Bocas del Toro,95.4
+2016,3,Bocas del Toro,26.7
+2016,4,Bocas del Toro,88.8
+2016,5,Bocas del Toro,283.2
+2016,6,Bocas del Toro,317.4
+2016,7,Bocas del Toro,264.5
+2016,8,Bocas del Toro,318.6
+2016,9,Bocas del Toro,228.2
+2016,10,Bocas del Toro,315.6
+2016,11,Bocas del Toro,575.9
+2016,12,Bocas del Toro,144.9
+2017,1,Bocas del Toro,100.8
+2017,2,Bocas del Toro,38.7
+2017,3,Bocas del Toro,87.2
+2017,4,Bocas del Toro,105.4
+2017,5,Bocas del Toro,393.7
+2017,6,Bocas del Toro,298.3
+2017,7,Bocas del Toro,384.7
+2017,8,Bocas del Toro,325.0
+2017,9,Bocas del Toro,245.3
+2017,10,Bocas del Toro,439.4
+2017,11,Bocas del Toro,324.7
+2017,12,Bocas del Toro,198.1
+2018,1,Bocas del Toro,330.7
+2018,2,Bocas del Toro,59.5
+2018,3,Bocas del Toro,89.9
+2018,4,Bocas del Toro,161.3
+2018,5,Bocas del Toro,259.3
+2018,6,Bocas del Toro,339.4
+2018,7,Bocas del Toro,478.0
+2018,8,Bocas del Toro,214.7
+2018,9,Bocas del Toro,373.3
+2018,10,Bocas del Toro,425.3
+2018,11,Bocas del Toro,230.7
+2018,12,Bocas del Toro,53.3
+2019,1,Bocas del Toro,16.4
+2019,2,Bocas del Toro,28.8
+2019,3,Bocas del Toro,108.9
+2019,4,Bocas del Toro,140.1
+2019,5,Bocas del Toro,433.4
+2019,6,Bocas del Toro,308.7
+2019,7,Bocas del Toro,248.5
+2019,8,Bocas del Toro,246.8
+2019,9,Bocas del Toro,265.2
+2019,10,Bocas del Toro,407.2
+2019,11,Bocas del Toro,293.6
+2019,12,Bocas del Toro,177.6
+2020,1,Bocas del Toro,132.5
+2020,2,Bocas del Toro,45.1
+2020,3,Bocas del Toro,26.4
+2020,4,Bocas del Toro,197.3
+2020,5,Bocas del Toro,262.2
+2020,6,Bocas del Toro,404.6
+2020,7,Bocas del Toro,261.1
+2020,8,Bocas del Toro,324.4
+2020,9,Bocas del Toro,381.9
+2020,10,Bocas del Toro,470.7
+2020,11,Bocas del Toro,670.8
+2020,12,Bocas del Toro,297.2
+2021,1,Bocas del Toro,104.8
+2021,2,Bocas del Toro,77.2
+2021,3,Bocas del Toro,144.4
+2021,4,Bocas del Toro,238.3
+2021,5,Bocas del Toro,385.5
+2021,6,Bocas del Toro,274.0
+2021,7,Bocas del Toro,358.9
+2021,8,Bocas del Toro,388.2
+2021,9,Bocas del Toro,249.6
+2021,10,Bocas del Toro,324.5
+2021,11,Bocas del Toro,209.0
+2021,12,Bocas del Toro,154.6
+2022,1,Bocas del Toro,31.5
+2022,2,Bocas del Toro,33.2
+2022,3,Bocas del Toro,78.8
+2022,4,Bocas del Toro,313.8
+2022,5,Bocas del Toro,307.7
+2022,6,Bocas del Toro,493.0
+2022,7,Bocas del Toro,347.2
+2022,8,Bocas del Toro,469.9
+2022,9,Bocas del Toro,466.8
+2022,10,Bocas del Toro,341.0
+2022,11,Bocas del Toro,473.4
+2022,12,Bocas del Toro,91.2
+2023,1,Bocas del Toro,87.7
+2023,2,Bocas del Toro,60.4
+2023,3,Bocas del Toro,91.2
+2023,4,Bocas del Toro,85.6
+2023,5,Bocas del Toro,146.4
+2023,6,Bocas del Toro,316.1
+2023,7,Bocas del Toro,355.9
+2023,8,Bocas del Toro,219.9
+2023,9,Bocas del Toro,206.4
+2023,10,Bocas del Toro,568.0
+2023,11,Bocas del Toro,396.3
+2023,12,Bocas del Toro,172.7
+2024,1,Bocas del Toro,30.7
+2024,2,Bocas del Toro,79.4
+2024,3,Bocas del Toro,42.2
+2024,4,Bocas del Toro,187.7
+2024,5,Bocas del Toro,252.4
+2024,6,Bocas del Toro,653.3
+2024,7,Bocas del Toro,527.1
+2024,8,Bocas del Toro,305.2
+2024,9,Bocas del Toro,399.6
+2024,10,Bocas del Toro,399.8
+2024,11,Bocas del Toro,850.6
+2024,12,Bocas del Toro,271.8
+2025,1,Bocas del Toro,104.6
+2025,2,Bocas del Toro,103.9
+2025,3,Bocas del Toro,108.9
+2025,4,Bocas del Toro,169.2
+2025,5,Bocas del Toro,430.0
+2025,6,Bocas del Toro,401.1
+2025,7,Bocas del Toro,366.2
+2025,8,Bocas del Toro,235.3
+2025,9,Bocas del Toro,241.5
+2025,10,Bocas del Toro,379.4
+2025,11,Bocas del Toro,278.6
+2025,12,Bocas del Toro,145.1
+2016,1,Cocle,10.6
+2016,2,Cocle,7.0
+2016,3,Cocle,0.9
+2016,4,Cocle,161.1
+2016,5,Cocle,283.3
+2016,6,Cocle,294.5
+2016,7,Cocle,183.2
+2016,8,Cocle,364.7
+2016,9,Cocle,189.1
+2016,10,Cocle,284.9
+2016,11,Cocle,283.4
+2016,12,Cocle,29.8
+2017,1,Cocle,19.3
+2017,2,Cocle,16.0
+2017,3,Cocle,11.6
+2017,4,Cocle,103.3
+2017,5,Cocle,374.2
+2017,6,Cocle,236.8
+2017,7,Cocle,377.7
+2017,8,Cocle,316.8
+2017,9,Cocle,155.5
+2017,10,Cocle,268.2
+2017,11,Cocle,275.6
+2017,12,Cocle,169.9
+2018,1,Cocle,67.7
+2018,2,Cocle,2.2
+2018,3,Cocle,10.8
+2018,4,Cocle,159.4
+2018,5,Cocle,197.3
+2018,6,Cocle,232.3
+2018,7,Cocle,182.1
+2018,8,Cocle,119.6
+2018,9,Cocle,374.0
+2018,10,Cocle,328.8
+2018,11,Cocle,304.3
+2018,12,Cocle,9.9
+2019,1,Cocle,0.7
+2019,2,Cocle,1.3
+2019,3,Cocle,8.0
+2019,4,Cocle,31.8
+2019,5,Cocle,293.8
+2019,6,Cocle,306.3
+2019,7,Cocle,156.3
+2019,8,Cocle,156.0
+2019,9,Cocle,264.7
+2019,10,Cocle,342.9
+2019,11,Cocle,262.7
+2019,12,Cocle,54.4
+2020,1,Cocle,20.3
+2020,2,Cocle,1.9
+2020,3,Cocle,16.6
+2020,4,Cocle,161.2
+2020,5,Cocle,257.8
+2020,6,Cocle,254.3
+2020,7,Cocle,216.5
+2020,8,Cocle,186.9
+2020,9,Cocle,508.0
+2020,10,Cocle,209.0
+2020,11,Cocle,354.9
+2020,12,Cocle,95.8
+2021,1,Cocle,55.8
+2021,2,Cocle,70.9
+2021,3,Cocle,38.4
+2021,4,Cocle,230.8
+2021,5,Cocle,244.3
+2021,6,Cocle,188.1
+2021,7,Cocle,231.8
+2021,8,Cocle,381.8
+2021,9,Cocle,174.0
+2021,10,Cocle,378.6
+2021,11,Cocle,146.0
+2021,12,Cocle,131.1
+2022,1,Cocle,15.1
+2022,2,Cocle,4.0
+2022,3,Cocle,13.2
+2022,4,Cocle,316.0
+2022,5,Cocle,298.9
+2022,6,Cocle,347.3
+2022,7,Cocle,281.1
+2022,8,Cocle,469.9
+2022,9,Cocle,460.3
+2022,10,Cocle,342.8
+2022,11,Cocle,555.8
+2022,12,Cocle,24.0
+2023,1,Cocle,37.1
+2023,2,Cocle,1.9
+2023,3,Cocle,39.8
+2023,4,Cocle,67.2
+2023,5,Cocle,111.2
+2023,6,Cocle,97.3
+2023,7,Cocle,203.2
+2023,8,Cocle,70.6
+2023,9,Cocle,138.9
+2023,10,Cocle,575.4
+2023,11,Cocle,261.9
+2023,12,Cocle,110.2
+2024,1,Cocle,2.7
+2024,2,Cocle,6.9
+2024,3,Cocle,9.3
+2024,4,Cocle,139.7
+2024,5,Cocle,218.6
+2024,6,Cocle,409.4
+2024,7,Cocle,570.5
+2024,8,Cocle,295.2
+2024,9,Cocle,362.7
+2024,10,Cocle,345.8
+2024,11,Cocle,456.7
+2024,12,Cocle,201.0
+2025,1,Cocle,21.8
+2025,2,Cocle,129.1
+2025,3,Cocle,26.4
+2025,4,Cocle,68.7
+2025,5,Cocle,511.7
+2025,6,Cocle,254.7
+2025,7,Cocle,243.5
+2025,8,Cocle,267.8
+2025,9,Cocle,182.4
+2025,10,Cocle,362.0
+2025,11,Cocle,234.9
+2025,12,Cocle,138.4
+2016,1,Colon,13.7
+2016,2,Colon,7.5
+2016,3,Colon,6.2
+2016,4,Colon,144.9
+2016,5,Colon,259.3
+2016,6,Colon,278.9
+2016,7,Colon,256.8
+2016,8,Colon,332.0
+2016,9,Colon,217.8
+2016,10,Colon,248.7
+2016,11,Colon,337.5
+2016,12,Colon,85.9
+2017,1,Colon,26.6
+2017,2,Colon,14.5
+2017,3,Colon,67.6
+2017,4,Colon,96.9
+2017,5,Colon,353.2
+2017,6,Colon,261.9
+2017,7,Colon,348.6
+2017,8,Colon,303.4
+2017,9,Colon,170.8
+2017,10,Colon,248.5
+2017,11,Colon,267.2
+2017,12,Colon,149.9
+2018,1,Colon,121.1
+2018,2,Colon,7.2
+2018,3,Colon,13.7
+2018,4,Colon,136.4
+2018,5,Colon,193.3
+2018,6,Colon,258.7
+2018,7,Colon,208.7
+2018,8,Colon,136.6
+2018,9,Colon,347.8
+2018,10,Colon,362.5
+2018,11,Colon,275.4
+2018,12,Colon,31.6
+2019,1,Colon,7.8
+2019,2,Colon,5.8
+2019,3,Colon,14.2
+2019,4,Colon,113.7
+2019,5,Colon,270.2
+2019,6,Colon,296.6
+2019,7,Colon,186.0
+2019,8,Colon,201.6
+2019,9,Colon,239.4
+2019,10,Colon,321.0
+2019,11,Colon,280.8
+2019,12,Colon,91.1
+2020,1,Colon,29.3
+2020,2,Colon,10.7
+2020,3,Colon,31.0
+2020,4,Colon,124.2
+2020,5,Colon,269.4
+2020,6,Colon,294.7
+2020,7,Colon,210.3
+2020,8,Colon,218.7
+2020,9,Colon,401.7
+2020,10,Colon,200.4
+2020,11,Colon,389.6
+2020,12,Colon,104.4
+2021,1,Colon,59.0
+2021,2,Colon,65.1
+2021,3,Colon,43.7
+2021,4,Colon,191.3
+2021,5,Colon,234.0
+2021,6,Colon,180.8
+2021,7,Colon,271.5
+2021,8,Colon,423.7
+2021,9,Colon,216.0
+2021,10,Colon,360.2
+2021,11,Colon,173.1
+2021,12,Colon,132.0
+2022,1,Colon,21.5
+2022,2,Colon,16.4
+2022,3,Colon,53.8
+2022,4,Colon,314.0
+2022,5,Colon,338.6
+2022,6,Colon,429.2
+2022,7,Colon,278.5
+2022,8,Colon,463.1
+2022,9,Colon,391.7
+2022,10,Colon,363.6
+2022,11,Colon,496.4
+2022,12,Colon,60.2
+2023,1,Colon,57.8
+2023,2,Colon,5.5
+2023,3,Colon,107.1
+2023,4,Colon,57.2
+2023,5,Colon,184.6
+2023,6,Colon,132.4
+2023,7,Colon,268.0
+2023,8,Colon,134.6
+2023,9,Colon,183.1
+2023,10,Colon,435.8
+2023,11,Colon,265.4
+2023,12,Colon,133.3
+2024,1,Colon,6.0
+2024,2,Colon,13.1
+2024,3,Colon,16.8
+2024,4,Colon,159.4
+2024,5,Colon,211.6
+2024,6,Colon,383.2
+2024,7,Colon,550.8
+2024,8,Colon,258.0
+2024,9,Colon,350.6
+2024,10,Colon,311.8
+2024,11,Colon,417.6
+2024,12,Colon,189.1
+2025,1,Colon,45.6
+2025,2,Colon,108.5
+2025,3,Colon,49.7
+2025,4,Colon,98.6
+2025,5,Colon,456.6
+2025,6,Colon,268.8
+2025,7,Colon,283.5
+2025,8,Colon,286.6
+2025,9,Colon,188.5
+2025,10,Colon,333.5
+2025,11,Colon,215.9
+2025,12,Colon,145.6
+2016,1,Chiriqui,32.9
+2016,2,Chiriqui,45.2
+2016,3,Chiriqui,15.0
+2016,4,Chiriqui,84.9
+2016,5,Chiriqui,288.9
+2016,6,Chiriqui,255.0
+2016,7,Chiriqui,228.9
+2016,8,Chiriqui,311.2
+2016,9,Chiriqui,241.9
+2016,10,Chiriqui,287.2
+2016,11,Chiriqui,584.5
+2016,12,Chiriqui,129.2
+2017,1,Chiriqui,55.4
+2017,2,Chiriqui,19.1
+2017,3,Chiriqui,59.3
+2017,4,Chiriqui,79.8
+2017,5,Chiriqui,397.3
+2017,6,Chiriqui,223.1
+2017,7,Chiriqui,342.2
+2017,8,Chiriqui,336.0
+2017,9,Chiriqui,159.0
+2017,10,Chiriqui,371.1
+2017,11,Chiriqui,334.9
+2017,12,Chiriqui,125.3
+2018,1,Chiriqui,247.9
+2018,2,Chiriqui,33.9
+2018,3,Chiriqui,58.9
+2018,4,Chiriqui,142.6
+2018,5,Chiriqui,225.7
+2018,6,Chiriqui,308.6
+2018,7,Chiriqui,513.5
+2018,8,Chiriqui,194.8
+2018,9,Chiriqui,341.7
+2018,10,Chiriqui,347.7
+2018,11,Chiriqui,192.6
+2018,12,Chiriqui,45.4
+2019,1,Chiriqui,9.8
+2019,2,Chiriqui,20.2
+2019,3,Chiriqui,59.6
+2019,4,Chiriqui,123.8
+2019,5,Chiriqui,346.6
+2019,6,Chiriqui,260.2
+2019,7,Chiriqui,283.3
+2019,8,Chiriqui,220.9
+2019,9,Chiriqui,263.5
+2019,10,Chiriqui,341.1
+2019,11,Chiriqui,228.3
+2019,12,Chiriqui,141.6
+2020,1,Chiriqui,110.8
+2020,2,Chiriqui,28.2
+2020,3,Chiriqui,17.7
+2020,4,Chiriqui,220.0
+2020,5,Chiriqui,239.4
+2020,6,Chiriqui,293.9
+2020,7,Chiriqui,269.7
+2020,8,Chiriqui,342.8
+2020,9,Chiriqui,341.7
+2020,10,Chiriqui,344.5
+2020,11,Chiriqui,474.3
+2020,12,Chiriqui,243.9
+2021,1,Chiriqui,56.1
+2021,2,Chiriqui,54.4
+2021,3,Chiriqui,82.4
+2021,4,Chiriqui,207.9
+2021,5,Chiriqui,382.6
+2021,6,Chiriqui,311.4
+2021,7,Chiriqui,315.1
+2021,8,Chiriqui,388.7
+2021,9,Chiriqui,319.8
+2021,10,Chiriqui,338.2
+2021,11,Chiriqui,221.7
+2021,12,Chiriqui,110.8
+2022,1,Chiriqui,15.7
+2022,2,Chiriqui,21.7
+2022,3,Chiriqui,54.1
+2022,4,Chiriqui,340.4
+2022,5,Chiriqui,290.7
+2022,6,Chiriqui,345.7
+2022,7,Chiriqui,333.9
+2022,8,Chiriqui,413.7
+2022,9,Chiriqui,349.6
+2022,10,Chiriqui,354.5
+2022,11,Chiriqui,332.5
+2022,12,Chiriqui,72.9
+2023,1,Chiriqui,86.9
+2023,2,Chiriqui,33.0
+2023,3,Chiriqui,101.6
+2023,4,Chiriqui,119.9
+2023,5,Chiriqui,148.8
+2023,6,Chiriqui,319.2
+2023,7,Chiriqui,387.7
+2023,8,Chiriqui,295.2
+2023,9,Chiriqui,269.9
+2023,10,Chiriqui,506.4
+2023,11,Chiriqui,333.9
+2023,12,Chiriqui,123.5
+2024,1,Chiriqui,22.3
+2024,2,Chiriqui,52.3
+2024,3,Chiriqui,38.2
+2024,4,Chiriqui,196.7
+2024,5,Chiriqui,345.7
+2024,6,Chiriqui,549.5
+2024,7,Chiriqui,403.3
+2024,8,Chiriqui,321.9
+2024,9,Chiriqui,289.6
+2024,10,Chiriqui,326.2
+2024,11,Chiriqui,639.0
+2024,12,Chiriqui,189.0
+2025,1,Chiriqui,71.8
+2025,2,Chiriqui,84.6
+2025,3,Chiriqui,157.2
+2025,4,Chiriqui,134.6
+2025,5,Chiriqui,450.3
+2025,6,Chiriqui,330.4
+2025,7,Chiriqui,325.5
+2025,8,Chiriqui,227.8
+2025,9,Chiriqui,265.9
+2025,10,Chiriqui,338.6
+2025,11,Chiriqui,197.2
+2025,12,Chiriqui,139.0
+2016,1,Darien,10.5
+2016,2,Darien,7.9
+2016,3,Darien,28.3
+2016,4,Darien,329.1
+2016,5,Darien,216.9
+2016,6,Darien,218.1
+2016,7,Darien,300.4
+2016,8,Darien,230.6
+2016,9,Darien,322.9
+2016,10,Darien,345.8
+2016,11,Darien,413.6
+2016,12,Darien,346.7
+2017,1,Darien,52.0
+2017,2,Darien,14.3
+2017,3,Darien,368.8
+2017,4,Darien,186.9
+2017,5,Darien,467.7
+2017,6,Darien,399.7
+2017,7,Darien,230.7
+2017,8,Darien,179.1
+2017,9,Darien,394.5
+2017,10,Darien,180.7
+2017,11,Darien,182.2
+2017,12,Darien,208.1
+2018,1,Darien,305.5
+2018,2,Darien,10.7
+2018,3,Darien,22.8
+2018,4,Darien,217.8
+2018,5,Darien,273.3
+2018,6,Darien,364.7
+2018,7,Darien,222.9
+2018,8,Darien,140.5
+2018,9,Darien,516.7
+2018,10,Darien,375.4
+2018,11,Darien,386.7
+2018,12,Darien,141.3
+2019,1,Darien,20.6
+2019,2,Darien,13.3
+2019,3,Darien,48.5
+2019,4,Darien,438.1
+2019,5,Darien,480.2
+2019,6,Darien,241.5
+2019,7,Darien,309.4
+2019,8,Darien,285.5
+2019,9,Darien,232.6
+2019,10,Darien,290.6
+2019,11,Darien,318.4
+2019,12,Darien,230.8
+2020,1,Darien,73.5
+2020,2,Darien,31.6
+2020,3,Darien,74.5
+2020,4,Darien,138.3
+2020,5,Darien,307.6
+2020,6,Darien,238.1
+2020,7,Darien,254.5
+2020,8,Darien,267.4
+2020,9,Darien,401.1
+2020,10,Darien,204.6
+2020,11,Darien,297.7
+2020,12,Darien,83.6
+2021,1,Darien,55.4
+2021,2,Darien,43.1
+2021,3,Darien,33.7
+2021,4,Darien,130.0
+2021,5,Darien,219.9
+2021,6,Darien,161.1
+2021,7,Darien,199.0
+2021,8,Darien,326.9
+2021,9,Darien,165.7
+2021,10,Darien,363.0
+2021,11,Darien,207.6
+2021,12,Darien,236.0
+2022,1,Darien,60.1
+2022,2,Darien,86.9
+2022,3,Darien,211.5
+2022,4,Darien,677.7
+2022,5,Darien,493.7
+2022,6,Darien,358.2
+2022,7,Darien,442.9
+2022,8,Darien,290.0
+2022,9,Darien,303.8
+2022,10,Darien,605.4
+2022,11,Darien,351.8
+2022,12,Darien,247.6
+2023,1,Darien,279.7
+2023,2,Darien,6.8
+2023,3,Darien,775.6
+2023,4,Darien,148.7
+2023,5,Darien,295.0
+2023,6,Darien,244.8
+2023,7,Darien,313.3
+2023,8,Darien,247.9
+2023,9,Darien,346.2
+2023,10,Darien,163.0
+2023,11,Darien,219.4
+2023,12,Darien,183.4
+2024,1,Darien,16.0
+2024,2,Darien,19.5
+2024,3,Darien,97.6
+2024,4,Darien,317.8
+2024,5,Darien,459.4
+2024,6,Darien,346.0
+2024,7,Darien,274.0
+2024,8,Darien,280.9
+2024,9,Darien,279.5
+2024,10,Darien,316.4
+2024,11,Darien,170.3
+2024,12,Darien,163.9
+2025,1,Darien,64.4
+2025,2,Darien,324.8
+2025,3,Darien,181.9
+2025,4,Darien,324.9
+2025,5,Darien,283.4
+2025,6,Darien,450.3
+2025,7,Darien,276.3
+2025,8,Darien,380.3
+2025,9,Darien,278.2
+2025,10,Darien,164.9
+2025,11,Darien,165.6
+2025,12,Darien,261.7
+2016,1,Herrera,9.0
+2016,2,Herrera,5.2
+2016,3,Herrera,0.3
+2016,4,Herrera,169.5
+2016,5,Herrera,285.2
+2016,6,Herrera,300.9
+2016,7,Herrera,187.5
+2016,8,Herrera,368.6
+2016,9,Herrera,192.3
+2016,10,Herrera,290.5
+2016,11,Herrera,284.4
+2016,12,Herrera,34.1
+2017,1,Herrera,18.3
+2017,2,Herrera,16.0
+2017,3,Herrera,10.5
+2017,4,Herrera,106.5
+2017,5,Herrera,375.4
+2017,6,Herrera,245.4
+2017,7,Herrera,375.4
+2017,8,Herrera,329.8
+2017,9,Herrera,172.5
+2017,10,Herrera,267.5
+2017,11,Herrera,280.2
+2017,12,Herrera,176.1
+2018,1,Herrera,62.3
+2018,2,Herrera,1.1
+2018,3,Herrera,8.4
+2018,4,Herrera,161.4
+2018,5,Herrera,208.6
+2018,6,Herrera,239.7
+2018,7,Herrera,184.8
+2018,8,Herrera,117.5
+2018,9,Herrera,406.2
+2018,10,Herrera,332.9
+2018,11,Herrera,327.9
+2018,12,Herrera,13.6
+2019,1,Herrera,0.3
+2019,2,Herrera,0.6
+2019,3,Herrera,5.3
+2019,4,Herrera,33.0
+2019,5,Herrera,312.8
+2019,6,Herrera,320.7
+2019,7,Herrera,165.8
+2019,8,Herrera,159.3
+2019,9,Herrera,282.9
+2019,10,Herrera,347.8
+2019,11,Herrera,258.3
+2019,12,Herrera,53.9
+2020,1,Herrera,16.1
+2020,2,Herrera,1.2
+2020,3,Herrera,15.8
+2020,4,Herrera,155.4
+2020,5,Herrera,262.0
+2020,6,Herrera,251.7
+2020,7,Herrera,234.0
+2020,8,Herrera,185.1
+2020,9,Herrera,532.8
+2020,10,Herrera,214.2
+2020,11,Herrera,369.3
+2020,12,Herrera,85.9
+2021,1,Herrera,52.7
+2021,2,Herrera,70.6
+2021,3,Herrera,33.5
+2021,4,Herrera,230.4
+2021,5,Herrera,248.6
+2021,6,Herrera,213.3
+2021,7,Herrera,203.0
+2021,8,Herrera,381.6
+2021,9,Herrera,173.4
+2021,10,Herrera,383.2
+2021,11,Herrera,152.4
+2021,12,Herrera,145.4
+2022,1,Herrera,15.5
+2022,2,Herrera,3.6
+2022,3,Herrera,13.6
+2022,4,Herrera,357.6
+2022,5,Herrera,294.8
+2022,6,Herrera,345.3
+2022,7,Herrera,284.6
+2022,8,Herrera,474.0
+2022,9,Herrera,467.7
+2022,10,Herrera,374.8
+2022,11,Herrera,553.8
+2022,12,Herrera,28.5
+2023,1,Herrera,41.8
+2023,2,Herrera,0.6
+2023,3,Herrera,42.5
+2023,4,Herrera,73.8
+2023,5,Herrera,115.9
+2023,6,Herrera,93.9
+2023,7,Herrera,192.2
+2023,8,Herrera,78.4
+2023,9,Herrera,137.7
+2023,10,Herrera,582.8
+2023,11,Herrera,264.9
+2023,12,Herrera,103.5
+2024,1,Herrera,1.9
+2024,2,Herrera,5.5
+2024,3,Herrera,9.3
+2024,4,Herrera,152.7
+2024,5,Herrera,248.9
+2024,6,Herrera,465.6
+2024,7,Herrera,570.7
+2024,8,Herrera,309.7
+2024,9,Herrera,374.1
+2024,10,Herrera,368.3
+2024,11,Herrera,446.7
+2024,12,Herrera,196.8
+2025,1,Herrera,23.9
+2025,2,Herrera,129.1
+2025,3,Herrera,20.8
+2025,4,Herrera,71.1
+2025,5,Herrera,502.8
+2025,6,Herrera,278.1
+2025,7,Herrera,235.6
+2025,8,Herrera,279.6
+2025,9,Herrera,188.4
+2025,10,Herrera,363.0
+2025,11,Herrera,234.9
+2025,12,Herrera,152.2
+2016,1,Los Santos,9.8
+2016,2,Los Santos,2.5
+2016,3,Los Santos,0.8
+2016,4,Los Santos,192.2
+2016,5,Los Santos,366.0
+2016,6,Los Santos,365.2
+2016,7,Los Santos,324.3
+2016,8,Los Santos,408.4
+2016,9,Los Santos,279.4
+2016,10,Los Santos,341.3
+2016,11,Los Santos,413.6
+2016,12,Los Santos,131.1
+2017,1,Los Santos,28.2
+2017,2,Los Santos,9.5
+2017,3,Los Santos,15.8
+2017,4,Los Santos,107.7
+2017,5,Los Santos,434.8
+2017,6,Los Santos,345.2
+2017,7,Los Santos,437.7
+2017,8,Los Santos,438.6
+2017,9,Los Santos,284.2
+2017,10,Los Santos,288.9
+2017,11,Los Santos,338.2
+2017,12,Los Santos,221.2
+2018,1,Los Santos,110.5
+2018,2,Los Santos,1.5
+2018,3,Los Santos,8.8
+2018,4,Los Santos,160.2
+2018,5,Los Santos,314.0
+2018,6,Los Santos,374.0
+2018,7,Los Santos,316.7
+2018,8,Los Santos,155.8
+2018,9,Los Santos,560.4
+2018,10,Los Santos,392.2
+2018,11,Los Santos,455.1
+2018,12,Los Santos,49.9
+2019,1,Los Santos,0.9
+2019,2,Los Santos,1.0
+2019,3,Los Santos,5.9
+2019,4,Los Santos,68.8
+2019,5,Los Santos,457.4
+2019,6,Los Santos,437.8
+2019,7,Los Santos,315.9
+2019,8,Los Santos,241.0
+2019,9,Los Santos,389.7
+2019,10,Los Santos,453.7
+2019,11,Los Santos,300.4
+2019,12,Los Santos,113.0
+2020,1,Los Santos,18.1
+2020,2,Los Santos,2.5
+2020,3,Los Santos,11.3
+2020,4,Los Santos,152.1
+2020,5,Los Santos,273.0
+2020,6,Los Santos,297.0
+2020,7,Los Santos,434.0
+2020,8,Los Santos,261.6
+2020,9,Los Santos,632.0
+2020,10,Los Santos,264.9
+2020,11,Los Santos,435.6
+2020,12,Los Santos,100.4
+2021,1,Los Santos,47.6
+2021,2,Los Santos,44.1
+2021,3,Los Santos,22.0
+2021,4,Los Santos,214.4
+2021,5,Los Santos,302.2
+2021,6,Los Santos,383.4
+2021,7,Los Santos,261.2
+2021,8,Los Santos,476.6
+2021,9,Los Santos,223.5
+2021,10,Los Santos,449.5
+2021,11,Los Santos,227.1
+2021,12,Los Santos,284.6
+2022,1,Los Santos,26.2
+2022,2,Los Santos,8.3
+2022,3,Los Santos,25.0
+2022,4,Los Santos,621.8
+2022,5,Los Santos,355.4
+2022,6,Los Santos,455.2
+2022,7,Los Santos,391.7
+2022,8,Los Santos,562.0
+2022,9,Los Santos,491.7
+2022,10,Los Santos,601.4
+2022,11,Los Santos,486.9
+2022,12,Los Santos,97.0
+2023,1,Los Santos,106.5
+2023,2,Los Santos,1.4
+2023,3,Los Santos,124.9
+2023,4,Los Santos,96.9
+2023,5,Los Santos,183.2
+2023,6,Los Santos,156.9
+2023,7,Los Santos,276.2
+2023,8,Los Santos,227.4
+2023,9,Los Santos,209.4
+2023,10,Los Santos,577.7
+2023,11,Los Santos,344.8
+2023,12,Los Santos,151.9
+2024,1,Los Santos,6.8
+2024,2,Los Santos,7.0
+2024,3,Los Santos,17.5
+2024,4,Los Santos,273.5
+2024,5,Los Santos,481.7
+2024,6,Los Santos,575.1
+2024,7,Los Santos,556.9
+2024,8,Los Santos,403.9
+2024,9,Los Santos,407.1
+2024,10,Los Santos,538.9
+2024,11,Los Santos,501.3
+2024,12,Los Santos,229.6
+2025,1,Los Santos,64.6
+2025,2,Los Santos,114.8
+2025,3,Los Santos,38.0
+2025,4,Los Santos,133.0
+2025,5,Los Santos,471.8
+2025,6,Los Santos,454.6
+2025,7,Los Santos,327.2
+2025,8,Los Santos,380.8
+2025,9,Los Santos,283.0
+2025,10,Los Santos,391.2
+2025,11,Los Santos,245.0
+2025,12,Los Santos,246.8
+2016,1,Panama,8.7
+2016,2,Panama,2.9
+2016,3,Panama,10.6
+2016,4,Panama,206.9
+2016,5,Panama,266.2
+2016,6,Panama,274.9
+2016,7,Panama,255.5
+2016,8,Panama,307.7
+2016,9,Panama,243.7
+2016,10,Panama,322.3
+2016,11,Panama,331.2
+2016,12,Panama,154.8
+2017,1,Panama,26.8
+2017,2,Panama,13.1
+2017,3,Panama,120.0
+2017,4,Panama,129.1
+2017,5,Panama,388.7
+2017,6,Panama,319.1
+2017,7,Panama,319.7
+2017,8,Panama,272.7
+2017,9,Panama,264.3
+2017,10,Panama,189.7
+2017,11,Panama,230.1
+2017,12,Panama,181.6
+2018,1,Panama,130.8
+2018,2,Panama,3.9
+2018,3,Panama,11.1
+2018,4,Panama,152.1
+2018,5,Panama,226.9
+2018,6,Panama,316.8
+2018,7,Panama,197.5
+2018,8,Panama,127.6
+2018,9,Panama,434.3
+2018,10,Panama,358.3
+2018,11,Panama,345.2
+2018,12,Panama,57.6
+2019,1,Panama,7.1
+2019,2,Panama,4.3
+2019,3,Panama,20.9
+2019,4,Panama,161.8
+2019,5,Panama,357.2
+2019,6,Panama,298.1
+2019,7,Panama,218.6
+2019,8,Panama,210.1
+2019,9,Panama,253.2
+2019,10,Panama,321.4
+2019,11,Panama,313.2
+2019,12,Panama,124.0
+2020,1,Panama,29.9
+2020,2,Panama,12.1
+2020,3,Panama,33.1
+2020,4,Panama,129.2
+2020,5,Panama,281.8
+2020,6,Panama,269.3
+2020,7,Panama,220.2
+2020,8,Panama,216.1
+2020,9,Panama,447.2
+2020,10,Panama,200.3
+2020,11,Panama,336.7
+2020,12,Panama,85.0
+2021,1,Panama,54.0
+2021,2,Panama,51.9
+2021,3,Panama,34.5
+2021,4,Panama,164.2
+2021,5,Panama,245.6
+2021,6,Panama,182.1
+2021,7,Panama,212.9
+2021,8,Panama,377.1
+2021,9,Panama,180.0
+2021,10,Panama,379.1
+2021,11,Panama,179.4
+2021,12,Panama,158.9
+2022,1,Panama,30.4
+2022,2,Panama,31.6
+2022,3,Panama,81.8
+2022,4,Panama,405.1
+2022,5,Panama,382.4
+2022,6,Panama,370.9
+2022,7,Panama,312.8
+2022,8,Panama,444.4
+2022,9,Panama,390.1
+2022,10,Panama,436.7
+2022,11,Panama,487.6
+2022,12,Panama,97.8
+2023,1,Panama,120.0
+2023,2,Panama,1.9
+2023,3,Panama,227.3
+2023,4,Panama,89.2
+2023,5,Panama,189.6
+2023,6,Panama,146.2
+2023,7,Panama,243.5
+2023,8,Panama,159.8
+2023,9,Panama,214.5
+2023,10,Panama,333.4
+2023,11,Panama,243.7
+2023,12,Panama,135.1
+2024,1,Panama,7.1
+2024,2,Panama,8.7
+2024,3,Panama,36.2
+2024,4,Panama,203.0
+2024,5,Panama,312.3
+2024,6,Panama,349.6
+2024,7,Panama,367.7
+2024,8,Panama,305.9
+2024,9,Panama,365.3
+2024,10,Panama,312.9
+2024,11,Panama,342.4
+2024,12,Panama,168.5
+2025,1,Panama,40.7
+2025,2,Panama,151.4
+2025,3,Panama,70.5
+2025,4,Panama,154.9
+2025,5,Panama,401.2
+2025,6,Panama,334.0
+2025,7,Panama,267.1
+2025,8,Panama,337.3
+2025,9,Panama,221.5
+2025,10,Panama,280.4
+2025,11,Panama,208.7
+2025,12,Panama,209.1
+2016,1,Panama Oeste,9.0
+2016,2,Panama Oeste,4.3
+2016,3,Panama Oeste,2.8
+2016,4,Panama Oeste,152.8
+2016,5,Panama Oeste,264.1
+2016,6,Panama Oeste,289.2
+2016,7,Panama Oeste,202.8
+2016,8,Panama Oeste,341.0
+2016,9,Panama Oeste,196.6
+2016,10,Panama Oeste,285.3
+2016,11,Panama Oeste,278.7
+2016,12,Panama Oeste,52.3
+2017,1,Panama Oeste,19.3
+2017,2,Panama Oeste,14.2
+2017,3,Panama Oeste,34.9
+2017,4,Panama Oeste,106.4
+2017,5,Panama Oeste,345.9
+2017,6,Panama Oeste,249.4
+2017,7,Panama Oeste,346.9
+2017,8,Panama Oeste,299.8
+2017,9,Panama Oeste,182.1
+2017,10,Panama Oeste,217.9
+2017,11,Panama Oeste,253.8
+2017,12,Panama Oeste,157.8
+2018,1,Panama Oeste,74.7
+2018,2,Panama Oeste,2.9
+2018,3,Panama Oeste,9.1
+2018,4,Panama Oeste,138.5
+2018,5,Panama Oeste,190.2
+2018,6,Panama Oeste,245.2
+2018,7,Panama Oeste,172.4
+2018,8,Panama Oeste,120.5
+2018,9,Panama Oeste,375.4
+2018,10,Panama Oeste,332.9
+2018,11,Panama Oeste,300.5
+2018,12,Panama Oeste,17.2
+2019,1,Panama Oeste,2.3
+2019,2,Panama Oeste,1.7
+2019,3,Panama Oeste,9.7
+2019,4,Panama Oeste,58.8
+2019,5,Panama Oeste,286.8
+2019,6,Panama Oeste,302.2
+2019,7,Panama Oeste,157.9
+2019,8,Panama Oeste,167.0
+2019,9,Panama Oeste,251.5
+2019,10,Panama Oeste,327.3
+2019,11,Panama Oeste,291.0
+2019,12,Panama Oeste,70.1
+2020,1,Panama Oeste,18.5
+2020,2,Panama Oeste,4.4
+2020,3,Panama Oeste,20.7
+2020,4,Panama Oeste,141.7
+2020,5,Panama Oeste,281.3
+2020,6,Panama Oeste,270.4
+2020,7,Panama Oeste,188.2
+2020,8,Panama Oeste,184.7
+2020,9,Panama Oeste,458.2
+2020,10,Panama Oeste,197.5
+2020,11,Panama Oeste,339.5
+2020,12,Panama Oeste,88.5
+2021,1,Panama Oeste,54.9
+2021,2,Panama Oeste,60.8
+2021,3,Panama Oeste,38.0
+2021,4,Panama Oeste,189.2
+2021,5,Panama Oeste,239.4
+2021,6,Panama Oeste,175.3
+2021,7,Panama Oeste,220.6
+2021,8,Panama Oeste,384.8
+2021,9,Panama Oeste,181.4
+2021,10,Panama Oeste,368.3
+2021,11,Panama Oeste,156.0
+2021,12,Panama Oeste,126.8
+2022,1,Panama Oeste,17.7
+2022,2,Panama Oeste,10.1
+2022,3,Panama Oeste,29.6
+2022,4,Panama Oeste,294.3
+2022,5,Panama Oeste,325.6
+2022,6,Panama Oeste,355.2
+2022,7,Panama Oeste,277.3
+2022,8,Panama Oeste,456.0
+2022,9,Panama Oeste,422.6
+2022,10,Panama Oeste,350.5
+2022,11,Panama Oeste,539.2
+2022,12,Panama Oeste,36.5
+2023,1,Panama Oeste,46.8
+2023,2,Panama Oeste,1.8
+2023,3,Panama Oeste,64.9
+2023,4,Panama Oeste,65.6
+2023,5,Panama Oeste,134.5
+2023,6,Panama Oeste,97.0
+2023,7,Panama Oeste,201.8
+2023,8,Panama Oeste,88.2
+2023,9,Panama Oeste,150.3
+2023,10,Panama Oeste,450.5
+2023,11,Panama Oeste,250.9
+2023,12,Panama Oeste,106.8
+2024,1,Panama Oeste,3.0
+2024,2,Panama Oeste,7.0
+2024,3,Panama Oeste,13.8
+2024,4,Panama Oeste,141.4
+2024,5,Panama Oeste,219.2
+2024,6,Panama Oeste,346.1
+2024,7,Panama Oeste,484.0
+2024,8,Panama Oeste,287.0
+2024,9,Panama Oeste,371.6
+2024,10,Panama Oeste,297.5
+2024,11,Panama Oeste,422.9
+2024,12,Panama Oeste,172.9
+2025,1,Panama Oeste,25.3
+2025,2,Panama Oeste,109.8
+2025,3,Panama Oeste,38.5
+2025,4,Panama Oeste,84.2
+2025,5,Panama Oeste,460.8
+2025,6,Panama Oeste,257.7
+2025,7,Panama Oeste,241.5
+2025,8,Panama Oeste,281.1
+2025,9,Panama Oeste,177.7
+2025,10,Panama Oeste,325.6
+2025,11,Panama Oeste,222.3
+2025,12,Panama Oeste,148.6
+2016,1,Veraguas,9.7
+2016,2,Veraguas,6.8
+2016,3,Veraguas,1.0
+2016,4,Veraguas,167.5
+2016,5,Veraguas,292.2
+2016,6,Veraguas,298.6
+2016,7,Veraguas,191.5
+2016,8,Veraguas,382.5
+2016,9,Veraguas,208.7
+2016,10,Veraguas,306.7
+2016,11,Veraguas,316.1
+2016,12,Veraguas,41.2
+2017,1,Veraguas,16.3
+2017,2,Veraguas,15.9
+2017,3,Veraguas,14.9
+2017,4,Veraguas,115.8
+2017,5,Veraguas,362.2
+2017,6,Veraguas,235.9
+2017,7,Veraguas,391.0
+2017,8,Veraguas,336.9
+2017,9,Veraguas,174.7
+2017,10,Veraguas,289.6
+2017,11,Veraguas,306.1
+2017,12,Veraguas,164.8
+2018,1,Veraguas,67.2
+2018,2,Veraguas,2.0
+2018,3,Veraguas,10.8
+2018,4,Veraguas,158.3
+2018,5,Veraguas,207.4
+2018,6,Veraguas,233.9
+2018,7,Veraguas,246.7
+2018,8,Veraguas,144.8
+2018,9,Veraguas,381.4
+2018,10,Veraguas,357.7
+2018,11,Veraguas,313.5
+2018,12,Veraguas,10.2
+2019,1,Veraguas,1.0
+2019,2,Veraguas,1.8
+2019,3,Veraguas,6.6
+2019,4,Veraguas,35.0
+2019,5,Veraguas,282.7
+2019,6,Veraguas,310.3
+2019,7,Veraguas,176.2
+2019,8,Veraguas,168.0
+2019,9,Veraguas,278.5
+2019,10,Veraguas,354.0
+2019,11,Veraguas,279.8
+2019,12,Veraguas,61.4
+2020,1,Veraguas,24.1
+2020,2,Veraguas,3.3
+2020,3,Veraguas,15.0
+2020,4,Veraguas,179.7
+2020,5,Veraguas,251.8
+2020,6,Veraguas,263.2
+2020,7,Veraguas,266.7
+2020,8,Veraguas,219.7
+2020,9,Veraguas,522.4
+2020,10,Veraguas,224.6
+2020,11,Veraguas,370.6
+2020,12,Veraguas,114.5
+2021,1,Veraguas,54.0
+2021,2,Veraguas,68.9
+2021,3,Veraguas,33.8
+2021,4,Veraguas,251.3
+2021,5,Veraguas,270.5
+2021,6,Veraguas,213.3
+2021,7,Veraguas,218.4
+2021,8,Veraguas,403.4
+2021,9,Veraguas,203.2
+2021,10,Veraguas,408.9
+2021,11,Veraguas,161.4
+2021,12,Veraguas,127.4
+2022,1,Veraguas,14.2
+2022,2,Veraguas,3.9
+2022,3,Veraguas,12.7
+2022,4,Veraguas,297.8
+2022,5,Veraguas,300.8
+2022,6,Veraguas,343.1
+2022,7,Veraguas,309.2
+2022,8,Veraguas,476.1
+2022,9,Veraguas,485.2
+2022,10,Veraguas,347.4
+2022,11,Veraguas,563.2
+2022,12,Veraguas,26.7
+2023,1,Veraguas,46.2
+2023,2,Veraguas,1.8
+2023,3,Veraguas,46.2
+2023,4,Veraguas,83.7
+2023,5,Veraguas,131.8
+2023,6,Veraguas,144.3
+2023,7,Veraguas,205.5
+2023,8,Veraguas,121.0
+2023,9,Veraguas,166.6
+2023,10,Veraguas,605.3
+2023,11,Veraguas,289.2
+2023,12,Veraguas,112.4
+2024,1,Veraguas,3.9
+2024,2,Veraguas,7.9
+2024,3,Veraguas,10.3
+2024,4,Veraguas,138.9
+2024,5,Veraguas,230.7
+2024,6,Veraguas,481.7
+2024,7,Veraguas,574.2
+2024,8,Veraguas,372.7
+2024,9,Veraguas,372.7
+2024,10,Veraguas,337.1
+2024,11,Veraguas,478.6
+2024,12,Veraguas,198.7
+2025,1,Veraguas,24.7
+2025,2,Veraguas,122.3
+2025,3,Veraguas,31.8
+2025,4,Veraguas,66.4
+2025,5,Veraguas,498.8
+2025,6,Veraguas,270.2
+2025,7,Veraguas,252.0
+2025,8,Veraguas,278.1
+2025,9,Veraguas,212.4
+2025,10,Veraguas,374.8
+2025,11,Veraguas,257.4
+2025,12,Veraguas,140.2
