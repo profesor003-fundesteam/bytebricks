@@ -19,14 +19,13 @@ Como valor agregado con IA, pandas calcula todas las cifras y un modelo de lengu
 
 El resultado final es un dashboard interactivo hecho con Streamlit (`app.py`), no un notebook.
 
-1. Base de accidentes por provincia y año, verificada contra los totales del INEC (hecho).
-2. Dashboard base con filtros, tendencia nacional, provincias y verificación de datos (hecho).
-3. Datos extra con fuente y fecha documentadas.
-4. Limpieza y unión de tablas por provincia y año.
-5. Tasas por habitante y por vehículo, y estadística (correlación, estacionalidad, chi-cuadrado).
-6. Parte de IA integrada al dashboard.
+1. Base de accidentes por provincia y año, verificada contra los totales del INEC (listo).
+2. Dashboard base con filtros, tendencia nacional, provincias y verificación de datos (listo).
+3. Datos extra con fuente y fecha documentadas: accidentes por mes y clase, y lluvia mensual (listo; población y vehículos en curso).
+4. Estadística: estacionalidad, tipo de accidente, chi-cuadrado y correlación con lluvia (listo en `src/estadistica.py`).
+5. Tasas por habitante y por vehículo (en curso).
+6. Parte de IA integrada al dashboard (en curso).
 7. Presentación.
-
 
 ## Estructura
 
@@ -43,14 +42,3 @@ INEC / Contraloría General, con datos del Departamento de Operaciones del Trán
 https://www.inec.gob.pa/archivos/P070554752026081013111101.xlsx.pdf
 
 La suma de las provincias coincide con el total nacional publicado por el INEC en los 10 años. El resto de las fuentes está en `docs/fuentes_datos.md`.
-
-## Cómo correrlo
-
-    python -m venv .venv
-    source .venv/bin/activate
-    pip install -r requirements.txt
-    streamlit run app.py
-
-Pruebas:
-
-    pytest
